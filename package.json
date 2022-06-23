@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +20,8 @@
     "mongoose": "^6.4.0",
     "text-to-ipa": "^1.0.0",
     "transcription-words": "^1.2.1"
-  }
+  }, 
+  "builds": [
+    { "src": "index.js", "use": "@vercel/node" }
+  ]
 }
