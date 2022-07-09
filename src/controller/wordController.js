@@ -92,9 +92,7 @@ const wordFindUzbEng = async (req, res) => {
     try {
         const word = req.params.word;
         const result = await uzb_eng.findOne({
-          word: {
-            $regex: word,
-          },
+          word: word,
         });
         console.log(word);
         res.json({
