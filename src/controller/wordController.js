@@ -77,9 +77,7 @@ const wordFindEngUzb = async (req, res) => {
   try {
     const word = req.params.word;
     const result = await eng_uzb.findOne({
-      word: {
-        $regex: word,
-      },
+      word: word,
     });
     console.log(word);
     res.json({
@@ -108,7 +106,7 @@ const wordFindUzbEng = async (req, res) => {
       }
 };
 
-const wordUpdate = async (req, res) => {
+const wordAutocomp = async (req, res) => {
     try {
         const {desc} = req.body;
     } catch(e) {
