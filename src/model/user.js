@@ -1,13 +1,10 @@
-import mongoose from "../lib/db.js";
-const { Schema, model } = mongoose;
+import pkg from 'mongoose';
+const {Schema, model} = pkg
 
-const userSchema = new Schema({
-  fullName: { type: String, default: null, required: true},
-  username: { type: String, required: true, unique: true, required: true},
-  password: { type: String, required: true, required: true },
-  createdAt: { type: Date, default: Date.now() },
-  updatedAt: { type: Date, default: null },
-  deletedAt: { type: Date, default: null },
-});
+const User = new Schema({
+    username: {type: String, unique: true, require: true},
+    password: {type: String, unique: true, require: true},
+    roles: [{type: String, ref: "Role"}]
+})
 
-export default model("User", userSchema);
+export default model("User", User);

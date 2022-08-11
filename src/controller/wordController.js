@@ -1,6 +1,6 @@
-import TextToIPA from "text-to-ipa";
+
 import { eng_uzb, uzb_eng } from "../model/word.js";
-// const app = express()
+import get_ipa from "../lib/ipa.js";
 
 // CREATE
 
@@ -10,17 +10,17 @@ const wordCreateEngUzb = async (req, res) => {
     // app.use(express.json())
 
     if (word && desc) {
-      let newBook = new eng_uzb({
+      let newWord = new eng_uzb({
         word,
-        transc: TextToIPA.lookup(word).text,
+        transc: get_ipa(word),
         desc,
       });
-      await newBook.save();
+      await newWord.save();
 
-      console.log(newBook);
+      console.log(newWord);
       return res.json({
         ok: true,
-        data: newBook,
+        data: newWord,
       });
     }
   } catch (e) {
@@ -31,15 +31,15 @@ const wordCreateEngUzb = async (req, res) => {
 const wordCreateUzbEng = async (req, res) => {
   try {
     const { word, desc } = req.body;
-    let newBook = new uzb_eng({
+    let newWord = new uzb_eng({
       word,
       desc,
     });
-    await newBook.save();
+    await newWord.save();
 
     return res.json({
       ok: true,
-      data: newBook,
+      data: newWord,
     });
   } catch (e) {
     console.log(e);
@@ -103,15 +103,6 @@ const wordFindUzbEng = async (req, res) => {
         throw Error(e);
       }
 };
-
-const wordAutocomp = async (req, res) => {
-    try {
-        const {desc} = req.body;
-    } catch(e) {
-
-    }
-}
-
 const deleleteProperty = async (req, res) => {
     try {
 
