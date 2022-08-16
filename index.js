@@ -1,11 +1,10 @@
 import express from 'express';
-import routes from './src/routes/word-routes.js'
 import 'dotenv/config';
 import cors from 'cors';
 import bodyParser from 'body-parser'
+import {routes, authRoute} from "./src/routes/indexRoute.js"
 const PORT = process.env.PORT || 4000;
 const app = express();
-import authRoute from './src/routes/authRoute.js'
 
 // Middlewares
 app.use(cors())

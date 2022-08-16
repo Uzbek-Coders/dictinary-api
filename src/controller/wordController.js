@@ -61,6 +61,7 @@ const wordReadEngUzb = async (req, res) => {
     return res.json([]);
   }
 };
+
 const wordReadUzbEng = async (req, res) => {
   try {
     let words = await uzb_eng.find();
@@ -88,6 +89,7 @@ const wordFindEngUzb = async (req, res) => {
     throw Error(e);
   }
 };
+
 const wordFindUzbEng = async (req, res) => {
     try {
         const word = req.params.word;
@@ -103,6 +105,7 @@ const wordFindUzbEng = async (req, res) => {
         throw Error(e);
       }
 };
+
 const deleleteProperty = async (req, res) => {
     try {
 
@@ -116,6 +119,23 @@ const deleleteProperty = async (req, res) => {
     } catch(e) {
         throw Error(e);
     }
+}
+
+const wordUpdateUzbEng = async (req, res) => {
+
+}
+
+const wordUpdateEngUzb = async (req, res) => {
+  // await eng_uzb.updateOne({ name: "Sadio Mane" }, { country: "Senegal" }, function(
+  //   err,
+  //   result
+  // ) {
+  //   if (err) {
+  //     res.send(err);
+  //   } else {
+  //     res.json(result);
+  //   }
+  // });
 }
 
 export {
