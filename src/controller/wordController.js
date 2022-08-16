@@ -121,23 +121,6 @@ const deleleteProperty = async (req, res) => {
     }
 }
 
-const wordUpdateUzbEng = async (req, res) => {
-
-}
-
-const wordUpdateEngUzb = async (req, res) => {
-  // await eng_uzb.updateOne({ name: "Sadio Mane" }, { country: "Senegal" }, function(
-  //   err,
-  //   result
-  // ) {
-  //   if (err) {
-  //     res.send(err);
-  //   } else {
-  //     res.json(result);
-  //   }
-  // });
-}
-
 export {
   // Create
   wordCreateEngUzb,

@@ -1,5 +1,5 @@
 import express from "express";
-import {  wordCreateEngUzb, wordCreateUzbEng, wordReadEngUzb, wordReadUzbEng, wordFindEngUzb, wordFindUzbEng, wordUpdateEngUzb, wordUpdateUzbEng } from "../controller/wordController.js";
+import {  wordCreateEngUzb, wordCreateUzbEng, wordReadEngUzb, wordReadUzbEng, wordFindEngUzb, wordFindUzbEng } from "../controller/wordController.js";
 import roleMiddleware from "../middleware/roleMiddleware.js";
 const route = express.Router();
 
@@ -13,8 +13,8 @@ route.get("/user/read/uzb-eng", wordReadUzbEng);
 route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
 route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
 // Update
-route.post("/admin/update/eng-uzb", wordUpdateEngUzb);
-route.post("/admin/update/uzb-eng", wordUpdateUzbEng);
+// route.post("/admin/update/eng-uzb", wordUpdateEngUzb);
+// route.post("/admin/update/uzb-eng", wordUpdateUzbEng);
 
 // WARNING
 // route.post("/warning/warning", deleleteProperty)
