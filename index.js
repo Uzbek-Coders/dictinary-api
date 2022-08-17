@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 // app.use(express.json())
 // app.use(bodyParser.json());     
 app.use(routes);
-// app.use("/auth", authRoute);
+app.use("/auth", authRoute);
 
 
 app.listen(PORT, () => console.log(`Server is running at ${PORT}`))
