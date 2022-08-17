@@ -1,5 +1,5 @@
-import pkg from 'mongoose';
-const {Schema, model} = pkg
+import mongoose from '../lib/db.js'
+const {Schema, model} = mongoose
 
 const Role = new Schema({
     value: {type: String, unique: true, default: "USER"},

@@ -1,5 +1,5 @@
-import pkg from 'mongoose';
-const {Schema, model} = pkg
+import mongoose from '../lib/db.js'
+const {Schema, model} = mongoose
 
 const User = new Schema({
     username: {type: String, unique: true, require: true},
