@@ -1,4 +1,4 @@
 import routes from './wordRoutes.js'
-import authRoute from './authRoute.js'
+// import authRoute from './authRoute.js'
 
-export {routes, authRoute}
+export {routes}
