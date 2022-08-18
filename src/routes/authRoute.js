@@ -8,6 +8,6 @@ import roleMiddleware from'../middleware/roleMiddleware.js'
 router.post('/register', controller.registration)
 router.post('/login', controller.login)
 router.get('/users', roleMiddleware(["USER", "ADMIN"]),  controller.getUsers)
-router.get("/access", authAdmin(["USER", "ADMIN"]))
+router.post("/access", authAdmin(["USER", "ADMIN"]))
 
 export default router; 

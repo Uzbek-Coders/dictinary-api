@@ -19,7 +19,7 @@ export default function (roles) {
                         hasRole = true
                     }
                 })
-                if(!hasRole){
+                if(!hasRole){ 
                     return res.status(403).json({message: "User has not a role."})
                 }
                 if(userRoles[0] == roles[1]){
