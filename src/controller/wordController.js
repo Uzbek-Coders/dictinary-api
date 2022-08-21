@@ -105,6 +105,42 @@ const wordFindUzbEng = async (req, res) => {
         throw Error(e);
       }
 };
+const wordDeleteEngUzb = async (req, res) => {
+  try {
+    const id = req.body.id;
+    const result = await eng_uzb.findOne({
+      _id: id,
+    }).remove( function (err, docs) {
+      if(err) throw Error(err);
+      docs.remove();  });
+      
+      return res.json({
+        ok: true,
+        data: result,
+      })
+  } catch (e) {
+    throw Error(e);
+  }
+};
+    
+const wordDeleteUzbEng = async (req, res) => {
+  try {
+    const id = req.body.id;
+    const result = await uzb_eng.deleteOne({
+      _id: id, 
+    })
+    // }).remove( function (err, docs) {
+      // if(err) throw Error(err);
+      // docs.remove();  });
+      return res.json({
+        ok: true,
+        data: result,
+      })
+  } catch (e) {
+    throw Error(e);
+  }
+};
+
 
 const deleleteProperty = async (req, res) => {
     try {
@@ -133,7 +169,8 @@ export {
   wordFindEngUzb,
   wordFindUzbEng,
 
-  deleleteProperty
+  wordDeleteUzbEng,
+  wordDeleteEngUzb
 };
 
 // Birinchi adminniki crud funksiyaga ega

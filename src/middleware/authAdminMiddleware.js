@@ -9,7 +9,7 @@ export default function (roles) {
             console.log(req.headers.authorization)
                 const token = req.headers.authorization.split(' ')[1]
                 if(!token) {
-                    return res.status(403).json({message: "User is not authorization"})
+                     return res.status(403).json({message: "User is not authorization"})
                 }
                 const {roles: userRoles } = jwt.verify(token, secret)
                 let hasRole = false;
