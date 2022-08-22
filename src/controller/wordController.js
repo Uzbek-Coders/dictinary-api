@@ -129,9 +129,6 @@ const wordDeleteUzbEng = async (req, res) => {
     const result = await uzb_eng.deleteOne({
       _id: id, 
     })
-    // }).remove( function (err, docs) {
-      // if(err) throw Error(err);
-      // docs.remove();  });
       return res.json({
         ok: true,
         data: result,
@@ -142,16 +139,32 @@ const wordDeleteUzbEng = async (req, res) => {
 };
 
 
-const deleleteProperty = async (req, res) => {
+const wordUpdateEngUzb = async (req, res) => {
     try {
 
         // .u+pdateMany( { }, { $unset: { pron_1: "",  pron_2: "", uzb_1:"", uzb_2:"" } } )
-        const {collection} = req.body;
-        console.log(collection);
+        const {id, desc} = req.body;
         // var result = []
-        const result = await db.collection.updateMany({}, { $unset : { description : 1} })
-        console.log(result);
-        await res.json({ok:true, data:result})
+        if(id && desc){
+          const result = await eng_uzb.findOneAndUpdate( {_id: id}, { desc: desc})
+          console.log(result);
+          await res.json({ok:true, data:result})
+        } 
+      } catch(e) {
+        throw Error(e);
+    }
+}
+const wordUpdateUzbEng = async (req, res) => {
+    try {
+
+        // .u+pdateMany( { }, { $unset: { pron_1: "",  pron_2: "", uzb_1:"", uzb_2:"" } } )
+        const {id, desc} = req.body;
+        // var result = []
+        if(id && desc){
+          const result = await uzb_eng.findOneAndUpdate( {_id: id}, {desc: desc})
+          console.log(result);
+          await res.json({ok:true, data:result})
+        }
     } catch(e) {
         throw Error(e);
     }
@@ -165,12 +178,14 @@ export {
   wordReadEngUzb,
   wordReadUzbEng,
   // Find
-
   wordFindEngUzb,
   wordFindUzbEng,
-
+  // Delete
   wordDeleteUzbEng,
-  wordDeleteEngUzb
+  wordDeleteEngUzb,
+  // Update
+  wordUpdateEngUzb,
+  wordUpdateUzbEng
 };
 
 // Birinchi adminniki crud funksiyaga ega

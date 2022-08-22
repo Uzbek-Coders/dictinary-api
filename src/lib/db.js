@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
-mongoose.Promise = global.Promise;
 import 'dotenv/config';
+mongoose.Promise = global.Promise;
 mongoose.connect(process.env.MONGODB_CONNECT,
  { dbName: 'test' })
     .then(() => {
@@ -11,4 +11,3 @@ mongoose.connect(process.env.MONGODB_CONNECT,
     });
 
 export default mongoose;
-
