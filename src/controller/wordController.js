@@ -105,6 +105,39 @@ const wordFindUzbEng = async (req, res) => {
         throw Error(e);
       }
 };
+//  Word by Id
+const wordFindIdEngUzb = async (req, res) => {
+  try {
+    const id = req.body.word;
+    const result = await eng_uzb.findOne({
+      id: id,
+    });
+    console.log(word);
+    res.json({
+      ok: true,
+      data: result,
+    });
+  } catch (e) {
+    throw Error(e);
+  }
+};
+
+const wordFindIdUzbEng = async (req, res) => {
+    try {
+        const word = req.body.word;
+        const result = await uzb_eng.findOne({
+          word: word,
+        });
+        console.log(word);
+        res.json({
+          ok: true,
+          data: result,
+        });
+      } catch (e) {
+        throw Error(e);
+      }
+};
+// Delete
 const wordDeleteEngUzb = async (req, res) => {
   try {
     const id = req.body.id;
@@ -122,7 +155,6 @@ const wordDeleteEngUzb = async (req, res) => {
     throw Error(e);
   }
 };
-    
 const wordDeleteUzbEng = async (req, res) => {
   try {
     const id = req.body.id;
@@ -138,11 +170,9 @@ const wordDeleteUzbEng = async (req, res) => {
   }
 };
 
-
+//  Update
 const wordUpdateEngUzb = async (req, res) => {
     try {
-
-        // .u+pdateMany( { }, { $unset: { pron_1: "",  pron_2: "", uzb_1:"", uzb_2:"" } } )
         const {id, desc} = req.body;
         // var result = []
         if(id && desc){
@@ -180,6 +210,9 @@ export {
   // Find
   wordFindEngUzb,
   wordFindUzbEng,
+  // Find By ID
+  wordFindIdEngUzb,
+  wordFindIdUzbEng,
   // Delete
   wordDeleteUzbEng,
   wordDeleteEngUzb,
@@ -187,6 +220,3 @@ export {
   wordUpdateEngUzb,
   wordUpdateUzbEng
 };
-
-// Birinchi adminniki crud funksiyaga ega
-// Ikkinchi test so'z qo'shish funksiyaga egawordReadUzbEng

@@ -10,6 +10,8 @@ import {
     wordDeleteUzbEng,
     wordUpdateEngUzb,
     wordUpdateUzbEng,
+    wordFindIdUzbEng,
+    wordFindIdEngUzb,
 } from "../controller/wordController.js";
 import roleMiddleware from "../middleware/roleMiddleware.js";
 const route = express.Router();
@@ -23,6 +25,9 @@ route.get("/user/read/uzb-eng", wordReadUzbEng);
 // Find
 route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
 route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
+// Find
+route.get("/user/find/eng-uzb/", wordFindIdEngUzb);
+route.get("/user/find/uzb-eng/", wordFindIdUzbEng);
 // Delete
 route.post("/admin/delete/eng-uzb",  roleMiddleware(["USER", "ADMIN"]), wordDeleteEngUzb);
 route.post("/admin/delete/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordDeleteUzbEng);
