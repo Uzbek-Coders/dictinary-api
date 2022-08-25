@@ -30,8 +30,8 @@ route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
 // Find
 route.get("/user/find/eng-uzb/", wordFindIdEngUzb);
 // Filter
-route.get("/user/filter/eng-uzb/", wordFilterEngUzb);
-route.get("/user/filter/uzb-eng/", wordFilterUzbEng);
+route.post("/user/filter/eng-uzb/", wordFilterEngUzb);
+route.post("/user/filter/uzb-eng/", wordFilterUzbEng);
 // Delete
 route.post("/admin/delete/eng-uzb",  roleMiddleware(["USER", "ADMIN"]), wordDeleteEngUzb);
 route.post("/admin/delete/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordDeleteUzbEng);
