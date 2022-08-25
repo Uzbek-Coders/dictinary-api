@@ -8,6 +8,6 @@ mongoose.connect(process.env.MONGODB_CONNECT,
     })
     .catch((err) => {
         console.error("MongoDBga ulanish vaqtida xato ro'y berdi...", err);
-    });
+});
 
 export default mongoose;

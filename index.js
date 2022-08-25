@@ -8,6 +8,7 @@ const app = express();
 
 // Middlewares
 app.use(cors());
+console.log(cors());
 app.use(bodyParser.json()) // for parsing application/json
 app.use(bodyParser.urlencoded({ extended: true }))
 // app.use(express.json())

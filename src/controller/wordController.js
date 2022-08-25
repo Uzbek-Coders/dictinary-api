@@ -191,7 +191,7 @@ const wordUpdateUzbEng = async (req, res) => {
         const {id, desc} = req.body;
         // var result = []
         if(id && desc){
-          const result = await uzb_eng.findOneAndUpdate( {_id: id}, {desc: desc})
+          const result =  await uzb_eng.findOneAndUpdate( {_id: id}, {desc: desc})
           console.log(result);
           await res.json({ok:true, data:result})
         }
@@ -199,7 +199,25 @@ const wordUpdateUzbEng = async (req, res) => {
         throw Error(e);
     }
 }
+ const wordFilterEngUzb = async (req, res) => {
+try {
+  const {word} = req.body
+  const result = await eng_uzb.find({"word": {$regex: `^${word}`, $options:"i"}})
+  await res.json({ok:true, data:result})
+} catch(e){
+  throw Error(e);
+}
+}
+ const wordFilterUzbEng = async (req, res) => {
+try {
+  const {word} = req.body
+  const result = await uzb_eng.find({"word": {$regex: `^${word}`, $options:"i"}})
 
+  await res.json({ok:true, data:result})
+} catch(e){
+  throw Error(e);
+}
+}
 export {
   // Create
   wordCreateEngUzb,
@@ -218,5 +236,8 @@ export {
   wordDeleteEngUzb,
   // Update
   wordUpdateEngUzb,
-  wordUpdateUzbEng
+  wordUpdateUzbEng,
+  // Filter
+  wordFilterEngUzb,
+  wordFilterUzbEng
 };

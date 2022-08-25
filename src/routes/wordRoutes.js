@@ -12,6 +12,8 @@ import {
     wordUpdateUzbEng,
     wordFindIdUzbEng,
     wordFindIdEngUzb,
+    wordFilterEngUzb,
+    wordFilterUzbEng
 } from "../controller/wordController.js";
 import roleMiddleware from "../middleware/roleMiddleware.js";
 const route = express.Router();
@@ -27,7 +29,9 @@ route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
 route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
 // Find
 route.get("/user/find/eng-uzb/", wordFindIdEngUzb);
-route.get("/user/find/uzb-eng/", wordFindIdUzbEng);
+// Filter
+route.get("/user/filter/eng-uzb/", wordFilterEngUzb);
+route.get("/user/filter/uzb-eng/", wordFilterUzbEng);
 // Delete
 route.post("/admin/delete/eng-uzb",  roleMiddleware(["USER", "ADMIN"]), wordDeleteEngUzb);
 route.post("/admin/delete/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordDeleteUzbEng);
