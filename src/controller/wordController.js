@@ -141,11 +141,9 @@ const wordFindIdUzbEng = async (req, res) => {
 const wordDeleteEngUzb = async (req, res) => {
   try {
     const id = req.body.id;
-    const result = await eng_uzb.findOne({
-      _id: id,
-    }).remove( function (err, docs) {
-      if(err) throw Error(err);
-      docs.remove();  });
+    const result = await eng_uzb.deleteOne({
+      _id: id, 
+    })
       
       return res.json({
         ok: true,
