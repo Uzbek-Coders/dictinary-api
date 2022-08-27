@@ -27,8 +27,9 @@ route.get("/user/read/uzb-eng", wordReadUzbEng);
 // Find
 route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
 route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
-// Find
-route.get("/user/find/eng-uzb/", wordFindIdEngUzb);
+// Find by Id
+route.post("/user/find/eng-uzb/", wordFindIdEngUzb);
+route.post("/user/find/eng-uzb/", wordFindIdEngUzb);
 // Filter
 route.post("/user/filter/eng-uzb/", wordFilterEngUzb);
 route.post("/user/filter/uzb-eng/", wordFilterUzbEng);
