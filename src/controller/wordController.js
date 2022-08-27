@@ -112,7 +112,6 @@ const wordFindIdEngUzb = async (req, res) => {
     const result = await eng_uzb.findOne({
       id: id,
     });
-    console.log(word);
     res.json({
       ok: true,
       data: result,
@@ -128,7 +127,6 @@ const wordFindIdUzbEng = async (req, res) => {
         const result = await uzb_eng.findOne({
           _id: id,
         });
-        console.log(word);
         res.json({
           ok: true,
           data: result,
