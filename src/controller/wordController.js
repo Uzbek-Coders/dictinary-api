@@ -108,7 +108,7 @@ const wordFindUzbEng = async (req, res) => {
 //  Word by Id
 const wordFindIdEngUzb = async (req, res) => {
   try {
-    const id = req.body.word;
+    const id = req.body.id;
     const result = await eng_uzb.findOne({
       id: id,
     });
@@ -123,13 +123,13 @@ const wordFindIdEngUzb = async (req, res) => {
 
 const wordFindIdUzbEng = async (req, res) => {
     try {
-        const id = req.body.word;
+        const id = req.body.id;
         const result = await uzb_eng.findOne({
           _id: id,
         });
         res.json({
           ok: true,
-          data: result,
+          data: result, 
         });
       } catch (e) {
         throw Error(e);
