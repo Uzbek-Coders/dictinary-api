@@ -29,7 +29,7 @@ route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
 route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
 // Find by Id
 route.post("/user/find/eng-uzb/", wordFindIdEngUzb);
-route.post("/user/find/eng-uzb/", wordFindIdEngUzb);
+route.post("/user/find/uzb-eng/", wordFindIdUzbEng);
 // Filter
 route.post("/user/filter/eng-uzb/", wordFilterEngUzb);
 route.post("/user/filter/uzb-eng/", wordFilterUzbEng);
