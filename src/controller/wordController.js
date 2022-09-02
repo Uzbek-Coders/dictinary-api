@@ -6,7 +6,64 @@ import get_ipa from "../lib/ipa.js";
 import fetch from "node-fetch";
 import FormData from 'form-data'
 // CREATE
+const wordTTS = async (word) => {
+  
+  if(word){
+    // var form = new FormData();
+    // form.append('msg', word);
+    // form.append('lang', "Salli");
+    // form.append('source', "ttsmp3");
+    let data  = await fetch("https://support.readaloud.app/ttstool/createParts", {
+      method: 'POST',
+      headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+      },
+      body: JSON.stringify([
+        {
+            "voiceId": "Amazon US English (Salli)",
+            "ssml": `<speak version=\"1.0\" xml:lang=\"en-US\">${word}</speak>`
+        }
+    ])
+    })
+    let dataJSON = await data.json()
+    // console.log(await data.json());
+    return  `https://support.readaloud.app/ttstool/getParts?q=${dataJSON[0]}`  } else {
+    res.json({ok: false, data: "word is not found"});
+  }
+}
+const wordTransc = async (word) => {
 
+  // let word = "hello"
+  try {
+if(word){
+console.log(word)
+
+    let fetchData = await fetch("https://dics.glot.ai/vocab/transcript", {
+      method: "POST",
+      headers: {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        "paragraph": word,
+      }),
+    })
+    let result = []
+    const data = await fetchData.json()
+    data.forEach(i =>{
+       result.push(i["ipa"][0] )
+    })
+    console.log(result.join(" "));
+    return result.join(" ")
+  } else {
+    throw Error("Word is not defined")
+  }
+  } catch (e) {
+    console.log(e)
+    // throw Error("Error:", e)
+  }
+};
 const wordCreateEngUzb = async (req, res) => {
   try {
     const {
@@ -17,8 +74,9 @@ const wordCreateEngUzb = async (req, res) => {
     if (word && desc) {
       let newWord = new eng_uzb({
         word,
-        transc: get_ipa(word),
+        transc: await  wordTransc(word),
         desc,
+        audio: await wordTTS(word)
       });
       await newWord.save();
 
@@ -262,64 +320,8 @@ const wordFilterUzbEng = async (req, res) => {
     throw Error(e);
   }
 };
-const wordTransc = async (word) => {
 
-  // let word = "hello"
-  try {
-if(word){
-console.log(word)
 
-    let fetchData = await fetch("https://dics.glot.ai/vocab/transcript", {
-      method: "POST",
-      headers: {
-        "Accept": "application/json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        "paragraph": word,
-      }),
-    })
-    let result = []
-    const data = await fetchData.json()
-    data.forEach(i =>{
-       result.push(i["ipa"][0] )
-    })
-    console.log(result.join(" "));
-    return result.join(" ")
-  } else {
-    throw Error("Word is not defined")
-  }
-  } catch (e) {
-    console.log(e)
-    // throw Error("Error:", e)
-  }
-};
-const wordTTS = async (word) => {
-  
-  if(word){
-    // var form = new FormData();
-    // form.append('msg', word);
-    // form.append('lang', "Salli");
-    // form.append('source', "ttsmp3");
-    let data  = await fetch("https://support.readaloud.app/ttstool/createParts", {
-      method: 'POST',
-      headers: {
-      'Accept': 'application/json',
-      'Content-Type': 'application/json'
-      },
-      body: JSON.stringify([
-        {
-            "voiceId": "Amazon US English (Salli)",
-            "ssml": `<speak version=\"1.0\" xml:lang=\"en-US\">${word}</speak>`
-        }
-    ])
-    })
-    let dataJSON = await data.json()
-    // console.log(await data.json());
-    return  `https://support.readaloud.app/ttstool/getParts?q=${dataJSON[0]}`  } else {
-    res.json({ok: false, data: "word is not found"});
-  }
-}
 const updateEngUzb = async (req, res) => {
   console.log("1111")
   let fetchData = await eng_uzb.find({}).sort({ audio: 1 })

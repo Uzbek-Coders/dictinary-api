@@ -43,8 +43,8 @@ route.post("/admin/update/eng-uzb", roleMiddleware(["USER", "ADMIN"]), wordUpdat
 route.post("/admin/update/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordUpdateUzbEng);
 
 
-route.get("/update", updateEngUzb);
-route.get("/tts", wordTTS);
+// route.get("/update", updateEngUzb);
+// route.get("/tts", wordTTS);
 
 // WARNING,
 // route.post("/warning/warning", deleleteProperty)
