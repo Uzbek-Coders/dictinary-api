@@ -2,21 +2,15 @@ import mongoose from '../lib/db.js'
 const {Schema, model} = mongoose
 
 const eng_uzbSchema = new Schema({
-    word: String,
-    transc: String,
-    desc: String,
-    updatedBy: {type: String, default: null },
-    createdDate: { type: Date, default: Date.now() },
-    updatedDate: { type: Date, default: null },
+    word:  {type: String, required: true },
+    transc: {type: String, required: true },
+    desc: {type: String, required: true },
+    audio:{type: String, required: true },
 });
 
 const uzb_engSchema = new Schema({
     word: String,
     desc: String,
-    createdBy: String,
-    updatedBy: String,
-    createdDate: Date,
-    updatedDate: Date,
 });
 
 

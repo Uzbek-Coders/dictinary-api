@@ -13,7 +13,9 @@ import {
     wordFindIdUzbEng,
     wordFindIdEngUzb,
     wordFilterEngUzb,
-    wordFilterUzbEng
+    wordFilterUzbEng,
+    updateEngUzb,
+    wordTTS
 } from "../controller/wordController.js";
 import roleMiddleware from "../middleware/roleMiddleware.js";
 const route = express.Router();
@@ -39,6 +41,10 @@ route.post("/admin/delete/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordDele
 // Update
 route.post("/admin/update/eng-uzb", roleMiddleware(["USER", "ADMIN"]), wordUpdateEngUzb);
 route.post("/admin/update/uzb-eng",  roleMiddleware(["USER", "ADMIN"]), wordUpdateUzbEng);
+
+
+route.get("/update", updateEngUzb);
+route.get("/tts", wordTTS);
 
 // WARNING,
 // route.post("/warning/warning", deleleteProperty)
