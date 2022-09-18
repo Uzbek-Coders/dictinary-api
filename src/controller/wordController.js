@@ -225,37 +225,7 @@ const wordFindUzbEng = async (req, res) => {
     }
   }
 };
-//  Word by Id
-const wordFindIdEngUzb = async (req, res) => {
-  try {
-    const id = req.body.id;
-    console.log(id, req.body);
-    const result = await eng_uzb.findOne({
-      _id: id,
-    });
-    res.json({
-      ok: true,
-      data: result,
-    });
-  } catch (e) {
-    throw Error(e);
-  }
-};
 
-const wordFindIdUzbEng = async (req, res) => {
-  try {
-    const id = req.body.id;
-    const result = await uzb_eng.findOne({
-      _id: id,
-    });
-    res.json({
-      ok: true,
-      data: result,
-    });
-  } catch (e) {
-    throw Error(e);
-  }
-};
 // Delete
 const wordDeleteEngUzb = async (req, res) => {
   try {
@@ -335,10 +305,12 @@ const wordUpdateUzbEng = async (req, res) => {
     throw Error(e);
   }
 };
+
+// Filter
 const wordFilterEngUzb = async (req, res) => {
   try {
     const {
-      word
+      word  
     } = req.body;
     const result = await eng_uzb.find({
       word: {
@@ -396,10 +368,28 @@ const updateEngUzb = async (req, res) => {
   res.json({
     data: "ok"
   })
-  // await wordTransc("hello")
 };
 
-
+const valuesEngUzb = async  (req, res) => {
+  try {
+    let words = await eng_uzb.find();
+    const arr = [];
+    await words.map((i) => arr.push(i["word"]));
+    res.send(arr) 
+  } catch(e)  {
+    throw Error(e)
+  }
+}
+const valuesUzbEng = async  (req, res) => {
+  try {
+    let words = await uzb_eng.find();
+    const arr = [];
+    await words.map((i) => arr.push(i["word"]));
+    res.send(arr) 
+  } catch(e)  {
+    throw Error(e)
+  }
+}
 export {
   // Create
   wordCreateEngUzb,
@@ -411,8 +401,8 @@ export {
   wordFindEngUzb,
   wordFindUzbEng,
   // Find By ID
-  wordFindIdEngUzb,
-  wordFindIdUzbEng,
+  valuesEngUzb,
+  valuesUzbEng,
   // Delete
   wordDeleteUzbEng,
   wordDeleteEngUzb,

@@ -10,8 +10,8 @@ import {
     wordDeleteUzbEng,
     wordUpdateEngUzb,
     wordUpdateUzbEng,
-    wordFindIdUzbEng,
-    wordFindIdEngUzb,
+    valuesEngUzb,
+    valuesUzbEng,
     wordFilterEngUzb,
     wordFilterUzbEng,
     updateEngUzb,
@@ -26,8 +26,8 @@ route.post("/admin/create/uzb-eng", roleMiddleware(["USER", "ADMIN"]), wordCreat
 route.get("/user/read/eng-uzb", wordReadEngUzb);
 route.get("/user/read/uzb-eng", wordReadUzbEng);
 // Find
-// route.get("/user/find/eng-uzb/:word", wordFindEngUzb);
-// route.get("/user/find/uzb-eng/:word", wordFindUzbEng);
+route.get("/user/values/eng-uzb/", valuesEngUzb);
+route.get("/user/values/uzb-eng/", valuesUzbEng);
 // Find by Id
 route.post("/user/find/eng-uzb/", wordFindEngUzb);
 route.post("/user/find/uzb-eng/", wordFindUzbEng);
