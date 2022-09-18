@@ -4,41 +4,15 @@ import {
 } from "../model/word.js";
 import get_ipa from "../lib/ipa.js";
 import fetch from "node-fetch";
-import FormData from 'form-data'
+import {
+  JSDOM
+} from "JSDOM";
+import request from "request"
+
 // CREATE
-const wordTTS = async (word) => {
-  
-  if(word){
-    // var form = new FormData();
-    // form.append('msg', word);
-    // form.append('lang', "Salli");
-    // form.append('source', "ttsmp3");
-    let data  = await fetch("https://support.readaloud.app/ttstool/createParts", {
-      method: 'POST',
-      headers: {
-      'Accept': 'application/json',
-      'Content-Type': 'application/json'
-      },
-      body: JSON.stringify([
-        {
-            "voiceId": "Amazon US English (Salli)",
-            "ssml": `<speak version=\"1.0\" xml:lang=\"en-US\">${word}</speak>`
-        }
-    ])
-    })
-    let dataJSON = await data.json()
-    // console.log(await data.json());
-    return  `https://support.readaloud.app/ttstool/getParts?q=${dataJSON[0]}`  } else {
-    res.json({ok: false, data: "word is not found"});
-  }
-}
 const wordTransc = async (word) => {
-
-  // let word = "hello"
-  try {
-if(word){
-console.log(word)
-
+  if (word) {
+    console.log(word)
     let fetchData = await fetch("https://dics.glot.ai/vocab/transcript", {
       method: "POST",
       headers: {
@@ -50,20 +24,54 @@ console.log(word)
       }),
     })
     let result = []
-    const data = await fetchData.json()
-    data.forEach(i =>{
-       result.push(i["ipa"][0] )
+    const data1 = await fetchData.json()
+    data1.forEach(i => {
+      result.push(i["ipa"][0])
     })
-    console.log(result.join(" "));
-    return result.join(" ")
+
+    const json = result.join(" ")
+    const isUpperCase = (string) => /[A-Z]|[\u0080-\u024F]/.test(string)
+    if (isUpperCase(json)) {
+      let data = await fetch("https://tophonetics.com/", {
+        "credentials": "include",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+          "Content-Type": "application/x-www-form-urlencoded",
+          "Upgrade-Insecure-Requests": "1",
+          "Sec-Fetch-Dest": "document",
+          "Sec-Fetch-Mode": "navigate",
+          "Sec-Fetch-Site": "same-origin",
+          "Sec-Fetch-User": "?1"
+        },
+        "referrer": "https://tophonetics.com/",
+        "body": `text_to_transcribe=${word}&submit=Show+transcription&output_dialect=br&output_style=only_tr&preBracket=&postBracket=&speech_support=1&ak_bib=1662208318283&ak_bfs=1662208323362&ak_bkpc=5&ak_bkp=91%3B104%2C826%3B106%2C920%3B70%2C91%3B99%2C63%3B&ak_bmc=98%3B79%2C5580%3B&ak_bmcc=2&ak_bmk=&ak_bck=&ak_bmmc=4&ak_btmc=0&ak_bsc=0&ak_bte=&ak_btec=0&ak_bmm=596%2C110%3B369%2C264%3B168%2C237%3B660%2C380%3B`,
+        "method": "POST",
+        "mode": "cors"
+      });
+
+      function regexpStrip(str) {
+        return str.replace(/<[^>]*>/g, '');
+      }
+      const body = await data.text();
+      const dom = new JSDOM(body);
+      const reslt = regexpStrip(dom.window.document.querySelector("#transcr_output").innerHTML)
+      if (reslt) {
+        console.log("Uppercase fixed result", word)
+        return reslt
+      } else {
+        console.log("Uppercase not fixed result", word, reslt)
+        return json
+      }
+    } else {
+      console.log("normal result", word)
+      return json
+    }
   } else {
-    throw Error("Word is not defined")
+    throw new Error("Word is not defined")
   }
-  } catch (e) {
-    console.log(e)
-    // throw Error("Error:", e)
-  }
-};
+}
 const wordCreateEngUzb = async (req, res) => {
   try {
     const {
@@ -74,7 +82,7 @@ const wordCreateEngUzb = async (req, res) => {
     if (word && desc) {
       let newWord = new eng_uzb({
         word,
-        transc: await  wordTransc(word),
+        transc: await wordTransc(word),
         desc,
         audio: await wordTTS(word)
       });
@@ -141,26 +149,49 @@ const wordReadUzbEng = async (req, res) => {
 
 // Find
 const wordFindEngUzb = async (req, res) => {
-  try {
-    const word = req.params.word;
-    const result = await eng_uzb.findOne({
-      word: word,
-    });
-    console.log(word);
-    res.json({
-      ok: true,
-      data: result,
-    });
-  } catch (e) {
-    throw Error(e);
-  }
+  const { word, id } = req.body;
+  if (word) {
+    try {
+      const result = await eng_uzb.findOne({
+        word: {
+          $regex: `^${word}$`,
+          $options: 'i'
+        }
+      });
+      console.log(word);
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
+  } else if(id){
+    try {
+      // const word = req.params.word;
+      const result = await uzb_eng.findOne({
+        _id: id
+      });
+      // console.log(word);
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
+  };
 };
 
 const wordFindUzbEng = async (req, res) => {
+  const { word, id } = req.body;
+  if (word) {
   try {
-    const word = req.params.word;
     const result = await uzb_eng.findOne({
-      word: word,
+      word: {
+        $regex: `^${word}$`,
+        $options: 'i'
+      }
     });
     console.log(word);
     res.json({
@@ -168,7 +199,30 @@ const wordFindUzbEng = async (req, res) => {
       data: result,
     });
   } catch (e) {
-    throw Error(e);
+    try {
+      const result = await eng_uzb.findOne({
+        _id: id,
+      });
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
+  } }
+  else if(id) {
+    try {
+      const result = await uzb_eng.findOne({
+        _id: id,
+      });
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
   }
 };
 //  Word by Id
@@ -323,21 +377,26 @@ const wordFilterUzbEng = async (req, res) => {
 
 
 const updateEngUzb = async (req, res) => {
-  console.log("1111")
-  let fetchData = await eng_uzb.find({}).sort({ audio: 1 })
+  let fetchData = await eng_uzb.find().sort({
+    transc: 1
+  })
   console.log(fetchData)
   for (let i of fetchData) {
     let obj = {
       word: i["word"],
       transc: await wordTransc(i["word"]),
       desc: i["desc"],
-      audio: await wordTTS(i["word"])
     }
-    console.log(await eng_uzb.update({_id: i["_id"]}, {$set: obj}));
+    console.log(await eng_uzb.update({
+      _id: i["_id"]
+    }, {
+      $set: obj
+    }));
   }
   res.json({
     data: "ok"
   })
+  // await wordTransc("hello")
 };
 
 
@@ -364,5 +423,4 @@ export {
   wordFilterEngUzb,
   wordFilterUzbEng,
   updateEngUzb,
-  wordTTS
 };
