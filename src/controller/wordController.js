@@ -6,7 +6,7 @@ import get_ipa from "../lib/ipa.js";
 import fetch from "node-fetch";
 import {
   JSDOM
-} from "JSDOM";
+} from "jsdom";
 import request from "request"
 
 // CREATE
