@@ -5,7 +5,6 @@ const eng_uzbSchema = new Schema({
     word:  {type: String, required: true },
     transc: {type: String, required: true },
     desc: {type: String, required: true },
-    audio:{type: String, required: true },
 });
 
 const uzb_engSchema = new Schema({
