@@ -83,8 +83,7 @@ const wordCreateEngUzb = async (req, res) => {
       let newWord = new eng_uzb({
         word,
         transc: await wordTransc(word),
-        desc,
-        audio: await wordTTS(word)
+        desc
       });
       await newWord.save();
 
