@@ -149,39 +149,45 @@ const wordReadUzbEng = async (req, res) => {
 // Find
 const wordFindEngUzb = async (req, res) => {
   const { word, id } = req.body;
-  if(id){
-    try {
-      // const word = req.params.word;
-      const result = await uzb_eng.findOne({
-        _id: id
-      });
-      // console.log(word);
-      res.json({
-        ok: true,
-        data: result,
-      });
-    } catch (e) {
-      throw Error(e);
-    }
-  };
-  if (word) {
+  if(id) {
     try {
       const result = await eng_uzb.findOne({
-        word: {
-          $regex: `^${word}$`,
-          $options: 'i'
-        }
+        _id: id,
       });
-      console.log(word);
       res.json({
         ok: true,
         data: result,
       });
     } catch (e) {
       throw Error(e);
-     
     }
   }
+ else if (word) {
+  try {
+    const result = await eng_uzb.findOne({
+      word: {
+        $regex: `^${word}$`,
+        $options: 'i'
+      }
+    });
+    console.log(word);
+    res.json({
+      ok: true,
+      data: result,
+    });
+  } catch (e) {
+    try {
+      const result = await eng_uzb.findOne({
+        _id: id,
+      });
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
+  } }
 };
 
 const wordFindUzbEng = async (req, res) => {
@@ -199,7 +205,7 @@ const wordFindUzbEng = async (req, res) => {
       throw Error(e);
     }
   }
-  if (word) {
+ else if (word) {
   try {
     const result = await uzb_eng.findOne({
       word: {
