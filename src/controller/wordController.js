@@ -149,6 +149,21 @@ const wordReadUzbEng = async (req, res) => {
 // Find
 const wordFindEngUzb = async (req, res) => {
   const { word, id } = req.body;
+  if(id){
+    try {
+      // const word = req.params.word;
+      const result = await uzb_eng.findOne({
+        _id: id
+      });
+      // console.log(word);
+      res.json({
+        ok: true,
+        data: result,
+      });
+    } catch (e) {
+      throw Error(e);
+    }
+  };
   if (word) {
     try {
       const result = await eng_uzb.findOne({
@@ -164,14 +179,18 @@ const wordFindEngUzb = async (req, res) => {
       });
     } catch (e) {
       throw Error(e);
+     
     }
-  } else if(id){
+  }
+};
+
+const wordFindUzbEng = async (req, res) => {
+  const { word, id } = req.body;
+  if(id) {
     try {
-      // const word = req.params.word;
       const result = await uzb_eng.findOne({
-        _id: id
+        _id: id,
       });
-      // console.log(word);
       res.json({
         ok: true,
         data: result,
@@ -179,11 +198,7 @@ const wordFindEngUzb = async (req, res) => {
     } catch (e) {
       throw Error(e);
     }
-  };
-};
-
-const wordFindUzbEng = async (req, res) => {
-  const { word, id } = req.body;
+  }
   if (word) {
   try {
     const result = await uzb_eng.findOne({
@@ -210,19 +225,7 @@ const wordFindUzbEng = async (req, res) => {
       throw Error(e);
     }
   } }
-  else if(id) {
-    try {
-      const result = await uzb_eng.findOne({
-        _id: id,
-      });
-      res.json({
-        ok: true,
-        data: result,
-      });
-    } catch (e) {
-      throw Error(e);
-    }
-  }
+  
 };
 
 // Delete
