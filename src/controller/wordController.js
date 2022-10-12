@@ -2,12 +2,10 @@ import {
   eng_uzb,
   uzb_eng
 } from "../model/word.js";
-import get_ipa from "../lib/ipa.js";
 import fetch from "node-fetch";
 import {
   JSDOM
 } from "jsdom";
-import request from "request"
 
 // CREATE
 const wordTransc = async (word) => {

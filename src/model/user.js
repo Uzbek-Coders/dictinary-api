@@ -1,10 +1,22 @@
-import mongoose from '../lib/db.js'
-const {Schema, model} = mongoose;
+import mongoose from 'mongoose'
 
-const User = new Schema({
-    username: {type: String, unique: true, require: true},
-    password: {type: String, unique: true, require: true},
-    roles: [{type: String, ref: "Role"}]
+
+const User = new mongoose.Schema({
+    username: {
+        require: true,
+        type: String,
+        unique: true
+    },
+    password: {
+        require: true,
+        type: String,
+        unique: true
+    },
+    roles: [{
+        type: String,
+        ref: 'Role'
+    }]
 })
 
-export default model("User", User);
+
+export default mongoose.model('User', User)
