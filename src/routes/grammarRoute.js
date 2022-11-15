@@ -7,11 +7,8 @@ import {
     many,
     updateOne,
     deleteOne,
-    byTag,
-    tags,
-    popular,
-    search
-} from '../controller/articleController.js'
+    popular
+} from '../controller/grammarController.js'
 
 
 const router = new Router()
@@ -21,10 +18,6 @@ router.route('/')
     .get(many)
 
 router.get('/popular', popular)
-
-router.get('/tags', tags)
-router.get('/tag/:tag', byTag)
-router.get('/search/:text', search)
 
 router.route('/:id')
     .get(idMiddleware, read)

@@ -13,7 +13,14 @@ const articleSchema = new mongoose.Schema({
         required: true,
         type: String,
         minLength: 1,
-        maxLength: 4096,
+        maxLength: 32767,
+        trim: true
+    },
+    summary: {
+        required: true,
+        type: String,
+        minLength: 0,
+        maxLength: 241,
         trim: true
     },
     views: {

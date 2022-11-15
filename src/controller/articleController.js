@@ -28,6 +28,7 @@ const read = async (req, res) => {
         else
             res.sendStatus(404)
     } catch (error) {
+        res.status(400).json({ error: error.message })
         await new Error({ stack: error.stack }).save()
     }
 }
@@ -35,35 +36,68 @@ const read = async (req, res) => {
 
 const many = async (req, res) => {
     try {
-        const articles = await Article
-            .find()
-            .sort('-createdAt')
-            .skip((req.query.page - 1) * req.query.limit)
-            .limit(req.query.limit)
-            .select('-__v')
+        const { limit, page } = req.query
 
+        const articlesQuery = [
+            { $sort: { createdAt: -1 } },
+            { $unset: ['body', 'tags', 'delete_urls', 'updatedAt', '__v'] },
+        ]
 
-        res.status(200).json(articles)
+        if (page > 0 && limit > 0)
+            articlesQuery.push(
+                { $skip: (((req.query.page - 1) * req.query.limit) || 0) },
+                { $limit: parseInt(req.query.limit) || 0 }
+            )
+
+        const data = await Article.aggregate([
+            {
+                $facet: {
+                    articles: articlesQuery,
+                    info: [
+                        { $count: "totalDocuments" }
+                    ]
+                }
+            }
+        ])
+
+        res.status(200).json(data[0])
     } catch (error) {
+        res.status(400).json({ error: error.message })
         await new Error({ stack: error.stack }).save()
     }
 }
 
 
-const tag = async (req, res) => {
+const byTag = async (req, res) => {
     try {
-        const articles = await Article
-            .find({ tags: { $in: req.params.tag } })
-            .sort('-createdAt')
-            .skip((req.query.page - 1) * req.query.limit)
-            .limit(req.query.limit)
-            .select('-__v -tags -images.original -images.medium -images._id')
+        const { limit, page } = req.query
 
-        if (articles?.length)
-            res.status(200).json(articles)
-        else
-            res.sendStatus(404)
+        const articlesQuery = [
+            { $sort: { createdAt: -1 } },
+            { $unset: ['body', 'tags', 'delete_urls', 'updatedAt', '__v'] },
+        ]
+
+        if (page > 0 && limit > 0)
+            articlesQuery.push(
+                { $skip: (((req.query.page - 1) * req.query.limit) || 0) },
+                { $limit: parseInt(req.query.limit) || 0 }
+            )
+
+        const data = await Article.aggregate([
+            { $match: { tags: { $in: [req.params.tag] } } },
+            {
+                $facet: {
+                    articles: articlesQuery,
+                    info: [
+                        { $count: "totalDocuments" }
+                    ]
+                }
+            }
+        ])
+
+        res.status(200).json(data[0])
     } catch (error) {
+        res.status(400).json({ error: error.message })
         await new Error({ stack: error.stack }).save()
     }
 }
@@ -91,4 +125,70 @@ const deleteOne = async (req, res) => {
 }
 
 
-export { create, read, many, tag, updateOne, deleteOne }
+const popular = async (req, res) => {
+    try {
+        const articles = await Article.find()
+            .sort('-views -createdAt')
+            .limit(2)
+            .select('-body -views -tags -delete_urls -createdAt -updatedAt -__v')
+
+        res.status(200).json(articles)
+    } catch (error) {
+        res.status(400).json({ error: error.message })
+        await new Error({ stack: error.stack }).save()
+    }
+}
+
+
+const tags = async (req, res) => {
+    try {
+        const articles = await Article.aggregate([
+            { $sort: { createdAt: -1 } },
+            { $limit: 10 },
+            { $unwind: '$tags' }, { $sortByCount: '$tags' }
+        ])
+
+        res.status(200).json(articles)
+    } catch (error) {
+        res.status(400).json({ error: error.message })
+        await new Error({ stack: error.stack }).save()
+    }
+}
+
+
+const search = async (req, res) => {
+    try {
+        const { limit, page } = req.query
+
+        const articlesQuery = [
+            { $sort: { createdAt: -1 } },
+            { $unset: ['body', 'tags', 'delete_urls', 'updatedAt', '__v'] },
+        ]
+
+        if (page > 0 && limit > 0)
+            articlesQuery.push(
+                { $skip: (((req.query.page - 1) * req.query.limit) || 0) },
+                { $limit: parseInt(req.query.limit) || 0 }
+            )
+
+        const data = await Article.aggregate([
+            { $match: { title: { $regex: req.params.text, $options: 'i' } } },
+            {
+                $facet: {
+                    articles: articlesQuery,
+                    info: [
+                        { $count: "totalDocuments" }
+                    ]
+                }
+            }
+        ])
+
+        res.status(200).json(data[0])
+    } catch (error) {
+        res.status(400).json({ error: error.message })
+        await new Error({ stack: error.stack }).save()
+    }
+}
+
+
+export { create, read, many, byTag, tags, updateOne, deleteOne, popular, search }
