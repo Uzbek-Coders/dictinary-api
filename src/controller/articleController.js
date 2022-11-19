@@ -191,4 +191,19 @@ const search = async (req, res) => {
 }
 
 
-export { create, read, many, byTag, tags, updateOne, deleteOne, popular, search }
+const admin = async (req, res) => {
+    try {
+        const articles = await Article
+            .find()
+            .sort('-createdAt')
+            .select('-__v')
+
+        res.status(200).json(articles)
+    } catch (error) {
+        res.status(400).json({ error: error.message })
+        await new Error({ stack: error.stack }).save()
+    }
+}
+
+
+export { admin, many, popular, read, search, tags, byTag, create, updateOne, deleteOne }
