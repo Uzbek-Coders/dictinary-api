@@ -5,29 +5,21 @@ const grammarSchema = new mongoose.Schema({
     title: {
         required: true,
         type: String,
+        trim: true,
         minLength: 1,
-        maxLength: 255,
-        trim: true
+        maxLength: 255
     },
     body: {
         required: true,
         type: String,
+        trim: true,
         minLength: 1,
-        maxLength: 32767,
-        trim: true
+        maxLength: 32767
     },
-    category: {
-        required: true,
+    parent: {
         type: String,
-        enum: [
-            'Adjectives and adverbs',
-            'Easily confused words',
-            'Nouns, pronouns and determiners',
-            'Prepositions and particles',
-            'Using English',
-            'Verbs',
-            'Words, sentences and clauses'
-        ]
+        trim: true,
+        maxLength: 255
     }
 }, { timestamps: true, collection: 'grammar' })
 

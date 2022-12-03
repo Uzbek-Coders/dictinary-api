@@ -36,9 +36,9 @@ const read = async (req, res) => {
 
 const many = async (req, res) => {
     try {
-        const grammars = await Grammar.find()
+        const grammars = await Grammar.find(req.query)
             .sort('title')
-            .select('-body -__v')
+            .select('-__v')
 
         res.status(200).json(grammars)
     } catch (error) {
