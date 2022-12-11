@@ -70,19 +70,4 @@ const deleteOne = async (req, res) => {
 }
 
 
-const popular = async (req, res) => {
-    try {
-        const articles = await Grammar.find()
-            .sort('title')
-            .limit(10)
-            .select('-body -views -tags -delete_urls -createdAt -updatedAt -__v')
-
-        res.status(200).json(articles)
-    } catch (error) {
-        res.status(400).json({ error: error.message })
-        await new Error({ stack: error.stack }).save()
-    }
-}
-
-
-export { create, read, many, popular, updateOne, deleteOne }
+export { create, read, many, updateOne, deleteOne }

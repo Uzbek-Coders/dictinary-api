@@ -6,8 +6,7 @@ import {
     read,
     many,
     updateOne,
-    deleteOne,
-    popular
+    deleteOne
 } from '../controller/grammarController.js'
 
 
@@ -16,8 +15,6 @@ const router = new Router()
 router.route('/')
     .post(roleMiddleware(['USER', 'ADMIN']), create)
     .get(many)
-
-router.get('/popular', popular)
 
 router.route('/:id')
     .get(idMiddleware, read)
