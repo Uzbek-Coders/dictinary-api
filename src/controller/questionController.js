@@ -22,7 +22,7 @@ const questionCreate = async (req, res) => {
 const questionGet = async (req, res) => { 
     try {
         console.log("hello node")
-        res.send(req.body)
+        res.json(await question.find())
     } catch (error) {
 
     }
@@ -34,7 +34,7 @@ const questionGetID = async (req, res) => {
         const id = await question.find({}, { array: req.params.id })
         const result = await question.findOne({ _id: id })
         // console.log(result)
-        return res.send({data: result})
+        return res.json({data: result})
     } catch {
         
     }
