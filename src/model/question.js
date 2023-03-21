@@ -17,10 +17,10 @@ const question = new mongoose.Schema({
       },
       answers: ["Mixed"],
       correctAnswer: {
-        type: Number, 
+        type: String, 
       },
       point: {
-        type: Number,
+        type: String,
       },
     },
   ],

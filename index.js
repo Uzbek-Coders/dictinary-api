@@ -10,7 +10,6 @@ import {
 } from "./src/routes/indexRoute.js"
 import { questionCreate, questionGet, questionGetID } from './src/controller/questionController.js'
 
-
 const PORT = process.env.PORT || 4000
 const app = express()
 
