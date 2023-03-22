@@ -15,9 +15,9 @@ const app = express()
 
 
 // Middlewares
-app.use(cors({
-    origin: ['https://www.leksika.uz', 'http://localhost:3000', 'https://crud-html.vercel.app/']
-}))
+// app.use(cors({
+//     origin: ['https://www.leksika.uz', 'http://localhost:3000', 'https://crud-html.vercel.app/']
+// }))
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
