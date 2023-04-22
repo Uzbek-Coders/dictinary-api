@@ -1,0 +1,305 @@
+{
+  "quizTitle": "Unit 17",
+  "questions": [
+    {
+      "question": "I can’t make a phone call.",
+      "questionType": "text",
+      "answers": [
+        "I haven’t got any change.",
+        "I am not having any change."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I couldn’t read the notice.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t have my glasses.",
+        "I hadn’t my glasses."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t climb up into the roof.",
+      "questionType": "text",
+      "answers": [
+        "I haven’t got a ladder. / I don’t have a ladder.",
+        "I’m not having a ladder."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We couldn’t visit the museum.",
+      "questionType": "text",
+      "answers": [
+        "We didn’t have enough time.",
+        "We hadn’t enough time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He couldn’t find his way to our house.",
+      "questionType": "text",
+      "answers": [
+        "He didn’t have a navigator.",
+        "He hadn’t a navigator."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She can’t pay her bills.",
+      "questionType": "text",
+      "answers": [
+        "She hasn’t got any money./She doesn’t have any money.",
+        "She isn’t having any money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They can’t get into the house.",
+      "questionType": "text",
+      "answers": [
+        "They haven’t got a key./They don’t have a key.",
+        "They are not having a key."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I couldn’t take any photographs.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t have a camera.",
+        "I wasn’t having a camera."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Excuse me, …….... a pen I could borrow?",
+      "questionType": "text",
+      "answers": [
+        "have you got",
+        "are you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you holding your face like that? …….... a toothache?",
+      "questionType": "text",
+      "answers": [
+        "Do you have",
+        "Are you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "…….... a bicycle when you were a child?",
+      "questionType": "text",
+      "answers": [
+        "Did you have",
+        "Were you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“…….... the time, please?” “Yes, it’s ten past seven.”",
+      "questionType": "text",
+      "answers": [
+        "Have you got",
+        "Are you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When you did the exam, …….... time to answer all the questions?",
+      "questionType": "text",
+      "answers": [
+        "did you have",
+        "were you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need a stamp for this letter.  …….... one?",
+      "questionType": "text",
+      "answers": [
+        "Do you have",
+        "Are you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“It started to rain while I was walking home.” “Did it? …….... an umbrella?”",
+      "questionType": "text",
+      "answers": [
+        "Did you have",
+        "Were you having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I …….... a car but I …….... a car ten years ago.",
+      "questionType": "text",
+      "answers": [
+        "’ve got / didn’t have",
+        "am having / wasn’t having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I …….... a bicycle now. I …….... a bicycle a few years ago.",
+      "questionType": "text",
+      "answers": [
+        "’ve got / didn’t have",
+        "am having / wasn’t having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I …….... a guitar now, however I …….... a guitar when I was a child.",
+      "questionType": "text",
+      "answers": [
+        "haven’t got / had",
+        "am not having / was having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I …….... a dog now and I …….... a dog when I lived in another city.",
+      "questionType": "text",
+      "answers": [
+        "’ve got / had",
+        "am having / was having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t eat much during the day. I never …….... .",
+      "questionType": "text",
+      "answers": [
+        "have lunch",
+        "have a shower"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "David likes to keep fit, so he …….... every day.",
+      "questionType": "text",
+      "answers": [
+        "has a swim",
+        "has a cigarette"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We …….... last Saturday. It was great - we invited lots of people.",
+      "questionType": "text",
+      "answers": [
+        "had a party",
+        "had a shower"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Excuse me, can I …….... at your newspaper, please?",
+      "questionType": "text",
+      "answers": [
+        "have a look",
+        "have a nice time"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Where’s Jim” “He …….... in his room. He’s very tired.”",
+      "questionType": "text",
+      "answers": [
+        "’s having a rest",
+        "s having a party"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met Ann in the supermarket yesterday. We stopped and …….... .",
+      "questionType": "text",
+      "answers": [
+        "had a chat",
+        "had a swim"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t seen you since you came back from holiday. …….... ?",
+      "questionType": "text",
+      "answers": [
+        "Did you have a nice time",
+        "Did you have a cigarette"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Suzanne …….... a few weeks ago. It’s her second child.",
+      "questionType": "text",
+      "answers": [
+        "had a baby",
+        "didn’t have a baby"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t usually smoke but I was feeling very nervous, so I ……....",
+      "questionType": "text",
+      "answers": [
+        "had a cigarette.",
+        "had a party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The phone rang but I couldn’t answer it because I …….... .",
+      "questionType": "text",
+      "answers": [
+        "was having a shower",
+        "was having a baby"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Siz Tomni aeroportda uchratdingiz. U hozirgina uchib kelgandi. Siz unga: Hello, Tom.   …….... ?",
+      "questionType": "text",
+      "answers": [
+        "Did you have a good flight",
+        "Were you having a good flight"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

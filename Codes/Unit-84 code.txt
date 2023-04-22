@@ -1,0 +1,345 @@
+{
+  "quizTitle": "Unit 84",
+  "questions": [
+    {
+      "question": "We didn’t buy .............. flowers.",
+      "questionType": "text",
+      "answers": [
+        "any",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This evening I’m going out with .............. friends of mine.",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you seen .............. good films recently? - No, I haven’t been to the cinema for ages.",
+      "questionType": "text",
+      "answers": [
+        "any",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t have .............. money, so I had to borrow ..............",
+      "questionType": "text",
+      "answers": [
+        "any / some.",
+        "some / any."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can I have .............. milk in my coffee, please?",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was too tired to do .............. work.",
+      "questionType": "text",
+      "answers": [
+        "any",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can cash these traveler’s cheques at .............. bank.",
+      "questionType": "text",
+      "answers": [
+        "any",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you give me .............. information about places of interest in the town?",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "With the special tourist train ticket, you can travel on .............. train you like.",
+      "questionType": "text",
+      "answers": [
+        "any",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was too surprised to say ..............",
+      "questionType": "text",
+      "answers": [
+        "anything.",
+        "something."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s .............. at the door. Can you go and see who it is?",
+      "questionType": "text",
+      "answers": [
+        "somebody/someone",
+        "anybody/anyone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Does .............. mind if I open the window?",
+      "questionType": "text",
+      "answers": [
+        "anybody/anyone",
+        "somebody/someone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wasn’t feeling hungry, so I didn’t eat ..............",
+      "questionType": "text",
+      "answers": [
+        "anything.",
+        "something."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You must be hungry. Would you like .............. to eat?",
+      "questionType": "text",
+      "answers": [
+        "something",
+        "anything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Quick, let’s go! There’s .............. coming and I don’t want .............. to see us.",
+      "questionType": "text",
+      "answers": [
+        "somebody / anybody",
+        "anybody / somebody"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sally was upset about .............. and refused to talk to ..............",
+      "questionType": "text",
+      "answers": [
+        "something / anybody.",
+        "anything / somebody."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This machine is very easy to use. .............. can learn to use it in a very short time.",
+      "questionType": "text",
+      "answers": [
+        "Anybody/Anyone",
+        "Somebody/Someone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was hardly .............. on the beach. It was almost deserted.",
+      "questionType": "text",
+      "answers": [
+        "anybody/anyone",
+        "somebody/someone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you live .............. near Jim? - No, he lives in another part of town.",
+      "questionType": "text",
+      "answers": [
+        "anywhere",
+        "somewhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We slept in a park because we didn’t have .............. to stay.",
+      "questionType": "text",
+      "answers": [
+        "anywhere",
+        "somewhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where shall we go on holiday? - Let’s go .............. warm and sunny.",
+      "questionType": "text",
+      "answers": [
+        "somewhere",
+        "anywhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They stay at home all the time. They never seem to go ..............",
+      "questionType": "text",
+      "answers": [
+        "anywhere.",
+        "somewhere."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going out now. If .............. phones while I’m out, can you tell them I’ll be back at 11.30?",
+      "questionType": "text",
+      "answers": [
+        "anybody/anyone",
+        "somebody/someone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you looking under the bed? Have you lost ..............?",
+      "questionType": "text",
+      "answers": [
+        "something",
+        "anything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. who saw the accident should contact the police.",
+      "questionType": "text",
+      "answers": [
+        "Anybody/Anyone",
+        "Somebody/Someone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue is very secretive. She never tells .............. .............. (2 so’z)",
+      "questionType": "text",
+      "answers": [
+        "anybody / anything",
+        "somebody / something"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which bus do I have to catch? - .............. They all go to the cinema.",
+      "questionType": "text",
+      "answers": [
+        "Any bus.",
+        "Some bus."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which day shall I come? - I don’t mind. ..............",
+      "questionType": "text",
+      "answers": [
+        "Any day.",
+        "Some day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What do you want to eat? - .............. I don’t mind. Whatever you have.",
+      "questionType": "text",
+      "answers": [
+        "Anything.",
+        "Something."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where shall I sit? - It’s up to you. You can sit .............. you like.",
+      "questionType": "text",
+      "answers": [
+        "anywhere",
+        "somewhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What sort of job are you looking for? - .............. It doesn’t matter.",
+      "questionType": "text",
+      "answers": [
+        "Anything.",
+        "Something."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time shall I phone tomorrow? - .............. I’ll be in all day.",
+      "questionType": "text",
+      "answers": [
+        "Any time.",
+        "Some time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who shall I invite to the party? - I don’t mind. .............. you like.",
+      "questionType": "text",
+      "answers": [
+        "Anybody",
+        "Somebody"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which newspaper shall I buy? - .............. Whatever they have in the shop. ",
+      "questionType": "text",
+      "answers": [
+        "Any one.",
+        "Some one."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

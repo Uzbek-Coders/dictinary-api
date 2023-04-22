@@ -1,0 +1,245 @@
+{
+  "quizTitle": "Unit 91",
+  "questions": [
+    {
+      "question": "An architect is someone ........... designs buildings.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A burglar is someone ........... breaks into a house to steal things.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A customer is someone ........... buys something from a shop.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A shoplifter is someone ........... steals from a shop.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A coward is someone ........... is not brave.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "An atheist is someone ........... doesn’t believe in God.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A pensioner is someone ........... no longer works and gets money from the state.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A tenant is someone ........... pays rent to live in a house or flat.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A girl was injured in the accident. She is now in hospital.",
+      "questionType": "text",
+      "answers": [
+        "The girl who was injured in the accident is now in hospital.",
+        "The girl which was injured in the accident is now in hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A man answered the phone. He told me you were away.",
+      "questionType": "text",
+      "answers": [
+        "The man who/that answered the phone told me you were away.",
+        "The man which answered the phone told me you were away."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A waitress served us. She was very impolite and impatient.",
+      "questionType": "text",
+      "answers": [
+        "The waitress who/that served us was very impolite and impatient.",
+        "The waitress which served us was very impolite and impatient."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A building was destroyed in the fire. It has now been rebuilt.",
+      "questionType": "text",
+      "answers": [
+        "The building that/which was destroyed in the fire has now been rebuilt.",
+        "The building who was destroyed in the fire has now been rebuilt."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Some people were arrested. They have now been released.",
+      "questionType": "text",
+      "answers": [
+        "The people who/that were arrested have now been released.",
+        "The people which were arrested have now been released."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A bus goes to the airport. It runs every half hour.",
+      "questionType": "text",
+      "answers": [
+        "The bus that/which goes to the airport runs every half hour.",
+        "The bus who goes to the airport runs every half hour."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Barbara works for a company ........... makes washing machines.",
+      "questionType": "text",
+      "answers": [
+        "that",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The book is about a girl ........... runs away from home.",
+      "questionType": "text",
+      "answers": [
+        "who/that",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What was the name of the horse ........... won the race?",
+      "questionType": "text",
+      "answers": [
+        "that/which",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The police have caught the men ........... stole my car.",
+      "questionType": "text",
+      "answers": [
+        "who/that",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Alexander Bell was the man ........... invented the telephone.",
+      "questionType": "text",
+      "answers": [
+        "who/that",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s happened to the pictures ........... were on the wall.",
+      "questionType": "text",
+      "answers": [
+        "that/which",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A mystery is something ........... cannot be explained.",
+      "questionType": "text",
+      "answers": [
+        "that/which",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A dictionary is a book ........... gives you the meaning of words.",
+      "questionType": "text",
+      "answers": [
+        "that/which",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like people ........... are never on time.",
+      "questionType": "text",
+      "answers": [
+        "who/that",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It seems that Earth is the only planet ........... can support life.",
+      "questionType": "text",
+      "answers": [
+        "that/which",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

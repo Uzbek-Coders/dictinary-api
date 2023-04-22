@@ -1,0 +1,325 @@
+{
+  "quizTitle": "Unit 55",
+  "questions": [
+    {
+      "question": "They denied ................. the money.",
+      "questionType": "text",
+      "answers": [
+        "stealing",
+        "to steal"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t enjoy ................. very much.",
+      "questionType": "text",
+      "answers": [
+        "driving",
+        "to drive"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want ................. out tonight. I’m too tired.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t afford ................. out tonight. I haven’t got enough money.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Has it stopped ................. yet?",
+      "questionType": "text",
+      "answers": [
+        "raining",
+        "to rain"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you remind me ................. some coffee when we go out?",
+      "questionType": "text",
+      "answers": [
+        "to buy",
+        "buying"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why do you keep ................. me questions? Can’t you leave me alone?",
+      "questionType": "text",
+      "answers": [
+        "asking",
+        "to ask"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please stop ................. me questions!",
+      "questionType": "text",
+      "answers": [
+        "asking",
+        "to ask"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I refuse ................. any more questions.",
+      "questionType": "text",
+      "answers": [
+        "to answer",
+        "answering"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "One of the boys admitted ................. the window.",
+      "questionType": "text",
+      "answers": [
+        "breaking",
+        "to break"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The boy’s father promised ................. for the window to be repaired.",
+      "questionType": "text",
+      "answers": [
+        "to pay",
+        "paying"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann was having dinner when the phone rang. She didn’t answer the phone; she just carried on .................",
+      "questionType": "text",
+      "answers": [
+        "eating.",
+        "to eat."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How did the thief get into the house? - I forgot ................. the window.",
+      "questionType": "text",
+      "answers": [
+        "to shut",
+        "shutting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve enjoyed ................. you. I hope ................. you again soon.",
+      "questionType": "text",
+      "answers": [
+        "meeting / to see",
+        "to meet / seeing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The baby began ................. in the middle of the night.",
+      "questionType": "text",
+      "answers": [
+        "crying",
+        "cry"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Julia has been ill but now she’s beginning ................. better.",
+      "questionType": "text",
+      "answers": [
+        "to get",
+        "getting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He was in hospital when he was four.",
+      "questionType": "text",
+      "answers": [
+        "He can remember being in hospital when he was four.",
+        "He can remember to be in hospital when he was four."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He went to Paris when he was eight.",
+      "questionType": "text",
+      "answers": [
+        "He can remember going to Paris when he was eight.",
+        "He can remember to go to Paris when he was eight."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Once he fell into the river.",
+      "questionType": "text",
+      "answers": [
+        "He can’t remember falling into a river.",
+        "He can’t remember to fall into a river."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He cried on his first day at school.",
+      "questionType": "text",
+      "answers": [
+        "He can remember crying on his first day at school.",
+        "He can remember to cry on his first day at school."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He said he wanted to be a doctor.",
+      "questionType": "text",
+      "answers": [
+        "He can’t remember saying he wanted to be a doctor.",
+        "He can’t remember to say he wanted to be a doctor."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Once he was bitten by a dog.",
+      "questionType": "text",
+      "answers": [
+        "He can’t remember being bitten by a dog.",
+        "He can’t remember to be bitten by a dog."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please remember ................. the door when you go out.",
+      "questionType": "text",
+      "answers": [
+        "to lock",
+        "locking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You lent me some money a few months ago. - Did I? Are you sure? I don’t remember ................. you any money.",
+      "questionType": "text",
+      "answers": [
+        "lending",
+        "to lend"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you remember ................. your sister? - Oh no, I completely forgot. I’ll phone her tomorrow.",
+      "questionType": "text",
+      "answers": [
+        "to phone",
+        "phoning"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When you see Mandy, remember ................. her my regards, won’t you?",
+      "questionType": "text",
+      "answers": [
+        "to give",
+        "giving"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Someone must have taken my bag. I clearly remember ................. it by the window and now it has gone.",
+      "questionType": "text",
+      "answers": [
+        "putting",
+        "to put"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I believe that what I said was fair. I don’t regret ................. it.",
+      "questionType": "text",
+      "answers": [
+        "saying",
+        "to say"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "(after a driving test) I regret ................. you that you have failed the test.",
+      "questionType": "text",
+      "answers": [
+        "to tell",
+        "telling"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Keith joined the company 15 years ago. He was quickly promoted and became assistant manager after two years. A few years later he went on ................. manager of the company.",
+      "questionType": "text",
+      "answers": [
+        "to become",
+        "becoming"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t go on ................. here any more. I want a different job.",
+      "questionType": "text",
+      "answers": [
+        "working",
+        "to work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I came into the room, Liz was reading a newspaper. She looked up and said hello to me, and then went on ................. her newspaper.",
+      "questionType": "text",
+      "answers": [
+        "reading",
+        "to read"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

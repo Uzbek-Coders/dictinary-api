@@ -1,0 +1,345 @@
+{
+  "quizTitle": "Unit 69",
+  "questions": [
+    {
+      "question": "Did you hear ........ just now? - No, I didn’t hear anything.",
+      "questionType": "text",
+      "answers": [
+        "a noise",
+        "noise"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to know the news, you can read ........",
+      "questionType": "text",
+      "answers": [
+        "a paper.",
+        "paper."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to write some letters but I haven’t got ........ to write on.",
+      "questionType": "text",
+      "answers": [
+        "any paper",
+        "a paper"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I thought there was somebody in the house because there was ........ on inside.",
+      "questionType": "text",
+      "answers": [
+        "a light",
+        "light"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........ comes from the sun.",
+      "questionType": "text",
+      "answers": [
+        "Light",
+        "A light"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was in a hurry this morning. I didn’t have ........ for breakfast.",
+      "questionType": "text",
+      "answers": [
+        "time",
+        "a time"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you enjoy your holiday? - Yes, we had ........",
+      "questionType": "text",
+      "answers": [
+        "a wonderful time.",
+        "wonderful time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue was very helpful. She gave us some very useful ........",
+      "questionType": "text",
+      "answers": [
+        "advice.",
+        "advices."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had ........ while we were on holiday.",
+      "questionType": "text",
+      "answers": [
+        "very good weather",
+        "a very good weather"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were very unfortunate. We had ........",
+      "questionType": "text",
+      "answers": [
+        "bad luck.",
+        "a bad luck."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s very difficult to find a ........ at the moment.",
+      "questionType": "text",
+      "answers": [
+        "job",
+        "work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our ........ from London to Istanbul by train was very tiring.",
+      "questionType": "text",
+      "answers": [
+        "journey",
+        "travel"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When the fire alarm rang, there was ........",
+      "questionType": "text",
+      "answers": [
+        "total chaos",
+        "a total chaos"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had to buy ........ bread because I wanted to make some sandwiches.",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "a"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bad news ........ make people happy.",
+      "questionType": "text",
+      "answers": [
+        "doesn’t",
+        "don’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........ too long. You should have ........ cut.",
+      "questionType": "text",
+      "answers": [
+        "Your hair is / it",
+        "Your hairs are / them"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nobody was hurt in the accident but ........ to the car ........ quite bad.",
+      "questionType": "text",
+      "answers": [
+        "the damage / was",
+        "the damages / were"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t have much ........ - just two small bags.",
+      "questionType": "text",
+      "answers": [
+        "luggage",
+        "luggages"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They’ll tell you all you want to know. They’ll give you plenty of ........",
+      "questionType": "text",
+      "answers": [
+        "information.",
+        "informations."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There is room for everybody to sit down. There are plenty of ........",
+      "questionType": "text",
+      "answers": [
+        "chairs.",
+        "chair."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We have no ........, not even a bed or a table.",
+      "questionType": "text",
+      "answers": [
+        "furniture",
+        "furnitures"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What does Alan look like? - He’s got a long beard and very short ........",
+      "questionType": "text",
+      "answers": [
+        "hair.",
+        "hairs."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Carla’s English is better than it was. She’s made ........",
+      "questionType": "text",
+      "answers": [
+        "progress.",
+        "progresses."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George is unemployed. He’s looking for a ........",
+      "questionType": "text",
+      "answers": [
+        "job.",
+        "jobs."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George is unemployed. He’s looking for ........",
+      "questionType": "text",
+      "answers": [
+        "work.",
+        "works."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to leave work early, you have to ask for ........",
+      "questionType": "text",
+      "answers": [
+        "permission.",
+        "permissions."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t think Ann will get the job. She hasn’t got enough ........",
+      "questionType": "text",
+      "answers": [
+        "experience.",
+        "experiences."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Rita has done many interesting things. She should write a book about her ........",
+      "questionType": "text",
+      "answers": [
+        "experiences.",
+        "experience."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your friends have just arrived at the station. You can’t see any suitcases or bags. You ask them:",
+      "questionType": "text",
+      "answers": [
+        "Have you got any luggage?",
+        "Have you got any luggages?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You go into the tourist office. You want to know about places to see in the town. You say:",
+      "questionType": "text",
+      "answers": [
+        "I’d like some information about places to see.",
+        "I’d like some informations about places to see."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are a student at school. You want your teacher to advise you about which examinations to take. You say:",
+      "questionType": "text",
+      "answers": [
+        "Can you give me some advice about examinations?",
+        "Can you give me some advices about examinations?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You want to watch the news on TV but you don’t know what time it is on. You ask your friend:",
+      "questionType": "text",
+      "answers": [
+        "What time is the news (on TV)?",
+        "What time are the news (on TV)?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are standing at the top of a mountain. You can see a very long way. It’s lovely. You say:",
+      "questionType": "text",
+      "answers": [
+        "It’s a beautiful view, isn’t it?",
+        "It’s beautiful views, isn’t it?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You look out of the window. The weather is horrible: cold, wet and windy. You say to your friend:",
+      "questionType": "text",
+      "answers": [
+        "What horrible weather!",
+        "What a horrible weather!"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

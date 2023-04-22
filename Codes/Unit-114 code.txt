@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 114",
+  "questions": [
+    {
+      "question": "You must work much harder or you won’t pass the exam.",
+      "questionType": "text",
+      "answers": [
+        "You won’t pass the exam unless you work much harder.",
+        "You won’t pass the exam unless you don’t work much harder."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Listen carefully or you won’t know what to do.",
+      "questionType": "text",
+      "answers": [
+        "You won’t know what to do unless you listen carefully.",
+        "You won’t know what to do unless you don’t listen carefully."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She must apologize to me or I’ll never speak to her again.",
+      "questionType": "text",
+      "answers": [
+        "I’ll never speak to her again unless she apologizes to me.",
+        "I’ll never speak to her again unless she doesn’t apologize to me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have to speak very slowly or he won’t be able to understand you.",
+      "questionType": "text",
+      "answers": [
+        "He won’t be able to understand you unless you speak very slowly.",
+        "He won’t be able to understand you unless you don’t speak very slowly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The company must offer me more money or I’m going to look for another job.",
+      "questionType": "text",
+      "answers": [
+        "I’m going to look for another job unless the company offer me more money.",
+        "I’m going to look for another job unless the company don’t offer me more money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are allowed into the club only if you’re a member.",
+      "questionType": "text",
+      "answers": [
+        "You aren’t allowed into the club unless you’re a member.",
+        "You aren’t allowed into the club unless you’re not a member."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going to the party only if you go too.",
+      "questionType": "text",
+      "answers": [
+        "I’m not going to the party unless you go too.",
+        "I’m not going to the party unless you don’t go too."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The dog will attack you only if you move suddenly.",
+      "questionType": "text",
+      "answers": [
+        "The dog won’t attack you unless you move suddenly.",
+        "The dog won’t attack you unless you don’t move suddenly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He’ll speak to you only if you ask him a question.",
+      "questionType": "text",
+      "answers": [
+        "He won’t speak to you unless you ask him a question.",
+        "He won’t speak to you unless you don’t ask him a question."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The doctor will see you today only if it’s an emergency.",
+      "questionType": "text",
+      "answers": [
+        "The doctor won’t see you today unless it’s an emergency.",
+        "The doctor won’t see you today unless it’s not an emergency."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can use my car ............... you drive carefully.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m playing tennis tomorrow ............... it’s raining.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "providing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m playing tennis tomorrow ............... it’s not raining.",
+      "questionType": "text",
+      "answers": [
+        "providing",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t mind if you come in late ............... you come in quietly.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going now ............... you want me to stay.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "provided"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t watch television ............... I’ve got nothing else to do.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "as long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Children are allowed to use the swimming pool ............... they are with an adult.",
+      "questionType": "text",
+      "answers": [
+        "provided",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............... they are with an adult, children are not allowed to use the swimming pool.",
+      "questionType": "text",
+      "answers": [
+        "Unless",
+        "Provided"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We can sit here in the corner ............... you’d rather sit over there by the window.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "as long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our holiday cost a lot of money. - Did it? Well, that doesn’t matter ............... you enjoyed yourselves.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We’ll be late ............... we hurry.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "as long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like hot weather ............... I have to work.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "as long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like hot weather ............... I don’t have to work.",
+      "questionType": "text",
+      "answers": [
+        "provided",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate reads a newspaper every day ............... she has time.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t mind walking home ............... it isn’t raining.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like to walk to work in the morning ............... I’m in a harry.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "as long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We can meet tomorrow ............... you have something else to do.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "provided"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can borrow the money ............... you pay it back as soon as possible.",
+      "questionType": "text",
+      "answers": [
+        "providing",
+        "unless"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You won’t achieve anything ............... you take risks.",
+      "questionType": "text",
+      "answers": [
+        "unless",
+        "providing that"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

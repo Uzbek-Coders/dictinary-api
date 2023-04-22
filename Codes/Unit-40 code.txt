@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 40",
+  "questions": [
+    {
+      "question": "They helped me a lot. I don’t know what I ................. without their help.",
+      "questionType": "text",
+      "answers": [
+        "would have done",
+        "would do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You should go and see the film. You ................. it.",
+      "questionType": "text",
+      "answers": [
+        "would enjoy",
+        "would have enjoyed"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity you couldn’t come to the party last night. You ................. it.",
+      "questionType": "text",
+      "answers": [
+        "would have enjoyed",
+        "would enjoy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ................. you last night but I didn’t have your number.",
+      "questionType": "text",
+      "answers": [
+        "would have phoned",
+        "would phone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why don’t you go and see Clare? She ................. very pleased to see you.",
+      "questionType": "text",
+      "answers": [
+        "would be",
+        "would have been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was in a hurry when I saw you. Otherwise, I ................. to talk.",
+      "questionType": "text",
+      "answers": [
+        "would have stopped",
+        "would stop"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wonder why she’s late.",
+      "questionType": "text",
+      "answers": [
+        "She promised she wouldn’t be late.",
+        "She promised she wouldn’t have been late."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wonder why Tom hasn’t written to me.",
+      "questionType": "text",
+      "answers": [
+        "He promised he would write to me.",
+        "He promised he would have written to me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m surprised they didn’t wait for us.",
+      "questionType": "text",
+      "answers": [
+        "They promised they would wait for us.",
+        "They promised they would have waited for us."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why did you tell Jill what I said?",
+      "questionType": "text",
+      "answers": [
+        "You promised you wouldn’t tell Jill what I said.",
+        "You promised you wouldn’t have told Jill what I said."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s raining. You want to go out, but not in the rain.",
+      "questionType": "text",
+      "answers": [
+        "I wish it would stop raining.",
+        "I wish it stops raining."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re waiting for John. He’s late and you’re getting impatient.",
+      "questionType": "text",
+      "answers": [
+        "I wish he would come.",
+        "I wish he comes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can hear a baby crying and you’re trying to study.",
+      "questionType": "text",
+      "answers": [
+        "I wish the baby would stop crying.",
+        "I wish the baby stops crying."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re looking for a job - so far without success. Nobody will give you a job.",
+      "questionType": "text",
+      "answers": [
+        "I wish somebody would give me a job.",
+        "I wish somebody gives me a job."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Brian has been wearing the same clothes for years. You think he needs some new clothes.",
+      "questionType": "text",
+      "answers": [
+        "I wish you would buy some new clothes.",
+        "I wish you buy some new clothes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your friend drives very fast. You don’t like this.",
+      "questionType": "text",
+      "answers": [
+        "I wish you wouldn’t drive so fast.",
+        "I wish you don’t drive so fast."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack always leaves the door open. This annoys you.",
+      "questionType": "text",
+      "answers": [
+        "I wish you wouldn’t (always) leave the door open.",
+        "I wish you don’t (always) leave the door open."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A lot of people drop litter in the street. You don’t like this.",
+      "questionType": "text",
+      "answers": [
+        "I wish people wouldn’t drop litter in the street.",
+        "I wish people don’t drop litter in the street."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish Sarah were here now.",
+        "I wish Sarah would be here now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish you would listen to me.",
+        "I wish you listened to me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish I had more money.",
+        "I wish I would have more money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish it wasn’t/weren’t so cold today.",
+        "I wish it wouldn’t be so cold today."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish the weather would change.",
+        "I wish the weather changed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish you wouldn’t complain all the time.",
+        "I wish you didn’t complain all the time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Select the correct sentence.",
+      "questionType": "text",
+      "answers": [
+        "I wish everything wasn’t/weren’t so expensive.",
+        "I wish everything wouldn’t be so expensive."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Whenever Arthur was angry, he .................  out of the room.",
+      "questionType": "text",
+      "answers": [
+        "would walk",
+        "walked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I used to live next to a railway line. Whenever a train went past, the house .................",
+      "questionType": "text",
+      "answers": [
+        "would shake.",
+        "shook."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You could never rely on George. It didn’t matter how many times you reminded him to do something, he .................",
+      "questionType": "text",
+      "answers": [
+        "would always forget.",
+        "always forgot."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Brenda was always very generous. She didn’t have much but she ................. what she had with everyone else.",
+      "questionType": "text",
+      "answers": [
+        "would share",
+        "shared"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

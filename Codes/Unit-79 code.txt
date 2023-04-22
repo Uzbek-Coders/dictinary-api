@@ -1,0 +1,355 @@
+{
+  "quizTitle": "Unit 79",
+  "questions": [
+    {
+      "question": "A ticket for a concert is ...............",
+      "questionType": "text",
+      "answers": [
+        "a concert ticket.",
+        "a ticket concert."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A magazine about computers is ...............",
+      "questionType": "text",
+      "answers": [
+        "a computer magazine.",
+        "a magazine computer."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Photographs taken on your holiday are your ...............",
+      "questionType": "text",
+      "answers": [
+        "holiday photographs.",
+        "photograph holidays."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Chocolate made with milk is ...............",
+      "questionType": "text",
+      "answers": [
+        "milk chocolate.",
+        "chocolate milk."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Somebody whose job is to inspect factories is ...............",
+      "questionType": "text",
+      "answers": [
+        "a factory inspector.",
+        "an inspector factory."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A hotel in the central London is ...............",
+      "questionType": "text",
+      "answers": [
+        "a central London hotel.",
+        "a central hotel London."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The results of your examination are your ...............",
+      "questionType": "text",
+      "answers": [
+        "examination results.",
+        "result examinations."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The carpet in the dining room is ...............",
+      "questionType": "text",
+      "answers": [
+        "the dining room carpet.",
+        "the carpet dining room."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A scandal involving a football club is ...............",
+      "questionType": "text",
+      "answers": [
+        "a football club scandal.",
+        "a scandal football club."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A question that has two parts is ...............",
+      "questionType": "text",
+      "answers": [
+        "a two-part question.",
+        "a two-question part."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A girl who is seven years old is ...............",
+      "questionType": "text",
+      "answers": [
+        "a seven-year-old girl.",
+        "an old seven girl years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Problems concerning health are ...............",
+      "questionType": "text",
+      "answers": [
+        "health problems.",
+        "problem health."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A horse that runs in races is ...............",
+      "questionType": "text",
+      "answers": [
+        "a race horse.",
+        "a horse race."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A race for horses is ...............",
+      "questionType": "text",
+      "answers": [
+        "a horse race.",
+        "a race horse."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Workers at a car factory are ...............",
+      "questionType": "text",
+      "answers": [
+        "car factory workers.",
+        "worker car factories."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A scheme to improve a road is ...............",
+      "answers": [
+        "a road improvement scheme.",
+        "a road scheme improvement."
+      ],
+      "questionType": "text",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A course that lasts five days is ...............",
+      "questionType": "text",
+      "answers": [
+        "a five-day course.",
+        "a five-course day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This can be caused by bad driving.",
+      "questionType": "text",
+      "answers": [
+        "A road accident.",
+        "An accident road."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you’re staying at a hotel, you need remember this.",
+      "questionType": "text",
+      "answers": [
+        "Your room number.",
+        "Your number room."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You should wear this when you’re in a car.",
+      "questionType": "text",
+      "answers": [
+        "A seat belt.",
+        "A belt seat."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can sometimes use this to pay for things instead of cash.",
+      "questionType": "text",
+      "answers": [
+        "A credit card.",
+        "A card credit."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to know if it’s going to rain, you can read or listen to this.",
+      "questionType": "text",
+      "answers": [
+        "The weather forecast.",
+        "The forecast weather."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This person is a top journalist.",
+      "questionType": "text",
+      "answers": [
+        "A newspaper editor.",
+        "An editor newspaper."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You might stop to look in this when you’re walking along a street.",
+      "questionType": "text",
+      "answers": [
+        "A shop window.",
+        "A window shop."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s quite a long book. There are ...............",
+      "questionType": "text",
+      "answers": [
+        "450 pages.",
+        "450-page."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A few days ago, I received a ............... letter from Julia.",
+      "questionType": "text",
+      "answers": [
+        "ten-page",
+        "ten pages"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t have any change. I only had a ............... note.",
+      "questionType": "text",
+      "answers": [
+        "20-dollar",
+        "20 dollars"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "At work in the morning, I usually have a ............... break for coffee.",
+      "questionType": "text",
+      "answers": [
+        "15-minute",
+        "15 minutes"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There are ............... in an hour.",
+      "questionType": "text",
+      "answers": [
+        "60 minutes",
+        "60-minute"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s only a ............... flight from London to Madrid.",
+      "questionType": "text",
+      "answers": [
+        "two-hour",
+        "two hours"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a big meal. There were ...............",
+      "questionType": "text",
+      "answers": [
+        "five courses.",
+        "five-course."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary has just started a new job. She’s got a ............... contract.",
+      "questionType": "text",
+      "answers": [
+        "two-year",
+        "two years"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The oldest building in the city is the ............... old castle.",
+      "questionType": "text",
+      "answers": [
+        "500-year",
+        "500 years"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I work ............... a week. Saturday and Sunday are free.",
+      "questionType": "text",
+      "answers": [
+        "five days",
+        "five-day"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We went for a ............... walk in the country.",
+      "questionType": "text",
+      "answers": [
+        "six-mile",
+        "six miles"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

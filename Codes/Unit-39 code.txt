@@ -1,0 +1,215 @@
+{
+  "quizTitle": "Unit 39",
+  "questions": [
+    {
+      "question": "I didn’t know you were in hospital. If ................., ................. to visit you. ",
+      "questionType": "text",
+      "answers": [
+        "I’d known / I would have gone",
+        "I know / I will have gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ken got to the station in time to catch his train. If ................. it, ................. late for his interview.",
+      "questionType": "text",
+      "answers": [
+        "he’d missed / he would have been",
+        "he misses / he will have been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s good that you reminded me about Ann’s birthday. ................. if ................. me.",
+      "questionType": "text",
+      "answers": [
+        "I would have forgotten / you hadn’t reminded",
+        "I would have forgotten / you didn’t remind"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Unfortunately, I didn’t have my address book with me when I was in New York. If ................. your address, ................. you a postcard.",
+      "questionType": "text",
+      "answers": [
+        "I had had / I’d have sent",
+        "I had / I would send"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How was your holiday? Did you have a nice time? - It was OK, but ................. it more if ................. better.",
+      "questionType": "text",
+      "answers": [
+        "we would have enjoyed / the weather had been",
+        "we will enjoy / the weather is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I took a taxi to the hotel but the traffic was very bad. ................. quicker if ..................",
+      "answers": [
+        "It would have been / I’d walked.",
+        "It had been / I walked."
+      ],
+      "questionType": "text",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m not tired. If ................. tired, I’d go home now.",
+      "questionType": "text",
+      "answers": [
+        "I was/were",
+        "I am"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wasn’t tired last night. If ................. tired, I’d have gone home earlier.",
+      "questionType": "text",
+      "answers": [
+        "I had been",
+        "I was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wasn’t hungry, so I didn’t eat anything.",
+      "questionType": "text",
+      "answers": [
+        "If I’d been hungry, I would have eaten something.",
+        "If I am hungry, I will have eaten something."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The accident happened because the driver in front stopped so suddenly.",
+      "questionType": "text",
+      "answers": [
+        "If the driver in front hadn’t stopped so suddenly, the accident wouldn’t have happened.",
+        "If the driver in front didn’t stop so suddenly, the accident wouldn’t happen."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t know that George had to get up early, so I didn’t wake him up.",
+      "questionType": "text",
+      "answers": [
+        "If I had known that George had to get up early, I would have woken him up.",
+        "If I knew that George had to get up early, I would wake him up."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was able to buy the car only because Jim lent me the money.",
+      "questionType": "text",
+      "answers": [
+        "If Jim hadn’t lent me the money, I couldn’t have bought the car.",
+        "If Jim doesn’t lend me the money, I will not be able to buy the car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Margaret wasn’t injured in the crash because she was wearing a seat belt.",
+      "questionType": "text",
+      "answers": [
+        "If Margaret hadn’t been wearing a seat belt, she’d have been injured.",
+        "If Margaret wasn’t wearing a seat belt, she’d be injured."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You didn’t have any breakfast - that’s why you’re hungry now.",
+      "questionType": "text",
+      "answers": [
+        "If you’d had (some) breakfast, you wouldn’t be hungry now.",
+        "If you had (some) breakfast, you wouldn’t be hungry now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t get a taxi because I didn’t have any money on me.",
+      "questionType": "text",
+      "answers": [
+        "If I had had some money on me, I’d have got a taxi.",
+        "If I had some money on me, I’d get a taxi."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve eaten too much and now you feel sick.",
+      "questionType": "text",
+      "answers": [
+        "I wish I hadn’t eaten so much.",
+        "I wish I didn’t eat so much."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was a job advertised in the newspaper. You decided not to apply for it. Now you think that your decision was wrong.",
+      "questionType": "text",
+      "answers": [
+        "I wish I’d applied for it.",
+        "I wish I applied for it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When you were younger, you didn’t learn to play a musical instrument. Now you regret this.",
+      "questionType": "text",
+      "answers": [
+        "I wish I had learned to play a musical instrument.",
+        "I wish I learned to play a musical instrument."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve painted the gate red. Now you think that it doesn’t look very nice.",
+      "questionType": "text",
+      "answers": [
+        "I wish I hadn’t painted it red.",
+        "I wish I didn’t paint it red."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are walking in the country. You would like to take some photographs but you didn’t bring your camera.",
+      "questionType": "text",
+      "answers": [
+        "I wish I had brought my camera.",
+        "I wish I brought my camera."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have some unexpected guests. They didn’t tell you they were coming. You are very busy and you are not prepared for them.",
+      "questionType": "text",
+      "answers": [
+        "I wish I’d known they were coming.",
+        "I wish I knew they were coming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

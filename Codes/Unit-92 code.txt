@@ -1,0 +1,335 @@
+{
+  "quizTitle": "Unit 92",
+  "questions": [
+    {
+      "question": "Ushbu gapda who’ni qo’yish shartmi? The woman who lives next door is a doctor.",
+      "questionType": "text",
+      "answers": [
+        "who’ni qo’yish shart",
+        "who’ni qo’yish shart emas"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda that’ni qo’yish shartmi? Have you found the keys that you lost?",
+      "questionType": "text",
+      "answers": [
+        "that’ni qo’yish shart emas",
+        "that’ni qo’yish shart"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda who’ni qo’yish shartmi? The people who we met at the party were very friendly.",
+      "questionType": "text",
+      "answers": [
+        "who’ni qo’yish shart emas",
+        "who’ni qo’yish shart"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda who’ni qo’yish shartmi? The people who work in the office are very friendly.",
+      "questionType": "text",
+      "answers": [
+        "who’ni qo’yish shart",
+        "who’ni qo’yish shart emas"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda who’ni qo’yish shartmi? The people who I talked to were very friendly.",
+      "questionType": "text",
+      "answers": [
+        "who’ni qo’yish shart emas",
+        "who’ni qo’yish shart"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda that’ni qo’yish shartmi? What have you done with the money that I gave you?",
+      "questionType": "text",
+      "answers": [
+        "that’ni qo’yish shart emas",
+        "that’ni qo’yish shart"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda that’ni qo’yish shartmi? What happened to the money that was on the table? Did you take it?",
+      "questionType": "text",
+      "answers": [
+        "that’ni qo’yish shart",
+        "that’ni qo’yish shart emas"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda that’ni qo’yish shartmi? It was an awful film. It was the worst film that I’ve ever seen.",
+      "questionType": "text",
+      "answers": [
+        "that’ni qo’yish shart emas",
+        "that’ni qo’yish shart"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda that’ni qo’yish shartmi? It was an awful experience. It was the worst thing that has ever happened to me.",
+      "questionType": "text",
+      "answers": [
+        "that’ni qo’yish shart",
+        "that’ni qo’yish shart emas"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you found the keys ........... you lost?",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like the dress ........... Ann is wearing.",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The museum ........... we wanted to visit was shut when we got there.",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s the name of the film ........... you’re going to see?",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "where"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Some of the people ........... I invited to the party couldn’t come.",
+      "questionType": "text",
+      "answers": [
+        "who/that/-",
+        "which"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you finished the work ........... you had to do?",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The car ........... we hired broke down after a few miles.",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "where"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We stayed at a hotel ........... Tom recommended to us.",
+      "questionType": "text",
+      "answers": [
+        "that/which/-",
+        "when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are these the keys ...........",
+      "questionType": "text",
+      "answers": [
+        "you were looking for?",
+        "you were looking for them?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Unfortunately, we couldn’t go to the wedding ...........",
+      "questionType": "text",
+      "answers": [
+        "(that/which) we were invited to.",
+        "(that/which) we were invited to it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I enjoy my job. I like the people ...........",
+      "questionType": "text",
+      "answers": [
+        "(who/that) I work with.",
+        "(who/that) I work with them."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s the name of that hotel ...........?",
+      "questionType": "text",
+      "answers": [
+        "(that/which) you told me about",
+        "(that/which) you told me about it"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The party ........... wasn’t very enjoyable.",
+      "questionType": "text",
+      "answers": [
+        "(that/which) we went to last night",
+        "(that/which) we went to last night it"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t get the job ...........",
+      "questionType": "text",
+      "answers": [
+        "(that/which) I applied for.",
+        "(that/which) I applied for it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George is a good person to know. He’s somebody ...........",
+      "questionType": "text",
+      "answers": [
+        "(who/that) you can rely on.",
+        "(who/that) you can rely on him."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was that man ........... in the restaurant?",
+      "questionType": "text",
+      "answers": [
+        "(who/that) I saw you with",
+        "(who/that) I saw you with him"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I gave her all the money ........... I had.",
+      "questionType": "text",
+      "answers": [
+        "that/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They give their children everything ........... they want.",
+      "questionType": "text",
+      "answers": [
+        "that/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tell me ........... you want and I’ll try to get it for you.",
+      "questionType": "text",
+      "answers": [
+        "what",
+        "that"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why do you blame me for everything ........... goes wrong?",
+      "questionType": "text",
+      "answers": [
+        "that",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I won’t be able to do much but I’ll do the best ........... I can.",
+      "questionType": "text",
+      "answers": [
+        "that/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can only lend you ten pounds. It’s all ........... I’ve got.",
+      "questionType": "text",
+      "answers": [
+        "that/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t agree with ........... you’ve just said.",
+      "questionType": "text",
+      "answers": [
+        "what",
+        "that"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t trust him. I don’t believe anything ........... he says.",
+      "questionType": "text",
+      "answers": [
+        "that/-",
+        "what"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

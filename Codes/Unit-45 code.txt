@@ -1,0 +1,255 @@
+{
+  "quizTitle": "Unit 45",
+  "questions": [
+    {
+      "question": "https://ibb.co/HKHhq1T",
+      "questionType": "photo",
+      "answers": [
+        "Sarah is having her hair cut.",
+        "Sarah is cutting her hair."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/7jw002G",
+      "questionType": "photo",
+      "answers": [
+        "Bill is cutting his hair.",
+        "Bill is having his hair cut."
+      ],
+      "point": "1",
+      "correctAnswer": "1"
+    },
+    {
+      "question": "https://ibb.co/BKw8C6K",
+      "questionType": "photo",
+      "answers": [
+        "John is cleaning his shoes.",
+        "John is having his shoes cleaned."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/tsmYGxx",
+      "questionType": "photo",
+      "answers": [
+        "Sue is having her photograph taken.",
+        "Sue is taking a photograph."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": " Why did you take your car to the garage?",
+      "questionType": "text",
+      "answers": [
+        "To have it serviced.",
+        "To service it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why did you take your jacket to the cleaner’s?",
+      "questionType": "text",
+      "answers": [
+        "To have it cleaned.",
+        "To clean it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why did you take your watch to the jeweler’s?",
+      "questionType": "text",
+      "answers": [
+        "To have it repaired.",
+        "To repair it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why did you go to the hairdresser?",
+      "questionType": "text",
+      "answers": [
+        "To have my hair cut.",
+        "To cut my hair."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jill didn’t repair the roof herself.",
+      "questionType": "text",
+      "answers": [
+        "She had it repaired.",
+        "She repaired it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t cut my hair myself.",
+      "questionType": "text",
+      "answers": [
+        "I had it cut.",
+        "I cut it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They didn’t paint the house themselves.",
+      "questionType": "text",
+      "answers": [
+        "They had it painted.",
+        "They painted it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue didn’t make the curtains herself.",
+      "questionType": "text",
+      "answers": [
+        "She had them made.",
+        "She made them."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: We ................... at the moment.",
+      "questionType": "text",
+      "answers": [
+        "are having the house painted",
+        "are painting the house"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: I lost my key. I’ll have to ...................",
+      "questionType": "text",
+      "answers": [
+        "have another key made.",
+        "make another key."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: When was the last time you ...................?",
+      "questionType": "text",
+      "answers": [
+        "had your hair cut",
+        "cut your hair"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: You look different. ...................?",
+      "questionType": "text",
+      "answers": [
+        "Have you had your hair cut",
+        "Have you cut your hair"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: ................... to your house or do you go to the shop to buy one?",
+      "questionType": "text",
+      "answers": [
+        "Do you have a newspaper delivered",
+        "Do you deliver a newspaper"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: What are those workmen doing in your garden? - Oh, we ...................",
+      "questionType": "text",
+      "answers": [
+        "are having a swimming pool built.",
+        "are building a swimming pool."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: Can I see the photographs you took when you were on holiday? - I’m afraid I ................... yet.",
+      "questionType": "text",
+      "answers": [
+        "haven’t had the film developed",
+        "haven’t developed the film"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: This coat is dirty. I must ...................",
+      "questionType": "text",
+      "answers": [
+        "have it cleaned",
+        "clean it"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Use ‘have something done’ in the sentence: If you want to wear earrings, why don’t you ...................?",
+      "questionType": "text",
+      "answers": [
+        "have your ears pierced",
+        "pierce your ears"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George’s nose was broken in a fight.",
+      "questionType": "text",
+      "answers": [
+        "He had his nose broken in the fight.",
+        "He did his nose broken in the fight."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sarah’s bag was stolen on a train.",
+      "questionType": "text",
+      "answers": [
+        "She had her bag stolen on a train.",
+        "She stole her bag on a train."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fred’s hat was blown off in the wind.",
+      "questionType": "text",
+      "answers": [
+        "He had his hat blown off in the wind.",
+        "He blew his hat off in the wind."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Diane’s passport was taken away from her by the police.",
+      "questionType": "text",
+      "answers": [
+        "She had her passport taken away from her by the police.",
+        "She took her passport away from the police."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "quizTitle": "Unit 100",
+  "questions": [
+    {
+      "question": "I play tennis but I’m not very ............",
+      "questionType": "text",
+      "answers": [
+        "good.",
+        "well."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your exam results were very ............",
+      "questionType": "text",
+      "answers": [
+        "good.",
+        "well."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You did very ............ in your exams.",
+      "questionType": "text",
+      "answers": [
+        "well",
+        "good"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The weather was very ............ while we were on holiday.",
+      "questionType": "text",
+      "answers": [
+        "good",
+        "well"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t sleep very ............ last night.",
+      "questionType": "text",
+      "answers": [
+        "well",
+        "good"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How are you? Are you ............?",
+      "questionType": "text",
+      "answers": [
+        "well",
+        "good"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George speaks German very ............",
+      "questionType": "text",
+      "answers": [
+        "well.",
+        "good."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George’s German is very ............",
+      "questionType": "text",
+      "answers": [
+        "good.",
+        "well."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our new business is going very ............ at the moment.",
+      "questionType": "text",
+      "answers": [
+        "well",
+        "good"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like your jacket. It looks ............ on you.",
+      "questionType": "text",
+      "answers": [
+        "good",
+        "well"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve met her a few times but I don’t know her very ..................",
+      "questionType": "text",
+      "answers": [
+        "well.",
+        "good."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The children were very good. They were ............",
+      "questionType": "text",
+      "answers": [
+        "well-behaved.",
+        "good-behaved."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m surprised you haven’t heard of her. She is quite ............",
+      "questionType": "text",
+      "answers": [
+        "well-known.",
+        "good-known."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our neighbor’s garden is neat and tidy. It is very ............",
+      "questionType": "text",
+      "answers": [
+        "well-kept.",
+        "good-kept."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You should eat different types of food. Your diet should be ............",
+      "questionType": "text",
+      "answers": [
+        "well-balanced.",
+        "good-balanced."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann knows a lot about many things. She is quite ............",
+      "questionType": "text",
+      "answers": [
+        "well-informed.",
+        "good-informed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "His clothes are always smart. He is always ............",
+      "questionType": "text",
+      "answers": [
+        "well-dressed.",
+        "good-dressed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jill has a lot of responsibility in her job but she isn’t very ............",
+      "questionType": "text",
+      "answers": [
+        "well-paid.",
+        "good-paid."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Congratulations on passing your examinations. ............",
+      "questionType": "text",
+      "answers": [
+        "Well done!",
+        "Good done!"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m tired because I’ve been working ............",
+      "questionType": "text",
+      "answers": [
+        "hard.",
+        "hardly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I tried ............ to remember her name but I couldn’t.",
+      "questionType": "text",
+      "answers": [
+        "hard",
+        "hardly"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This coat is practically unused. I’ve ............ worn it.",
+      "questionType": "text",
+      "answers": [
+        "hardly",
+        "hard"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s a good tennis player. She hits the ball ............",
+      "questionType": "text",
+      "answers": [
+        "hard.",
+        "hardly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t walk so ............! I can’t keep up with you.",
+      "questionType": "text",
+      "answers": [
+        "fast",
+        "fastly"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you walking so ............? Are you tired?",
+      "questionType": "text",
+      "answers": [
+        "slowly",
+        "slow"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George and Hilda have only met once before. They ............ each other.",
+      "questionType": "text",
+      "answers": [
+        "hardly know",
+        "hard know"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re speaking very quietly. I can ............ you.",
+      "questionType": "text",
+      "answers": [
+        "hardly hear",
+        "hard hear"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m very tired this morning. I ............ last night.",
+      "questionType": "text",
+      "answers": [
+        "hardly slept",
+        "hard slept"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were so shocked when we heard the news, we could ............",
+      "questionType": "text",
+      "answers": [
+        "hardly speak.",
+        "hard speak."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate was very quiet this evening. She ............ a word.",
+      "questionType": "text",
+      "answers": [
+        "hardly said",
+        "hard said"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You look the same now as you looked 15 years ago. You’ve ............",
+      "questionType": "text",
+      "answers": [
+        "hardly changed.",
+        "hard changed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met Keith a few days ago. I hadn’t seen him for a long time and he looks very different now. I ............ him.",
+      "questionType": "text",
+      "answers": [
+        "hardly recognized",
+        "hard recognized"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll have to go shopping. We’ve got ............ food.",
+      "questionType": "text",
+      "answers": [
+        "hardly any",
+        "hard any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a very warm day and there was ............ wind.",
+      "questionType": "text",
+      "answers": [
+        "hardly any",
+        "hard any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know much about computers? - No, ............",
+      "questionType": "text",
+      "answers": [
+        "hardly anything.",
+        "hard anything."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The hotel was almost empty. There was ............ staying there.",
+      "questionType": "text",
+      "answers": [
+        "hardly anybody",
+        "hard anybody"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I listen to the radio quite often but I ............ watch television.",
+      "questionType": "text",
+      "answers": [
+        "hardly ever",
+        "hard ever"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our new boss is not very popular. ............ likes her.",
+      "questionType": "text",
+      "answers": [
+        "Hardly anyone",
+        "Hard anyone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was very crowded in the room. There was ............ to sit.",
+      "questionType": "text",
+      "answers": [
+        "hardly anywhere",
+        "hard anywhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We used to be good friends but we ............ see each other now.",
+      "questionType": "text",
+      "answers": [
+        "hardly ever",
+        "hard ever"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was nice driving this morning. There was ............ traffic.",
+      "questionType": "text",
+      "answers": [
+        "hardly any",
+        "hard any"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I hate this town. There’s ............ to do and ............ to go.",
+      "questionType": "text",
+      "answers": [
+        "hardly anything / hardly anywhere",
+        "hard anything / hard anywhere"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

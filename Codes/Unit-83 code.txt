@@ -1,0 +1,385 @@
+{
+  "quizTitle": "Unit 83",
+  "questions": [
+    {
+      "question": "The journey took a long time. .............. a lot of traffic.",
+      "questionType": "text",
+      "answers": [
+        "There was",
+        "It was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s the new restaurant like? .............. good?",
+      "questionType": "text",
+      "answers": [
+        "Is it",
+        "Is there"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. a bookshop near here? - Yes, .............. one in Hill Street.",
+      "questionType": "text",
+      "answers": [
+        "Is there / there’s",
+        "Is it / it’s"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When we got to the cinema, .............. a queue outside. .............. a very long queue, so we decided not to wait.",
+      "questionType": "text",
+      "answers": [
+        "there was / It was",
+        "it was / there was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I couldn’t see anything. .............. completely dark.",
+      "questionType": "text",
+      "answers": [
+        "It was",
+        "There was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. trouble at the club last night. They had to call the police.",
+      "questionType": "text",
+      "answers": [
+        "There was",
+        "It was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How far .............. from Milan to Rome?",
+      "questionType": "text",
+      "answers": [
+        "is it",
+        "is there"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. Keith’s birthday yesterday. We had a party.",
+      "questionType": "text",
+      "answers": [
+        "It was",
+        "There was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. three years since I last went to the theatre.",
+      "questionType": "text",
+      "answers": [
+        "It’s",
+        "There’s"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wanted to visit the museum but .............. enough time.",
+      "questionType": "text",
+      "answers": [
+        "there wasn’t",
+        "it wasn’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. time to go? - Yes, .............. nearly midnight.",
+      "questionType": "text",
+      "answers": [
+        "Is it / it’s",
+        "Is there / there’s"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A few days ago .............. a storm. .............. a lot of damage.",
+      "questionType": "text",
+      "answers": [
+        "there was / There was",
+        "it was / It was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. a beautiful day yesterday. We had a picnic.",
+      "questionType": "text",
+      "answers": [
+        "It was",
+        "There was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. anything on television, so I turned it off.",
+      "questionType": "text",
+      "answers": [
+        "There wasn’t",
+        "It wasn’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. an accident in King Street but .............. very serious. ",
+      "questionType": "text",
+      "answers": [
+        "There was / it wasn’t",
+        "It was / there wasn’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The roads were busy today.",
+      "questionType": "text",
+      "answers": [
+        "There was a lot of traffic.",
+        "It was a lot of traffic."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This soup is very salty.",
+      "questionType": "text",
+      "answers": [
+        "There is a lot of salt in the soup.",
+        "It is a lot of salt in the soup."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The box was empty.",
+      "questionType": "text",
+      "answers": [
+        "There was nothing in the box.",
+        "It was nothing in the box."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The film was very violent.",
+      "questionType": "text",
+      "answers": [
+        "There was a lot of violence in the film.",
+        "It was a lot of violence in the film."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The shops were very crowded.",
+      "questionType": "text",
+      "answers": [
+        "There were a lot of people in the shops.",
+        "It were a lot of people in the shops."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like this town - it’s lively.",
+      "questionType": "text",
+      "answers": [
+        "There’s a lot happening in this town.",
+        "It’s a lot happening in this town."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If people drove more carefully, .............. fewer accidents.",
+      "questionType": "text",
+      "answers": [
+        "there would be",
+        "it would be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have we got any eggs? - I’m not sure. .............. some in the fridge.",
+      "questionType": "text",
+      "answers": [
+        "There should be",
+        "It should be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think everything will be OK. I don’t think .............. any problems.",
+      "questionType": "text",
+      "answers": [
+        "there will be",
+        "it will be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Look at the sky. .............. a storm.",
+      "questionType": "text",
+      "answers": [
+        "There’s going to be",
+        "It’s going to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Is there a school in the village? - Not now. .............. one but it closed.",
+      "questionType": "text",
+      "answers": [
+        "There used to be",
+        "It used to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "People drive too fast on this road. I think .............. a speed limit.",
+      "questionType": "text",
+      "answers": [
+        "there should be",
+        "it should be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If people weren’t aggressive, .............. any wars.",
+      "questionType": "text",
+      "answers": [
+        "there wouldn’t be",
+        "it wouldn’t be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They live on a busy road.",
+      "questionType": "text",
+      "answers": [
+        "There must be a lot of noise.",
+        "It must be a lot of noise."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Last winter it was very cold and .............. a lot of snow.",
+      "questionType": "text",
+      "answers": [
+        "there was",
+        "it was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wish .............. warmer. I hate cold weather.",
+      "questionType": "text",
+      "answers": [
+        "it was",
+        "there was"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. a church here, but it was knocked down.",
+      "questionType": "text",
+      "answers": [
+        "There used to be",
+        "It used to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why was she so unfriendly? .............. a reason.",
+      "questionType": "text",
+      "answers": [
+        "There must have been",
+        "It must have been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know who will win but .............. a good match.",
+      "questionType": "text",
+      "answers": [
+        "it’s sure to be",
+        "there’s sure to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where can we park the car? - Don’t worry. .............. a car park somewhere.",
+      "questionType": "text",
+      "answers": [
+        "There’s sure to be",
+        "It’s sure to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "After the lecture .............. an opportunity to ask questions.",
+      "questionType": "text",
+      "answers": [
+        "there will be",
+        "it will be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like the place where I live but .............. nicer to live by the sea.",
+      "questionType": "text",
+      "answers": [
+        "it would be",
+        "there would be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was told that .............. somebody to meet me at the station but it wasn’t anybody.",
+      "questionType": "text",
+      "answers": [
+        "there would be",
+        "it would be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

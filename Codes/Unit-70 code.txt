@@ -1,0 +1,435 @@
+{
+  "quizTitle": "Unit 70",
+  "questions": [
+    {
+      "question": "What is an ant?",
+      "questionType": "text",
+      "answers": [
+        "It’s an insect.",
+        "It’s insect."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What are ants and bees?",
+      "questionType": "text",
+      "answers": [
+        "They’re insects.",
+        "They’re the insects."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is a cauliflower?",
+      "questionType": "text",
+      "answers": [
+        "It’s a vegetable.",
+        "It’s vegetable."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is chess?",
+      "questionType": "text",
+      "answers": [
+        "It’s a game.",
+        "It’s game."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is a violin? A trumpet? A flute?",
+      "questionType": "text",
+      "answers": [
+        "They’re musical instruments.",
+        "They’re the musical instruments."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is a skyscraper?",
+      "questionType": "text",
+      "answers": [
+        "It’s a high building.",
+        "It’s high building."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is Earth? Mars? Venus? Jupiter?",
+      "questionType": "text",
+      "answers": [
+        "They’re planets.",
+        "They’re the planets."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What a tulip?",
+      "questionType": "text",
+      "answers": [
+        "It’s a flower.",
+        "It’s flower."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is the Rhine? The Nile? The Mississippi?",
+      "questionType": "text",
+      "answers": [
+        "They’re rivers.",
+        "They’re the rivers."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is a pigeon? An eagle? A crow?",
+      "questionType": "text",
+      "answers": [
+        "They’re birds.",
+        "They’re the birds."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Beethoven?",
+      "questionType": "text",
+      "answers": [
+        "He was a composer.",
+        "He was composer."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Shakespeare?",
+      "questionType": "text",
+      "answers": [
+        "He was a playwright.",
+        "He was playwright."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Albert Einstein?",
+      "questionType": "text",
+      "answers": [
+        "He was a physicist.",
+        "He was physicist."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Washington? Lincoln? John Kennedy?",
+      "questionType": "text",
+      "answers": [
+        "They were American presidents.",
+        "They were the American presidents."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Marilyn Monroe?",
+      "questionType": "text",
+      "answers": [
+        "She was an actress.",
+        "She was actress."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Elvis Presley? John Lennon?",
+      "questionType": "text",
+      "answers": [
+        "They were singers.",
+        "They were the singers."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who was Van Gogh? Renoir? Gauguin?",
+      "questionType": "text",
+      "answers": [
+        "They were painters.",
+        "They were the painters."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Stella looks after patients in hospital.",
+      "questionType": "text",
+      "answers": [
+        "She’s a nurse.",
+        "She’s nurse."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George works in a restaurant. He brings the food to the tables.",
+      "questionType": "text",
+      "answers": [
+        "He’s a waiter.",
+        "He’s waiter."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary arranges people’s holidays for them.",
+      "questionType": "text",
+      "answers": [
+        "She’s a travel agent.",
+        "She’s travel agent."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ron works for an airline. He flies airplanes.",
+      "questionType": "text",
+      "answers": [
+        "He’s a pilot.",
+        "He’s pilot."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Linda teaches people how to drive.",
+      "questionType": "text",
+      "answers": [
+        "She’s a driving instructor.",
+        "She’s driving instructor."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Dave fits and repairs water pipes.",
+      "questionType": "text",
+      "answers": [
+        "He’s a plumber.",
+        "He’s plumber."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jenny writes articles for a newspaper.",
+      "questionType": "text",
+      "answers": [
+        "She’s a journalist.",
+        "She’s journalist."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John translates what people are saying from one language into another, so that they can understand each other.",
+      "questionType": "text",
+      "answers": [
+        "He’s an interpreter.",
+        "He’s interpreter."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve seen ........... good films recently.",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s wrong with you? Have you got ........... headache?",
+      "questionType": "text",
+      "answers": [
+        "a",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I know a lot of people. Most of them are ........... students.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I was ........... child, I used to be very shy.",
+      "questionType": "text",
+      "answers": [
+        "a",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Would you like to be ........... actor?",
+      "questionType": "text",
+      "answers": [
+        "an",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you collect ........... stamps?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What ........... beautiful garden!",
+      "questionType": "text",
+      "answers": [
+        "a",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... birds, for example the penguin, cannot fly.",
+      "questionType": "text",
+      "answers": [
+        "Some",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve been walking for three hours. I’ve got ........... sore feet.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t feel very well this morning. I’ve got ........... sore throat.",
+      "questionType": "text",
+      "answers": [
+        "a",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity we haven’t got ........... camera. I’d like to take ........... photograph of that house.",
+      "questionType": "text",
+      "answers": [
+        "a / a",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Those are ........... nice shoes. Where did you get them?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going shopping. I want to buy ........... new shoes.",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You need ........... visa to visit ........... countries, but not all of them.",
+      "questionType": "text",
+      "answers": [
+        "a / some",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane is ........... teacher. Her parents were ........... teachers too.",
+      "questionType": "text",
+      "answers": [
+        "a / -",
+        "- / some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you enjoy going to .............. concerts?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When we got to the city center, ........... shops were still open but most of them were closed.",
+      "questionType": "text",
+      "answers": [
+        "some",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t believe him. He’s ........... liar. He’s always telling ........... lies.",
+      "questionType": "text",
+      "answers": [
+        "a / -",
+        "- / some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

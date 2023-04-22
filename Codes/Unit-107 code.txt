@@ -1,0 +1,315 @@
+{
+  "quizTitle": "Unit 107",
+  "questions": [
+    {
+      "question": "It’s a very nice room. It is ............... the hotel.",
+      "questionType": "text",
+      "answers": [
+        "the nicest room in",
+        "the nicest room of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a very cheap restaurant. It’s ............... the town.",
+      "questionType": "text",
+      "answers": [
+        "the cheapest restaurant in",
+        "the cheapest restaurant of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a very happy day. It was ............... my life.",
+      "questionType": "text",
+      "answers": [
+        "the happiest day of",
+        "the happiest day in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s a very intelligent student. She ............... the class.",
+      "questionType": "text",
+      "answers": [
+        "the most intelligent student in",
+        "the most intelligent student of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a very valuable painting. It ............... the gallery.",
+      "questionType": "text",
+      "answers": [
+        "the most valuable painting in",
+        "the most valuable painting of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Spring is a very busy time for me. It ............... the year.",
+      "questionType": "text",
+      "answers": [
+        "the busiest time of",
+        "the busiest time in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a very nice room. It is ............... the hotel.",
+      "questionType": "text",
+      "answers": [
+        "one of the nicest rooms in",
+        "one of the nicest rooms of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He’s a very rich man. He’s one ............... the world.",
+      "questionType": "text",
+      "answers": [
+        "of the richest men in",
+        "of the richest men of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a very old castle. It is ............... Britain.",
+      "questionType": "text",
+      "answers": [
+        "one of the oldest castles in",
+        "one of the oldest castles of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s a very good player. She ............... in the team.",
+      "questionType": "text",
+      "answers": [
+        "one of the best players in",
+        "one of the best players of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a very bad experience. It was ............... my life.",
+      "questionType": "text",
+      "answers": [
+        "one of the worst experiences of",
+        "one of the worst experiences in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He’s a very dangerous criminal. He is ............... the country.",
+      "questionType": "text",
+      "answers": [
+        "one of the most dangerous criminals in",
+        "one of the most dangerous criminals of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We stayed at ............... hotel in the town.",
+      "questionType": "text",
+      "answers": [
+        "the cheapest",
+        "the most cheap"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our hotel was ............... than all the others in the town.",
+      "questionType": "text",
+      "answers": [
+        "cheaper",
+        "cheapest"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The United States is very large but Canada is ...............",
+      "questionType": "text",
+      "answers": [
+        "larger.",
+        "largest."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s ............... river in the world?",
+      "questionType": "text",
+      "answers": [
+        "the longest",
+        "the longer"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He was a bit depressed yesterday but he looks ............... today.",
+      "questionType": "text",
+      "answers": [
+        "happier",
+        "happiest"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was an awful day. It was ............... day of my life.",
+      "questionType": "text",
+      "answers": [
+        "the worst",
+        "the worse"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is ............... sport in your country?",
+      "questionType": "text",
+      "answers": [
+        "the most popular",
+        "the more popular"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Everest is ............... mountain in the world. It is ............... than any other mountain.",
+      "questionType": "text",
+      "answers": [
+        "the highest / higher",
+        "the higher / highest"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had a great holiday. It was one of the ............... holidays we’ve ever had.",
+      "questionType": "text",
+      "answers": [
+        "most enjoyable",
+        "more enjoyable"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I prefer this chair to the other one. It’s ...............",
+      "questionType": "text",
+      "answers": [
+        "more comfortable.",
+        "most comfortable."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s ............... way of getting from here to the station?",
+      "questionType": "text",
+      "answers": [
+        "the quickest",
+        "the quicker"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mr. and Mrs. Brown have got three daughters. ............... is 14 years old.",
+      "questionType": "text",
+      "answers": [
+        "The oldest/eldest",
+        "The older/elder"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve just been to the cinema. The film was extremely boring. You tell your friend:",
+      "questionType": "text",
+      "answers": [
+        "That’s the most boring film I’ve ever seen.",
+        "That’s the most boring film I ever saw."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your friend has just told you a joke, which you think is very funny. You say:",
+      "questionType": "text",
+      "answers": [
+        "That’s the funniest joke I’ve ever heard.",
+        "That’s the funniest joke I ever heard."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re drinking coffee with a friend. It’s really good coffee. You say:",
+      "questionType": "text",
+      "answers": [
+        "This is the best coffee I’ve ever tasted.",
+        "This is the best coffee I ever tasted."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are talking to a friend about Mary. Mary is very patient. You tell your friend about her:",
+      "questionType": "text",
+      "answers": [
+        "She is the most patient person I’ve ever met.",
+        "She is the most patient person I ever met."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have just run ten kilometers. You’ve never run further than this. You say to your friend:",
+      "questionType": "text",
+      "answers": [
+        "That’s the furthest I’ve ever run.",
+        "That’s the furthest I ever ran."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You decided to give up your job. Now you think this was a bad mistake. You say to your friend:",
+      "questionType": "text",
+      "answers": [
+        "It is/was the worst mistake I’ve ever made.",
+        "It is/was the worst mistake I ever made."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your friend meets a lot of people, some of them famous. You ask your friend:",
+      "questionType": "text",
+      "answers": [
+        "Who is the most famous person you’ve ever met?",
+        "Who is the most famous person you ever met?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

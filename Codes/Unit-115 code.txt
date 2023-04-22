@@ -1,0 +1,275 @@
+{
+  "quizTitle": "Unit 115",
+  "questions": [
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? As they live near us, we see them quite often.",
+      "questionType": "text",
+      "answers": [
+        "chunki",
+        "-gan paytda"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? Jill slipped as she was getting off the bus.",
+      "questionType": "text",
+      "answers": [
+        "-gan paytda",
+        "chunki"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? As I was tired, I went to bed early.",
+      "questionType": "text",
+      "answers": [
+        "chunki",
+        "-gan paytda"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? Unfortunately, as I was parking the car, I hit the car behind.",
+      "questionType": "text",
+      "answers": [
+        "-gan paytda",
+        "chunki"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? As we climbed the hill, we got more and more tired.",
+      "questionType": "text",
+      "answers": [
+        "-gan paytda",
+        "chunki"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? We decided to go out to eat as we had no food at home.",
+      "questionType": "text",
+      "answers": [
+        "chunki",
+        "-gan paytda"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ushbu gapda as qaysi ma’noda ishlatilgan? As we don’t use the car very often, we’ve decided to sell it.",
+      "questionType": "text",
+      "answers": [
+        "chunki",
+        "-gan paytda"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Yesterday was a public holiday. All the shops were shut.",
+      "questionType": "text",
+      "answers": [
+        "As yesterday was a public holiday, all the shops were shut.",
+        "As all the shops were shut. yesterday was a public holiday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a nice day. We went for a walk by the sea.",
+      "questionType": "text",
+      "answers": [
+        "As it was a nice day, we went for a walk by the sea.",
+        "As we went for a walk by the sea, it was a nice day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We didn’t want to wake anybody up. We came in very quietly.",
+      "questionType": "text",
+      "answers": [
+        "As we didn’t want to wake anybody up, we came in very quietly.",
+        "As we came in very quietly, we didn’t want to wake anybody up."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The door was open. I walked in.",
+      "questionType": "text",
+      "answers": [
+        "As the door was open, I walked in.",
+        "As I walked in, the door was open."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "None of us had a watch. We didn’t know what time it was.",
+      "questionType": "text",
+      "answers": [
+        "As none of us had a watch, we didn’t know what time it was.",
+        "As we didn’t know what time it was, none of us had a watch."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We all waved goodbye to Liz. She drove away in her car.",
+      "questionType": "text",
+      "answers": [
+        "We all waved goodbye to Liz as she drove away in her car.",
+        "She drove away in her car as we all waved goodbye to Liz."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We all smiled. We posed for the photograph.",
+      "questionType": "text",
+      "answers": [
+        "We all smiled as we posed for the photograph.",
+        "We posed for the photograph as we all smiled."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I burnt myself. I was taking a hot dish out of the oven.",
+      "questionType": "text",
+      "answers": [
+        "I burnt myself as I was taking a hot dish out of the oven.",
+        "I was taking a hot dish out of the oven as I burnt myself."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The crowd cheered. The two teams ran onto the field.",
+      "questionType": "text",
+      "answers": [
+        "The crowd cheered as the two teams ran onto the field.",
+        "The two teams ran onto the field as the crowd cheered."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A dog ran out in front of the car. We were driving along the road.",
+      "questionType": "text",
+      "answers": [
+        "A dog ran out in front of the car as we were driving along the road.",
+        "We were driving along the road as a dog ran out in front of the car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Angela got married .............. she was 23.",
+      "questionType": "text",
+      "answers": [
+        "when",
+        "as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My camera was stolen .............. I was on holiday.",
+      "questionType": "text",
+      "answers": [
+        "when",
+        "as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He dropped the glass .............. he was taking it out of the cupboard.",
+      "questionType": "text",
+      "answers": [
+        "as",
+        "when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. I left school, I went to work in a shop.",
+      "questionType": "text",
+      "answers": [
+        "When",
+        "As"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The train slowed down .............. it approached the station.",
+      "questionType": "text",
+      "answers": [
+        "as",
+        "when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I used to live near the sea .............. I was a child.",
+      "questionType": "text",
+      "answers": [
+        "when",
+        "as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I saw you .............. you were getting into your car.",
+      "questionType": "text",
+      "answers": [
+        "as",
+        "when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It began to rain just .............. we started playing tennis.",
+      "questionType": "text",
+      "answers": [
+        "as",
+        "when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. I didn’t have enough money for a taxi, I had to walk home.",
+      "questionType": "text",
+      "answers": [
+        "As",
+        "When"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. I took the photograph, somebody walked in front of the camera.",
+      "questionType": "text",
+      "answers": [
+        "Just as",
+        "Just when"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

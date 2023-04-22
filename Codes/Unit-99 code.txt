@@ -1,0 +1,355 @@
+{
+  "quizTitle": "Unit 99",
+  "questions": [
+    {
+      "question": "We didn’t go out because it was raining ............",
+      "questionType": "text",
+      "answers": [
+        " heavily.",
+        "heavy."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our team lost the game because we played very ............",
+      "questionType": "text",
+      "answers": [
+        "badly.",
+        "bad."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had little difficulty finding a place to live. I found a flat quite ............",
+      "questionType": "text",
+      "answers": [
+        "easily.",
+        "easy."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had to wait for a long time but we didn’t complain. We waited ............",
+      "questionType": "text",
+      "answers": [
+        "patiently.",
+        "patient."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nobody knew George was coming to see us. He arrived ............",
+      "questionType": "text",
+      "answers": [
+        "unexpectedly.",
+        "unexpected."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mike keeps fit by playing tennis ............",
+      "questionType": "text",
+      "answers": [
+        "regularly.",
+        "regular."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The driver of the car was ............ injured.",
+      "questionType": "text",
+      "answers": [
+        "seriously",
+        "serious"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The driver of the car had ............ injuries.",
+      "questionType": "text",
+      "answers": [
+        "serious",
+        "seriously"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think you behaved very ............",
+      "questionType": "text",
+      "answers": [
+        "selfishly.",
+        "selfish."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Rose is ............ upset about losing her job.",
+      "questionType": "text",
+      "answers": [
+        "terribly",
+        "terrible"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was a ............ change in the weather.",
+      "questionType": "text",
+      "answers": [
+        "sudden",
+        "suddenly"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Everybody at the party was ............ dressed.",
+      "questionType": "text",
+      "answers": [
+        "colorfully",
+        "colorful"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Linda likes wearing ............ clothes.",
+      "questionType": "text",
+      "answers": [
+        "colorful",
+        "colorfully"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She fell and hurt herself quite ............",
+      "questionType": "text",
+      "answers": [
+        "badly.",
+        "bad."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He says he didn’t do well at the school because he was ............ taught.",
+      "questionType": "text",
+      "answers": [
+        "badly",
+        "bad"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t go up that ladder. It doesn’t look ............",
+      "questionType": "text",
+      "answers": [
+        "safe.",
+        "safely."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He looked at me ............ when I interrupted him.",
+      "questionType": "text",
+      "answers": [
+        "angrily",
+        "angry"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our holiday was too short. The time passed very ............",
+      "questionType": "text",
+      "answers": [
+        "quickly.",
+        "quick."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tom doesn’t take risks when he’s driving. He’s always ............",
+      "questionType": "text",
+      "answers": [
+        "careful.",
+        "carefully."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue works ............ She never seems to stop.",
+      "questionType": "text",
+      "answers": [
+        "continuously.",
+        "continuous."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Alice and Stan are very ............ married.",
+      "questionType": "text",
+      "answers": [
+        "happily",
+        "happy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Monica’s English is very ............ although she makes quite a lot of mistakes.",
+      "questionType": "text",
+      "answers": [
+        "fluent",
+        "fluently"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I cooked this meal ............ for you, so I hope you like it.",
+      "questionType": "text",
+      "answers": [
+        "specially",
+        "special"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Everything was very quiet. There was ............ silence.",
+      "questionType": "text",
+      "answers": [
+        "complete",
+        "completely"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I tried on the shoes and they fitted me ............",
+      "questionType": "text",
+      "answers": [
+        "perfectly.",
+        "perfect."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you usually feel ............ before examinations?",
+      "questionType": "text",
+      "answers": [
+        "nervous",
+        "nervously"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’d like to buy a car but it’s ............ impossible for me at the moment.",
+      "questionType": "text",
+      "answers": [
+        "financially",
+        "financial"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I thought the restaurant would be expensive but it was ............",
+      "questionType": "text",
+      "answers": [
+        "reasonably cheap.",
+        "reasonable cheap."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George’s mother is ............ in hospital.",
+      "questionType": "text",
+      "answers": [
+        "seriously ill",
+        "serious ill"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What a big house! It’s ............",
+      "questionType": "text",
+      "answers": [
+        "absolutely enormous.",
+        "absolute enormous."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It wasn’t a serious accident. The car was only ............",
+      "questionType": "text",
+      "answers": [
+        "slightly damaged.",
+        "slight damaged."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The children are normally very lively but they’re ............ today.",
+      "questionType": "text",
+      "answers": [
+        "unusually quiet",
+        "unusual quiet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I returned home after 20 years, everything had ............",
+      "questionType": "text",
+      "answers": [
+        "completely changed.",
+        "complete changed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The film was ............ It could have been much shorter.",
+      "questionType": "text",
+      "answers": [
+        "unnecessarily long.",
+        "unnecessary long."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A lot went wrong during our holiday because it was ............",
+      "questionType": "text",
+      "answers": [
+        "badly planned.",
+        "bad planned."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

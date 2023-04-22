@@ -1,0 +1,355 @@
+{
+  "quizTitle": "Unit 126",
+  "questions": [
+    {
+      "question": "Look! That car is ..........! Somebody call the fire brigade.",
+      "questionType": "text",
+      "answers": [
+        "on fire",
+        "in fire"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s difficult to contact Sarah because she’s not .................",
+      "questionType": "text",
+      "answers": [
+        "on the phone.",
+        "at the phone."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Workers at the factory have gone ................. for better pay and conditions.",
+      "questionType": "text",
+      "answers": [
+        "on strike",
+        "at strike"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Soon after we arrived, we were taken ................. of the city.",
+      "questionType": "text",
+      "answers": [
+        "on a tour",
+        "in a tour"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going ................. next week. - Are you? Where are you going? Somewhere nice?",
+      "questionType": "text",
+      "answers": [
+        "on holiday",
+        "at holiday"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I feel lazy this evening. Is there anything worth watching .................?",
+      "questionType": "text",
+      "answers": [
+        "on television",
+        "in television"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m sorry. It was an accident. I didn’t do it .................",
+      "questionType": "text",
+      "answers": [
+        "on purpose.",
+        "at purpose."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George has put on a lot of weight recently. I think he should go .................",
+      "questionType": "text",
+      "answers": [
+        "on a diet.",
+        "in a diet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane’s job involves a lot of travelling. She often has to go away .................",
+      "questionType": "text",
+      "answers": [
+        "on business.",
+        "at business."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How did your exams go? - Well, there were some difficult questions but ................. they were OK.",
+      "questionType": "text",
+      "answers": [
+        "on the whole",
+        "in the whole"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He likes to keep warm, so he doesn’t go out much .................",
+      "questionType": "text",
+      "answers": [
+        "in cold weather.",
+        "at cold weather."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Diane never uses a pen. She always writes .................",
+      "questionType": "text",
+      "answers": [
+        "in pencil.",
+        "on pencil."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They fell ................. with each other almost immediately and were married in a few weeks.",
+      "questionType": "text",
+      "answers": [
+        "in love",
+        "at love"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please write your address clearly, preferably .................",
+      "questionType": "text",
+      "answers": [
+        "in block letters.",
+        "on block letters."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like the sun. I prefer to sit .................",
+      "questionType": "text",
+      "answers": [
+        "in the shade.",
+        "at the shade."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann thought the restaurant was OK, but ................. it wasn’t very good.",
+      "questionType": "text",
+      "answers": [
+        "in my opinion",
+        "at my opinion"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I hardly ever use a credit card or cheques. I prefer to pay for things .................",
+      "questionType": "text",
+      "answers": [
+        "in cash.",
+        "by cash."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Water boils .......... 100 degrees Celsius.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I was 14, I went .......... a trip to France organized by my school.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wouldn’t like his job. He spends most of his time talking .......... the phone.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Julia’s grandmother died recently .......... the age of 79.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you turn the light on, please? I don’t want to sit .......... the dark.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We didn’t go .......... holiday last year. We stayed at home.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going to Scotland .......... a short holiday next month.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I won’t be here next week. I’ll be .......... holiday.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He got married .......... 17, which is rather young to get married.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was an interesting program .......... the radio this morning.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".......... my opinion, violent films should not be shown .......... television.",
+      "questionType": "text",
+      "answers": [
+        "In / on",
+        "In / at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wouldn’t like to go .......... a cruise. I think I’d get bored.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I mustn’t eat too much. I’m supposed to be .......... a diet.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In Britain, children start school .......... the age of five.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was panic when people realized that the building was .......... fire.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The Earth travels round the Sun .......... a speed of 107,000 kilometers an hour.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you enjoy your holiday? - Not every minute, but .......... the whole, yes.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When you write a cheque, you have to write the amount .......... words and figures.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

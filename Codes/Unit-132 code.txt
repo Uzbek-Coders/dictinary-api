@@ -1,0 +1,365 @@
+{
+  "quizTitle": "Unit 132",
+  "questions": [
+    {
+      "question": "I’m not going out yet. I’m waiting ................ the rain to stop.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re always asking me ................ money. Ask somebody else for a change.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve applied ................ a job at the factory. I don’t know if I’ll get it.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If I want a job at the factory, who do I apply ................?",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve searched everywhere ................ John but I haven’t been able to find him.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want to talk ................ what happened last night. Let’s forget it.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want to discuss ................ what happened last night. Let’s forget it.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had an interesting discussion ................ the problem but we didn’t reach a decision.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We discussed ................ the problem but we didn’t reach a decision.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want to go out yet. I’m waiting ................ the post to arrive.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Keith and Sonia are touring Europe. They’re in Rome at the moment, but tomorrow they leave ................ Venice.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The roof of the house is in very bad condition. I think we ought to do something ................ it.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We waited ................ Jim for half an hour but he never came.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tomorrow morning I have to catch a plane. I’m leaving my house ................ the airport at 7.30.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Police are ................ the man who escaped from prison.",
+      "questionType": "text",
+      "answers": [
+        "searching for",
+        "searching"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We’re still ................ a reply to our letter. We haven’t heard anything yet.",
+      "questionType": "text",
+      "answers": [
+        "waiting for",
+        "waiting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George likes his job but he doesn’t ................ it much.",
+      "questionType": "text",
+      "answers": [
+        "talk about",
+        "talk"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I’d finished my meal, I ................ the bill.",
+      "questionType": "text",
+      "answers": [
+        "asked the waiter for",
+        "asked to the waiter"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate is unemployed. She has ................ several jobs but she hasn’t had any luck.",
+      "questionType": "text",
+      "answers": [
+        "applied for",
+        "applied to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is wrong, why don’t you ................ something ................ it?",
+      "questionType": "text",
+      "answers": [
+        "do something about",
+        "do something for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Linda’s car is very old but it’s in excellent condition. She ................ it well.",
+      "questionType": "text",
+      "answers": [
+        "has looked after",
+        "has looked at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Diane is from Boston but now she lives in Paris. She ................ Paris when she was 19.",
+      "questionType": "text",
+      "answers": [
+        "left Boston for",
+        "left Boston to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He’s very selfish. He doesn’t care ................ other people.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are you hungry? Would you care ................ something to eat?",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She doesn’t care ................ the examination. She’s not worried whether she passes or falls.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please let me borrow your camera. I promise I’ll take good care ................ it.",
+      "questionType": "text",
+      "answers": [
+        "of",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you like this coat? - Not really. I don’t care ................ the color.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t worry about arranging our holiday. I’ll take care ................ that.",
+      "questionType": "text",
+      "answers": [
+        "of",
+        "about"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to have a good holiday. I don’t care ................ the cost.",
+      "questionType": "text",
+      "answers": [
+        "about",
+        "of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to have a good holiday. I don’t care ................ how much it costs.",
+      "answers": [
+        "-",
+        "about"
+      ],
+      "questionType": "text",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ................ my keys but I couldn’t find them anywhere.",
+      "questionType": "text",
+      "answers": [
+        "looked for",
+        "looked after"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate is ................ a job. I hope she finds one soon.",
+      "questionType": "text",
+      "answers": [
+        "looking for",
+        "looking after"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who ................ you when you were ill?",
+      "questionType": "text",
+      "answers": [
+        "looked after",
+        "looked for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m ................ Elizabeth. Have you seen her?",
+      "questionType": "text",
+      "answers": [
+        "looking for",
+        "looking after"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "All the car parks were full, so we had to ................ somewhere to park.",
+      "questionType": "text",
+      "answers": [
+        "looks for",
+        "looks after"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A baby-sitter is somebody who ................ other people’s children.",
+      "questionType": "text",
+      "answers": [
+        "looks after",
+        "looks for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "quizTitle": "Unit 27",
+  "questions": [
+    {
+      "question": "Where shall we go for our holidays?",
+      "questionType": "text",
+      "answers": [
+        "We could go to Scotland.",
+        "We couldn’t go to Scotland."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What shall we have for dinner tonight?",
+      "questionType": "text",
+      "answers": [
+        "We could have fish.",
+        "We couldn’t have fish."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What shall I give Ann for her birthday?",
+      "questionType": "text",
+      "answers": [
+        "You could give her a book.",
+        "You couldn’t give her a book."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When shall I phone Angela?",
+      "questionType": "text",
+      "answers": [
+        "You could phone her now.",
+        "You couldn’t phone her now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When shall we go and see Tom?",
+      "questionType": "text",
+      "answers": [
+        "We could go (and see him) on Friday.",
+        "We couldn’t go (and see him) on Friday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where shall we hang this picture?",
+      "questionType": "text",
+      "answers": [
+        "We could hang it in the kitchen.",
+        "We couldn’t hang it in the kitchen."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“The phone is ringing. Who do you think it is?” “It ……..... be Tim.”",
+      "questionType": "text",
+      "answers": [
+        "could",
+        "can"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m really hungry. I ……..... eat a horse!",
+      "questionType": "text",
+      "answers": [
+        "could",
+        "can"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you’re very hungry, we ……..... have dinner now.",
+      "questionType": "text",
+      "answers": [
+        "can/could",
+        "are able to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s so nice here. I ……..... stay here all day but unfortunately I have to go.",
+      "questionType": "text",
+      "answers": [
+        "could",
+        "can"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“I can’t find my bag. Have you seen it?” “No, but it ……..... be in the car.”",
+      "questionType": "text",
+      "answers": [
+        "could",
+        "can"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Peter is a keen musician. He plays the flute and he ……..... also play the piano.",
+      "questionType": "text",
+      "answers": [
+        "can",
+        "could"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“What shall we do?” “There’s a film on television. We ……..... watch that.”",
+      "questionType": "text",
+      "answers": [
+        "can/could",
+        "are able to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The weather is nice now but it ……..... change later.",
+      "questionType": "text",
+      "answers": [
+        "could",
+        "is able to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What shall we do this evening? - I don’t mind. We ……..... to the cinema.",
+      "questionType": "text",
+      "answers": [
+        "could go",
+        "could have gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had a very boring evening at home yesterday. - Why did you stay at home?  You ……..... to the cinema.",
+      "questionType": "text",
+      "answers": [
+        "could have gone",
+        "could go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s an interesting job advertised in the paper. You ……..... for it. - What sort of job is it? Show me the advertisement.",
+      "questionType": "text",
+      "answers": [
+        "could apply",
+        "could have applied"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you go to the concert last night? - No. We ……..... but we decided not to.",
+      "questionType": "text",
+      "answers": [
+        "could have gone",
+        "could go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where shall we meet tomorrow? - Well, I ……..... to your house if you like.",
+      "questionType": "text",
+      "answers": [
+        "could come",
+        "could have come"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ken’s aunt wanted him to drive her to the airport on Tuesday. Ken’s car was stolen on Monday.",
+      "questionType": "text",
+      "answers": [
+        "He couldn’t have driven her to the airport (because his car had been stolen).",
+        "He could have driven her to the airport (because his car had been stolen)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of his wanted him to go out for a meal on Friday evening. Ken had to work on Friday evening.",
+      "questionType": "text",
+      "answers": [
+        "Ken couldn’t have gone out (for a meal) on Friday evening (because he had to work).",
+        "Ken could have gone out (for a meal) on Friday evening (because he had to work)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Another friend wanted him to play tennis on Monday afternoon. Ken was free on Monday afternoon.",
+      "questionType": "text",
+      "answers": [
+        "Ken could have played tennis on Monday afternoon.",
+        "Ken couldn’t have played tennis on Monday afternoon."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack wanted Ken to lend him $50 last week. Ken was short of money last week.",
+      "questionType": "text",
+      "answers": [
+        "He couldn’t have lent Jack $50 (because he was short of money).",
+        "He could have lent Jack $50 (because he was short of money)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane wanted Ken to come to her party on Saturday evening. Ken didn’t do anything on Saturday evening.",
+      "questionType": "text",
+      "answers": [
+        "He could have come to Jane’s party.",
+        "He couldn’t have come to Jane’s party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ken’s mother wanted him to repair her washing machine. Ken doesn’t know anything about machines.",
+      "questionType": "text",
+      "answers": [
+        "He couldn’t have repaired her washing machine (because he doesn’t know anything about machines).",
+        "He could have repaired her washing machine (because he doesn’t know anything about machines)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

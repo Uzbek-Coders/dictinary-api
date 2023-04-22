@@ -1,0 +1,255 @@
+{
+  "quizTitle": "Unit 93",
+  "questions": [
+    {
+      "question": "I met somebody ........... mother writes detective stories.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I know a man ........... wife is an English teacher.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know a woman ........... owns a restaurant?",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I read about somebody ........... ambition is to climb Everest.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met a couple ........... have just got married.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I've met somebody ........... parents used to work in a circus.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "who"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I recently went back to the town ...........",
+      "questionType": "text",
+      "answers": [
+        "where I was born.",
+        "where I was born there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know a restaurant ...........?",
+      "questionType": "text",
+      "answers": [
+        "where we can have a really good meal",
+        "where we can have a really good meal there"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Is there a shop near here ...........?",
+      "questionType": "text",
+      "answers": [
+        "where I can buy some postcards",
+        "where I can buy some postcards there"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t remember the name of the garage ...........",
+      "questionType": "text",
+      "answers": [
+        "where we had the car repaired.",
+        "where we had the car repaired there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know the name of the hotel ...........?",
+      "questionType": "text",
+      "answers": [
+        "where John is staying",
+        "where John is staying there"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann bought a dress which didn’t fit her, so she took it back to the shop ...........",
+      "questionType": "text",
+      "answers": [
+        "where she (had) bought it.",
+        "where she (had) bought it there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s name of the man ........... car you borrowed?",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "whom"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A cemetery is a place ........... people are buried.",
+      "questionType": "text",
+      "answers": [
+        "where",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A pacifist is a person ........... believes that all wars are wrong.",
+      "questionType": "text",
+      "answers": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "An orphan is a child ........... parents are dead.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "whom"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The place ........... we spent our holidays was really beautiful.",
+      "questionType": "text",
+      "answers": [
+        "where",
+        "whom"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This school is only for children ........... first language is not English.",
+      "questionType": "text",
+      "answers": [
+        "whose",
+        "whom"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know the name of the woman to ........... I spoke on the phone.",
+      "questionType": "text",
+      "answers": [
+        "whom",
+        "whose"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll always remember the day ...........",
+      "questionType": "text",
+      "answers": [
+        "I first met you.",
+        "I first met you then."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll never forget the time ...........",
+      "questionType": "text",
+      "answers": [
+        "we got stuck in a lift.",
+        "we got stuck in a lift then."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The reason ........... was that I didn’t know your address.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t write to you",
+        "I didn’t write to you why"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Unfortunately, I wasn’t at home the evening ...........",
+      "questionType": "text",
+      "answers": [
+        "you phoned.",
+        "you phoned then."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The reason ........... is that they don’t need one.",
+      "questionType": "text",
+      "answers": [
+        "they haven’t got a car",
+        "they haven’t got a car why"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "1989 was the year ...........",
+      "questionType": "text",
+      "answers": [
+        "Mary got married.",
+        "Mary got married then."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

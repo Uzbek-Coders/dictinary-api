@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 28",
+  "questions": [
+    {
+      "question": "You’ve been travelling all day. You …………… be very tired.",
+      "questionType": "text",
+      "answers": [
+        "must",
+        "can’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That restaurant …………… be very good. It’s always full of people.",
+      "questionType": "text",
+      "answers": [
+        "must",
+        "can’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That restaurant …………… be very good. It’s always empty.",
+      "questionType": "text",
+      "answers": [
+        "can’t",
+        "must"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re going on holiday next week. You …………… be looking forward to it.",
+      "questionType": "text",
+      "answers": [
+        "must",
+        "can’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It rained every day during their holiday, so they …………… have had a very nice time.",
+      "questionType": "text",
+      "answers": [
+        "can’t",
+        "must"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Congratulations on passing your exam. You …………… be very pleased.",
+      "questionType": "text",
+      "answers": [
+        "must",
+        "can’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You got here very quickly. You …………… have walked very fast.",
+      "questionType": "text",
+      "answers": [
+        "must",
+        "can’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bill and Sue go away on holiday very often, so they …………… be short of money.",
+      "questionType": "text",
+      "answers": [
+        "can’t",
+        "must"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve lost one of my gloves. I must …………… it somewhere.",
+      "questionType": "text",
+      "answers": [
+        "have dropped",
+        "drop"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They haven’t lived here for long. They can’t …………… many people.",
+      "questionType": "text",
+      "answers": [
+        "know",
+        "be knowing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ted isn’t at work today. He must …………… ill.",
+      "questionType": "text",
+      "answers": [
+        "be",
+        "have been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ted wasn’t at work last week. He must …………… ill.",
+      "questionType": "text",
+      "answers": [
+        "have been",
+        "be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "(The doorbell rings) I wonder who that is. It can’t …………… Mary. She’s still at work at this time.",
+      "questionType": "text",
+      "answers": [
+        "be",
+        "have been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Carol knows a lot about films. She must …………… to the cinema a lot.",
+      "questionType": "text",
+      "answers": [
+        "have been",
+        "be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Look. Jack is putting on his hat and coat. He must …………… out.",
+      "questionType": "text",
+      "answers": [
+        "be going",
+        "have gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I left my bike outside the house last night and this morning it isn’t there anymore. Somebody must …………… it.",
+      "questionType": "text",
+      "answers": [
+        "have stolen",
+        "steal"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann was in a very difficult situation. It can’t …………… easy for her.",
+      "questionType": "text",
+      "answers": [
+        "have been",
+        "be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There is a man walking behind us. He has been walking behind us for the last 20 minutes. He must …………… us.",
+      "questionType": "text",
+      "answers": [
+        "be following",
+        "follow"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The phone rang but I didn’t hear it.",
+      "questionType": "text",
+      "answers": [
+        "I must have been asleep.",
+        "I can’t have been asleep."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane walked past me without speaking.",
+      "questionType": "text",
+      "answers": [
+        "She can’t have seen me.",
+        "She must have seen me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The jacket you bought is very good quality.",
+      "questionType": "text",
+      "answers": [
+        "It must have been very expensive.",
+        "It can’t have been very expensive."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t seen the people next door for ages.",
+      "questionType": "text",
+      "answers": [
+        "They must have gone away.",
+        "They can’t have gone away."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t find my umbrella.",
+      "questionType": "text",
+      "answers": [
+        "I must have left it in the restaurant last night.",
+        "I can’t have left it in the restaurant last night."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don passed the exam without studying for it.",
+      "questionType": "text",
+      "answers": [
+        "The exam can’t have been very difficult.",
+        "The exam must have been very difficult."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She knew everything about our plans.",
+      "questionType": "text",
+      "answers": [
+        "She must have been listening to our conversation.",
+        "She can’t have been listening to our conversation."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fiona did the opposite of what I asked her to do.",
+      "questionType": "text",
+      "answers": [
+        "She can’t have understood what I said.",
+        "She must have understood what I said."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I woke up this morning, the light was on.",
+      "questionType": "text",
+      "answers": [
+        "I must have forgotten to turn it off.",
+        "I can’t have forgotten to turn it off."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The lights were red but the car didn’t stop.",
+      "questionType": "text",
+      "answers": [
+        "The driver can’t have seen the red light.",
+        "The driver must have seen the red light."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was woken up in the middle of the night by the noise next door.",
+      "questionType": "text",
+      "answers": [
+        "The neighbors must have been having a party.",
+        "The neighbors can’t have been having a party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

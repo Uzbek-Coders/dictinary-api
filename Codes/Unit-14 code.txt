@@ -1,0 +1,345 @@
+{
+  "quizTitle": "Unit 14",
+  "questions": [
+    {
+      "question": "I ……….. my key. I can’t find it anywhere.",
+      "questionType": "text",
+      "answers": [
+        "’ve lost",
+        "lost"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "……….. the news on television last night?",
+      "questionType": "text",
+      "answers": [
+        "Did you see",
+        "Have you seen"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ………. a new car. Do you want to see it?",
+      "questionType": "text",
+      "answers": [
+        "’ve bought",
+        "bought"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ……….. a new car last week.",
+      "questionType": "text",
+      "answers": [
+        "bought",
+        "’ve bought"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where ……….. yesterday evening?",
+      "questionType": "text",
+      "answers": [
+        "were you",
+        "have you been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jenny ……….. school in 1991.",
+      "questionType": "text",
+      "answers": [
+        "left",
+        "has left"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m looking for Mike. ……….. him?",
+      "questionType": "text",
+      "answers": [
+        "Have you seen",
+        "Did you see"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m very hungry. I ……….. anything today.",
+      "questionType": "text",
+      "answers": [
+        "haven’t eaten",
+        "didn’t eat"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Diane ……….. at work yesterday.",
+      "questionType": "text",
+      "answers": [
+        "wasn’t",
+        "hasn’t been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When ……….. published?",
+      "questionType": "text",
+      "answers": [
+        "was this book",
+        "has this book been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (it / not / rain / this week)",
+      "questionType": "text",
+      "answers": [
+        "It hasn’t rained this week.",
+        "It didn’t rain this week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (the weather / be / cold / recently)",
+      "questionType": "text",
+      "answers": [
+        "The weather has been cold recently.",
+        "The weather was cold recently."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (it / cold / last week)",
+      "questionType": "text",
+      "answers": [
+        "It was cold last week.",
+        "It has been cold last week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (I / not / read / a newspaper yesterday)",
+      "questionType": "text",
+      "answers": [
+        "I didn’t read a newspaper yesterday.",
+        "I hasn’t read a newspaper yesterday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (I / not / read / a newspaper today)",
+      "questionType": "text",
+      "answers": [
+        "I haven’t read a newspaper today.",
+        "I didn’t read a newspaper today."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (Ann / earn / a lot of money / this year)",
+      "questionType": "text",
+      "answers": [
+        "Ann has earned a lot of money this year.",
+        "Ann earned a lot of money this year."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (she / not / earn / so much / last year)",
+      "questionType": "text",
+      "answers": [
+        "She didn’t earn so much last year.",
+        "She hasn’t earned so much last year."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Make a sentence using words in brackets: (you / have / a holiday recently?)",
+      "questionType": "text",
+      "answers": [
+        "Have you had a holiday recently?",
+        "Did you have a holiday recently?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know where Amy is.",
+      "questionType": "text",
+      "answers": [
+        "Have you seen her?",
+        "Did you see her?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I ……….. home last night, I ……….. very tired and I ……….. straight to bed.",
+      "questionType": "text",
+      "answers": [
+        "got / was / went",
+        "have got / have been / have gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your car looks very clean. ……….. it?",
+      "questionType": "text",
+      "answers": [
+        "Have you washed it?",
+        "Did you wash it?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George ……….. very well last week.",
+      "questionType": "text",
+      "answers": [
+        "wasn’t",
+        "hasn’t been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mr. Clark ……….. in a bank for 15 years. Then he gave it up.",
+      "questionType": "text",
+      "answers": [
+        "worked",
+        "has worked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Molly lives in Dublin. She ……….. there all her life.",
+      "questionType": "text",
+      "answers": [
+        "has lived",
+        "lived"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“ ……….. to the cinema last night?” “Yes, but it ……….. a mistake. The film ……….. awful.”",
+      "questionType": "text",
+      "answers": [
+        "Did you go / was / was",
+        "Have you gone / has been / has been"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My grandfather ……….. 30 years ago. I ……….. him.",
+      "questionType": "text",
+      "answers": [
+        "died / never met",
+        "has died / never met"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know Carol’s husband. I ……….. .",
+      "questionType": "text",
+      "answers": [
+        "’ve never met him",
+        "never met him"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Is your father at home?” – “No, I’m afraid he ……….. out.” – “When exactly ……….. out?” – “About ten minutes ago.”",
+      "questionType": "text",
+      "answers": [
+        "has gone / did he go",
+        "went / has he gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I haven’t eaten any fruit today.",
+        "I didn’t eat any fruit today."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I haven’t bought anything today.",
+        "I didn’t buy anything today."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I didn’t watch TV yesterday.",
+        "I haven’t watched TV yesterday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I went out with some friends yesterday evening.",
+        "I have gone out with some friends yesterday evening."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I haven’t been to the cinema recently.",
+        "I wasn’t to the cinema recently."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "questionType": "text",
+      "answers": [
+        "I’ve been swimming a lot recently.",
+        "I was swimming a lot recently."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

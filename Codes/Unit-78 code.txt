@@ -1,0 +1,388 @@
+{
+  "quizTitle": "Unit 78",
+  "questions": [
+    {
+      "question": "My eyes aren’t very good. I need ..............",
+      "questionType": "text",
+      "answers": [
+        "glasses.",
+        "glass."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This plant is .............. very rare ..............",
+      "questionType": "text",
+      "answers": [
+        "a / species.",
+        "- / species."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Footballers don’t wear trousers when they play. They wear ..............",
+      "questionType": "text",
+      "answers": [
+        "shorts.",
+        "short."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The bicycle is .............. of transport.",
+      "questionType": "text",
+      "answers": [
+        "a means",
+        "means"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The bicycle and the car are .............. of transport.",
+      "questionType": "text",
+      "answers": [
+        "means",
+        "a means"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to cut this piece of material. I need ..............",
+      "questionType": "text",
+      "answers": [
+        "some scissors.",
+        "scissor."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann is going to write .............. of articles for her local newspaper.",
+      "questionType": "text",
+      "answers": [
+        "a series",
+        "series"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There are a lot of American TV .............. shown on British television.",
+      "questionType": "text",
+      "answers": [
+        "series",
+        "a series"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "While we were out walking, we saw 25 different .............. of bird.",
+      "questionType": "text",
+      "answers": [
+        "species",
+        "a species"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What subject do words ‘calculate, algebra, equation’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "mathematics",
+        "mathematic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What subject do words ‘government, election, minister’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "politics",
+        "politic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What field do words ‘finance, trade, industry’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "economics",
+        "economic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What sport do words ‘running. jumping, throwing’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "athletics",
+        "athletic"
+      ],
+      "correctAnswer": "2",
+      "point": "1"
+    },
+    {
+      "question": "What subject do words ‘light, heat, gravity’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "physics",
+        "physic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What sport do words ‘exercises, somersault, parallel bars’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "gymnastics",
+        "gymnastic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What field do words ‘computer, silicon chip, video games’ belong to?",
+      "questionType": "text",
+      "answers": [
+        "electronics",
+        "electronic"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Gymnastics .............. my favorite sport.",
+      "questionType": "text",
+      "answers": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The trousers you bought for me .............. fit me.",
+      "questionType": "text",
+      "answers": [
+        "don’t",
+        "doesn’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The police .............. to interview two men about the robbery last week.",
+      "questionType": "text",
+      "answers": [
+        "want",
+        "wants"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Physics .............. my best subject at school.",
+      "questionType": "text",
+      "answers": [
+        "was",
+        "were"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can I borrow your scissors? Mine .............. sharp enough.",
+      "questionType": "text",
+      "answers": [
+        "aren’t",
+        "isn’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fortunately the news .............. as bad as we expected.",
+      "questionType": "text",
+      "answers": [
+        "wasn’t",
+        "weren’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Three days .............. long enough for a good holiday.",
+      "questionType": "text",
+      "answers": [
+        "isn’t",
+        "aren’t"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t find my binoculars. Do you know where ..............?",
+      "questionType": "text",
+      "answers": [
+        "they are",
+        "it is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you think the people .............. happy with the government?",
+      "questionType": "text",
+      "answers": [
+        "are",
+        "is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".............. the police know how the accident happened?",
+      "questionType": "text",
+      "answers": [
+        "Do",
+        "Does"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like very hot weather. Thirty degrees .............. too warm for me.",
+      "questionType": "text",
+      "answers": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Susan was ....................",
+      "questionType": "text",
+      "answers": [
+        "wearing black jeans.",
+        "wearing a black jeans."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like Martin and Jill. They’re very ....................",
+      "questionType": "text",
+      "answers": [
+        "nice people.",
+        "nice persons."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need more money than that. ....................",
+      "questionType": "text",
+      "answers": [
+        "Ten pounds is not enough.",
+        "Ten pounds are not enough."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going to buy ....................",
+      "questionType": "text",
+      "answers": [
+        "some new pajamas.",
+        "a new pajama."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The committee ....................",
+      "questionType": "text",
+      "answers": [
+        "haven’t/hasn’t made a decision yet.",
+        "haven’t made a decision yet.",
+        "hasn’t made a decision yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Many people .................... up smoking.",
+      "questionType": "text",
+      "answers": [
+        "have given",
+        "has given"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was .................... standing at the corner of the street.",
+      "questionType": "text",
+      "answers": [
+        "a police officer",
+        "a police"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................... the police arrived yet?",
+      "questionType": "text",
+      "answers": [
+        "Have",
+        "Has"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................... not very sharp.",
+      "questionType": "text",
+      "answers": [
+        "These scissors are",
+        "This scissors is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The government .................... to increase taxes.",
+      "questionType": "text",
+      "answers": [
+        "want/wants",
+        "want",
+        "wants"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Brazil .................... Italy in a football match next week.",
+      "questionType": "text",
+      "answers": [
+        "are/is playing",
+        "are playing",
+        "is playing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

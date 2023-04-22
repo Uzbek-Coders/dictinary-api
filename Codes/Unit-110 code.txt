@@ -1,0 +1,365 @@
+{
+  "quizTitle": "Unit 110",
+  "questions": [
+    {
+      "question": "He travelled a lot, and he still does.",
+      "questionType": "text",
+      "answers": [
+        "He still travels a lot.",
+        "He doesn’t travel a lot any more."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He worked in a shop, but now he works in hospital.",
+      "questionType": "text",
+      "answers": [
+        "He doesn’t work in a shop any more.",
+        "He still works in a shop."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He wrote poems, but now he doesn't.",
+      "questionType": "text",
+      "answers": [
+        "He doesn’t write poems any more.",
+        "He still writes poems."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He wanted to be a teacher, and he still does.",
+      "questionType": "text",
+      "answers": [
+        "He still wants to be a teacher.",
+        "He doesn’t want to be a teacher any more."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He was interested in politics, but now he is interested in law.",
+      "questionType": "text",
+      "answers": [
+        "He isn’t interested in politics any more.",
+        "He is still interested in politics."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He was single and he is still alone.",
+      "questionType": "text",
+      "answers": [
+        "He’s still single.",
+        "He’s not single any more."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He went fishing a lot but he hasn’t been fishing for years.",
+      "questionType": "text",
+      "answers": [
+        "He doesn’t go fishing any more.",
+        "He still goes fishing any more."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He had a beard but now he doesn't.",
+      "questionType": "text",
+      "answers": [
+        "He doesn’t have a beard any more.",
+        "He still has a beard."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He worked in a shop, but now he works in hospital.",
+      "questionType": "text",
+      "answers": [
+        "He no longer works in a shop.",
+        "He still works in a shop."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He wrote poems, but now he doesn't.",
+      "questionType": "text",
+      "answers": [
+        "He no longer writes poems.",
+        "He still writes poems."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He was interested in politics, but now he is interested in law.",
+      "questionType": "text",
+      "answers": [
+        "He is no longer interested in politics.",
+        "He is still interested in politics."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He went fishing a lot but he hasn’t been fishing for years.",
+      "questionType": "text",
+      "answers": [
+        "He no longer goes fishing.",
+        "He still goes fishing any more."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He had a beard but now he doesn't.",
+      "questionType": "text",
+      "answers": [
+        "He no longer has a beard.",
+        "He still has a beard."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s still raining.",
+      "questionType": "text",
+      "answers": [
+        "It hasn’t stopped raining yet.",
+        "It hasn’t stopped raining still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George is still here.",
+      "questionType": "text",
+      "answers": [
+        "He hasn’t gone yet.",
+        "He hasn’t gone still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They’re still having their dinner.",
+      "questionType": "text",
+      "answers": [
+        "They haven’t finished their dinner yet.",
+        "They haven’t finished their dinner still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The children are still asleep.",
+      "questionType": "text",
+      "answers": [
+        "They haven’t woken up yet.",
+        "They haven’t woken up still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann is still looking for a job.",
+      "questionType": "text",
+      "answers": [
+        "She hasn’t found a job yet.",
+        "She hasn’t found a job still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m still wondering what to do.",
+      "questionType": "text",
+      "answers": [
+        "I haven’t decided (what to do) yet.",
+        "I haven’t decided (what to do) still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The plane is still waiting on the runway.",
+      "questionType": "text",
+      "answers": [
+        "It hasn’t taken off yet.",
+        "It hasn’t taken off still."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack lost his job a year ago and .....................",
+      "questionType": "text",
+      "answers": [
+        "he is still unemployed.",
+        "he is unemployed yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you want me to tell Liz the news or .....................?",
+      "questionType": "text",
+      "answers": [
+        "does she already know",
+        "does she still know"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m hungry. .....................?",
+      "questionType": "text",
+      "answers": [
+        "Is dinner ready yet",
+        "Is dinner still ready"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was hungry earlier but .....................",
+      "questionType": "text",
+      "answers": [
+        "I’m not hungry any more.",
+        "I’m not already hungry."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can we wait a few minutes? .....................",
+      "questionType": "text",
+      "answers": [
+        "I don’t want to go out yet.",
+        "I already don’t want to go out."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jill used to work at the airport but .....................",
+      "questionType": "text",
+      "answers": [
+        "she doesn’t work there any more.",
+        "she still doesn’t work there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I used to live in Amsterdam. .....................",
+      "questionType": "text",
+      "answers": [
+        "I still have a lot of friends there.",
+        "I have a lot of friends there yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I introduce you to Jim? - There’s no need. .....................",
+      "questionType": "text",
+      "answers": [
+        "We’ve already met.",
+        "We’ve still met."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................... or have you moved?",
+      "questionType": "text",
+      "answers": [
+        "Do you still live in the same house",
+        "Do you already live in the same house"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Would you like to eat with us or .....................?",
+      "questionType": "text",
+      "answers": [
+        "have you already eaten",
+        "have you eaten yet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where’s John? - ..................... He’ll be here soon.",
+      "questionType": "text",
+      "answers": [
+        "He isn’t here yet.",
+        "He isn’t here already."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tim said he would be here at 8.30. It’s 9 o’clock now and .....................",
+      "questionType": "text",
+      "answers": [
+        "he still isn’t here.",
+        "he isn’t already here."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you want to join the club or .....................?",
+      "questionType": "text",
+      "answers": [
+        "are you already a member",
+        "are you a member yet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It happened a long time ago but .....................",
+      "questionType": "text",
+      "answers": [
+        "I can still remember it very clearly.",
+        "I can already remember it very clearly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve put on weight. .....................",
+      "questionType": "text",
+      "answers": [
+        "These trousers don’t fit me any more.",
+        "These trousers don’t fit me yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".....................? - No, .....................",
+      "questionType": "text",
+      "answers": [
+        "Have you finished with the paper yet? / I’m still reading it.",
+        "Have you still finished with the paper? / I’m reading it yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "quizTitle": "Unit 16",
+  "questions": [
+    {
+      "question": "I was very tired when I arrived home. (I / work / hard all day)",
+      "questionType": "text",
+      "answers": [
+        "I had been working hard all day.",
+        "I was working hard all day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The two boys came into the house. They had a football match and they were both very tired. (they / play / football)",
+      "questionType": "text",
+      "answers": [
+        "They had been playing football.",
+        "They were playing football."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was nobody in the room but there was a smell of cigarettes. (somebody / smoke / in the room)",
+      "questionType": "text",
+      "answers": [
+        "Somebody had been smoking in the room.",
+        "Somebody was smoking in the room."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann woke up in the middle of the night. She was frightened and didn’t know where she was. (she / dream)",
+      "questionType": "text",
+      "answers": [
+        "She had been dreaming.",
+        "She was dreaming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I got home, Mike was sitting in front of the TV. He had just turned it off. (he / watch / TV)",
+      "questionType": "text",
+      "answers": [
+        "He’d been watching.",
+        "He was watching."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We played tennis yesterday. Half an hour after we began playing, it started to rain.",
+      "questionType": "text",
+      "answers": [
+        "We had been playing for half an hour when it started to rain.",
+        "We were playing for half an hour when it had started to rain."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had arranged to meet Tom in a restaurant. I arrived and waited for him. After 20 minutes I suddenly realized that I was in the wrong restaurant.",
+      "questionType": "text",
+      "answers": [
+        "I had been waiting for 20 minutes when I suddenly realized that I was in the wrong restaurant.",
+        "I was waiting for 20 minutes when I had suddenly realized that I had been in the wrong restaurant."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sarah got a job in a factory. Five years later the factory closed down.",
+      "questionType": "text",
+      "answers": [
+        "At the time the factory closed down, Sarah had been working there for five years.",
+        "At the time the factory had closed down, Sarah was working there for five years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I went to a concert last week. The orchestra began playing. After about ten minutes a man in the audience suddenly began shouting.",
+      "questionType": "text",
+      "answers": [
+        "The orchestra had been playing for about ten minutes when a man in the audience suddenly began shouting.",
+        "The orchestra was playing for about ten minutes when a man in the audience suddenly had begun shouting."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I began walking along the road. About ten minutes late a car suddenly stopped just behind me.",
+      "questionType": "text",
+      "answers": [
+        "I had been walking along the road for about ten minutes when a car suddenly stopped just behind me.",
+        "I was walking along the road for about ten minutes when a car had suddenly stopped just behind me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was very noisy next door. Our neighbors ........... a party.",
+      "questionType": "text",
+      "answers": [
+        "were having",
+        "had been having"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were good friends. We ........... each other for a long time.",
+      "questionType": "text",
+      "answers": [
+        "had known",
+        "knew"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John and I went for a walk. I had difficulty keeping up with him because he ........... so fast.",
+      "questionType": "text",
+      "answers": [
+        "was walking",
+        "has walked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary was sitting on the ground. She was out of breath. She........... .",
+      "questionType": "text",
+      "answers": [
+        "’d been running",
+        "was running"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I arrived, everybody was sitting round the table with their mouths full. They ........... .",
+      "questionType": "text",
+      "answers": [
+        "were eating",
+        "had been eating"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I arrived, everybody was sitting round the table and talking. Their mouths were empty but their stomachs were full. They ........... .",
+      "questionType": "text",
+      "answers": [
+        "had been eating",
+        "were eating"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jim was on his hands and knees on the floor. He ........... for his contact lens.",
+      "questionType": "text",
+      "answers": [
+        "was looking",
+        "had been looking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I arrived, Kate ........... for me. She was rather annoyed with me because I was late and she ........... for a very long time.",
+      "questionType": "text",
+      "answers": [
+        "was waiting / had been waiting",
+        "had been waiting / was waiting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was sad when I sold my car. I ........... it for a very long time.",
+      "questionType": "text",
+      "answers": [
+        "had had",
+        "had"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were extremely tired at the end of the journey. We ........... for more than 24 hours.",
+      "questionType": "text",
+      "answers": [
+        "’d been travelling",
+        "were travelling"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

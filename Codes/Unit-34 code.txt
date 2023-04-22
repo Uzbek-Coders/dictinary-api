@@ -1,0 +1,245 @@
+{
+  "quizTitle": "Unit 34",
+  "questions": [
+    {
+      "question": "“I think it would be a good idea to see a specialist,” the doctor said to me.",
+      "questionType": "text",
+      "answers": [
+        "The doctor recommended that I should see a specialist.",
+        "The doctor recommended me to see a specialist."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“You really must stay a little longer,” she said to me.",
+      "questionType": "text",
+      "answers": [
+        "She insisted that I should stay a little longer.",
+        "She insisted to stay a little longer."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Why don’t you visit the museum after lunch?” I said to them.",
+      "questionType": "text",
+      "answers": [
+        "I suggested that they should visit the museum after lunch.",
+        "I suggested them to visit the museum after lunch."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“You must pay the rent by Friday,” the landlord said to us.",
+      "questionType": "text",
+      "answers": [
+        "The landlord demanded that we pay the rent by Friday.",
+        "The landlord demanded us to pay the rent by Friday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Why don’t you go away for a few days?” Jack said to me.",
+      "questionType": "text",
+      "answers": [
+        "Jack suggested that I went away for a few days.",
+        "Jack suggested me to go away for a few days."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "Tom suggested that I should look for another job.",
+        "Tom suggested me to look for another job."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "Where do you suggest I should go for my holiday?",
+        "Where do you suggest me to go for my holiday?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "His opponents are demanding that he resign.",
+        "His opponents are demanding him to resign."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s strange that she ..................... late. She’s usually on time.",
+      "questionType": "text",
+      "answers": [
+        "should be",
+        "shouldn’t be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s funny that you ..................... that. I was going to say the same thing.",
+      "questionType": "text",
+      "answers": [
+        "should say",
+        "shouldn’t say"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s only natural that parents ..................... about their children.",
+      "questionType": "text",
+      "answers": [
+        "should worry",
+        "shouldn’t worry"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Isn’t it typical of Ron that he ..................... without saying goodbye to anybody?",
+      "questionType": "text",
+      "answers": [
+        "should leave",
+        "shouldn’t leave"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was surprised that he ..................... me for advice. What advice could I give him?",
+      "questionType": "text",
+      "answers": [
+        "should ask",
+        "shouldn’t ask"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s very important that everybody ..................... very carefully.",
+      "questionType": "text",
+      "answers": [
+        "should listen",
+        "shouldn’t listen"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., can you ask him to phone me?",
+      "questionType": "text",
+      "answers": [
+        "If you should see Tom this evening",
+        "If you should not see Tom this evening"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., can you look after her until I come?",
+      "questionType": "text",
+      "answers": [
+        "If Ann should arrive before I get home",
+        "If Ann should not arrive before I get home"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., can you send them on to this address?",
+      "questionType": "text",
+      "answers": [
+        "If there should be any letters for me while I’m away",
+        "If there should not be any letters for me while I’m away"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., let me know.",
+      "questionType": "text",
+      "answers": [
+        "If you should need (any) help",
+        "If you should not need (any) help"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., please contact our customer service department.",
+      "questionType": "text",
+      "answers": [
+        "Should you wish to cancel your order",
+        "Should you not wish to cancel your order"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "..................., it is a good idea to inform the team-leader.",
+      "questionType": "text",
+      "answers": [
+        "Should your child become anxious or nervous",
+        "Should your child not become anxious or nervous"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I leave now? - No, ................... a bit longer.",
+      "questionType": "text",
+      "answers": [
+        "you should wait",
+        "you should not wait"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I throw these things away? - No, ................... them. You may need them.",
+      "questionType": "text",
+      "answers": [
+        "you should keep",
+        "you should not keep"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I go and see Paul? - Yes, but ................... him first.",
+      "questionType": "text",
+      "answers": [
+        "you should phone",
+        "you should not phone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you think it’s worth repairing TV set? - No, ................... a new one.",
+      "questionType": "text",
+      "answers": [
+        "you should buy",
+        "you should not buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

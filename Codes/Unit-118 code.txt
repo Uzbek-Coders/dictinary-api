@@ -1,0 +1,395 @@
+{
+  "quizTitle": "Unit 118",
+  "questions": [
+    {
+      "question": "It rained ............. three days without stopping.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I fell asleep ............. the film.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I went to the theatre last night. I met Lucy ............. the interval.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Martin hasn’t lived in Britain all his life. He lived in Brazil ............. four years.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Production at the factory was seriously affected ............. the strike.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I felt really ill last week. I could hardly eat anything ............. three days.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I waited for you ............. half an hour and decided that you weren’t coming.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue was very angry with me. She didn’t speak to me ............. a week.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We usually go out at weekends, but we don’t often go out ............. the week.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack started a new job a few weeks ago. Before that he was out of work ............. six months.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need a change. I think I’ll go away ............. a few days.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The President gave a long speech. She spoke ............. two hours.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were hungry when we arrived. We hadn’t had anything to eat ............. the journey.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were hungry when we arrived. We hadn’t had anything to eat ............. eight hours.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We met a lot of people ............. we were on holiday.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We met a lot of people ............. our holiday.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met Mike ............. I was shopping.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............. we were in Paris, we stayed at a very comfortable hotel.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............. our stay in Paris, we visited a lot of museums and galleries.",
+      "questionType": "text",
+      "answers": [
+        "During",
+        "While"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The phone rang three times ............. we were having dinner.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The phone rang three times ............. the night.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had been away for many years. ............. that time, many things had changed.",
+      "questionType": "text",
+      "answers": [
+        "During",
+        "While"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What did they say about me ............. I was out of the room?",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack read a lot of books and magazines ............. he was ill.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I went out for dinner last night. Unfortunately, I began to feel ill ............. the meal and had to go home.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please don’t interrupt me ............. I’m speaking.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There were many interruptions ............. the President’s speech.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you lay the table ............. I get the dinner ready?",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were hungry when we arrived. We hadn’t had anything to eat ............. we were travelling.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I fell asleep ............. I was watching television.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I fell asleep ............. the film.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I hurt my arm ............. I was doing the housework.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you wait here ............. I make a quick phone call?",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Most of the students looked bored ............. the lesson.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was asked a lot of questions ............. the interview.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t open the car door ............. the car is moving.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The lights suddenly went out ............. the meal.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It started to rain ............. the game.",
+      "questionType": "text",
+      "answers": [
+        "during",
+        "while"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It started to rain ............. we were playing football.",
+      "questionType": "text",
+      "answers": [
+        "while",
+        "during"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

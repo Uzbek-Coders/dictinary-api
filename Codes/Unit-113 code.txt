@@ -1,0 +1,235 @@
+{
+  "quizTitle": "Unit 113",
+  "questions": [
+    {
+      "question": "She’s going to take some chocolate. She might get hungry.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take some chocolate in case she gets hungry.",
+        "She’s going to take some chocolate if she gets hungry."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s going to take a map. It’s possible she’ll get lost.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take a map in case she gets lost.",
+        "She’s going to take a map if she gets lost."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s going to take an umbrella. Perhaps it will rain.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take an umbrella in case it rains.",
+        "She’s going to take an umbrella if it rains."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s going to take her camera. She might want to take some photographs.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take her camera in case she wants to take some photographs.",
+        "She’s going to take her camera if she wants to take some photographs."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s going to take some water. Perhaps she’ll get thirsty.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take some water in case she gets thirsty.",
+        "She’s going to take some water if she gets thirsty."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s going to take a towel. Perhaps she’ll want to have a swim.",
+      "questionType": "text",
+      "answers": [
+        "She’s going to take a towel in case she wants to have a swim.",
+        "She’s going to take a towel if she wants to have a swim."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s possible that Mary will need to contact you, so you give her your phone number.",
+      "questionType": "text",
+      "answers": [
+        "Here’s my phone number in case you need to contact me.",
+        "Here’s my phone number in case you will need to contact me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours is going away for a long time. Maybe you won’t see her again before she goes, so you decide to say goodbye now.",
+      "questionType": "text",
+      "answers": [
+        "I’ll say goodbye now in case I don’t see you again before you go.",
+        "I’ll say goodbye now in case I won’t see you again before you go."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are shopping in a supermarket with a friend. You think you have everything you need but perhaps you’ve forgotten something. Your friend has the list. You ask him to check it.",
+      "questionType": "text",
+      "answers": [
+        "Can you check the list in case we’ve forgotten anything?",
+        "Can you check the list if we’ve forgotten anything?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was a possibility that Ann would phone. So I didn’t go out.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t go out in case Ann phoned.",
+        "I didn’t go out in case Ann would phone."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John thought that he might forget the name of the book. So he wrote it down.",
+      "questionType": "text",
+      "answers": [
+        "He wrote down the name of the book in case he forgot it.",
+        "He wrote down the name of the book in case he would forget it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I thought my parents might be worried about me. So I phoned them.",
+      "questionType": "text",
+      "answers": [
+        "I phoned my parents in case they were worried about me.",
+        "I phoned my parents in case they would be worried about me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wrote a letter to Jane but I didn’t receive a reply. So I wrote to her again because I thought that perhaps she hadn’t received my first letter. ",
+      "questionType": "text",
+      "answers": [
+        "I wrote to Jane again in case she hadn’t received my first letter.",
+        "I wrote to Jane again if she hadn’t received my first letter."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met some people when I was on holiday in France. They said they might come to London one day. I live in London, so I gave them my address.",
+      "questionType": "text",
+      "answers": [
+        "I gave them my address in case they came to London one day.",
+        "I gave them my address in case they would come to London one day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann might phone this evening. I don’t want to go out ............... she phones.",
+      "questionType": "text",
+      "answers": [
+        "in case",
+        "if"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You should tell the police ............... your bicycle is stolen.",
+      "questionType": "text",
+      "answers": [
+        "if",
+        "in case"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I hope you’ll come to London sometime. ............... you come, you can stay with us.",
+      "questionType": "text",
+      "answers": [
+        "If",
+        "In case"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This letter is for Susan. Can you give it to her ............... you see her?",
+      "questionType": "text",
+      "answers": [
+        "if",
+        "in case"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Write your name and address on your bag ............... you lose it.",
+      "questionType": "text",
+      "answers": [
+        "in case",
+        "if"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Go to the lost property office ............... you lose your bag.",
+      "questionType": "text",
+      "answers": [
+        "if",
+        "in case"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The burglar alarm will ring ............... somebody tries to break into the house.",
+      "questionType": "text",
+      "answers": [
+        "if",
+        "in case"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve just painted the door. I’ll put a WET PAINT notice next to it ...............",
+      "questionType": "text",
+      "answers": [
+        "just in case.",
+        "just if."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was advised to get insurance ............... I needed medical treatment while I was abroad.",
+      "questionType": "text",
+      "answers": [
+        "in case",
+        "if"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

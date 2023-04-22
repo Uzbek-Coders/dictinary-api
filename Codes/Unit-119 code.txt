@@ -1,0 +1,285 @@
+{
+  "quizTitle": "Unit 119",
+  "questions": [
+    {
+      "question": "I have to be at home not later than 5 o’clock.",
+      "questionType": "text",
+      "answers": [
+        "I have to be at home by 5 o’clock.",
+        "I have to be at home until 5 o’clock."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I have to be at the airport not later than 10.30.",
+      "questionType": "text",
+      "answers": [
+        "I have to be at the airport by 10.30.",
+        "I have to be at the airport till 10.30."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Let me know not later than Saturday whether you can come to the party.",
+      "questionType": "text",
+      "answers": [
+        "Let me know by Saturday whether you can come to the party.",
+        "Let me know until Saturday whether you can come to the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please make sure that you’re here not later than 2 o’clock.",
+      "questionType": "text",
+      "answers": [
+        "Please be here by 2 o’clock.",
+        "Please be here till 2 o’clock."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If we leave now, we should arrive not later than lunchtime.",
+      "questionType": "text",
+      "answers": [
+        "If we leave now, we should arrive by lunchtime.",
+        "If we leave now, we should arrive until lunchtime."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fred has gone away. He’ll be away ............. Monday.",
+      "questionType": "text",
+      "answers": [
+        "until",
+        "by"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sorry, but I must go. I have to be at home ............. 5 o’clock.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "until"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve been offered a job. I haven’t decided yet whether to accept it or not. I have to decide ............. Thursday.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "until"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think I’ll wait ............. Thursday before making a decision.",
+      "questionType": "text",
+      "answers": [
+        "until",
+        "by"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s too late to go shopping. The shops are only open ............. 5.30. They’ll be closed now.",
+      "questionType": "text",
+      "answers": [
+        "until",
+        "by"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’d better pay the phone bill. It has to be paid ............. tomorrow.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "till"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t pay the bill today. Wait ............. tomorrow.",
+      "questionType": "text",
+      "answers": [
+        "until",
+        "by"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you finished redecorating your house? - Not yet. We hope to finish ............. the end of the week.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "till"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going out now. I’ll be back at 4.30. Will you still be here? - I don’t think so. I’ll probably have gone out ............. then.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "until"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m moving into my new flat next week. I’m staying with a friend ............. then.",
+      "questionType": "text",
+      "answers": [
+        "until",
+        "by"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve got a lot of work to do. ............. the time I finish, it will be time to go to bed.",
+      "questionType": "text",
+      "answers": [
+        "By",
+        "Until"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to do the exam, you should enter ............. 3 April.",
+      "questionType": "text",
+      "answers": [
+        "by",
+        "till"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fred is away at the moment. He’ll be away .............",
+      "questionType": "text",
+      "answers": [
+        "until Monday.",
+        "by Monday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fred is away at the moment. He’ll be back ............. ",
+      "questionType": "text",
+      "answers": [
+        "by Monday.",
+        "until Monday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m just going out. I won’t be very long. Wait here .............",
+      "questionType": "text",
+      "answers": [
+        "until I come back.",
+        "by I come back."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going shopping. It’s 4.30 now. I won’t be very long. I’ll be back .............",
+      "questionType": "text",
+      "answers": [
+        "by 5 o’clock.",
+        "till 5 o’clock."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to apply for the job, your application must be received .............",
+      "questionType": "text",
+      "answers": [
+        "by next Friday.",
+        "until next Friday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Last night I watched TV .............",
+      "questionType": "text",
+      "answers": [
+        "until midnight.",
+        "by midnight."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane was invited to a party but she got there much later than she intended. ............., most of the other guests had gone.",
+      "questionType": "text",
+      "answers": [
+        "By the time she got to the party",
+        "Until the time she got to the party"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had to catch a train but it took me longer than expected to get to the station. ............., my train had already gone.",
+      "questionType": "text",
+      "answers": [
+        "By the time I got to the station",
+        "Until the time I got to the station"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I saw two men who looked as if they were trying to steal a car. I called the police but it was some time before they arrived. ............., the two men had disappeared.",
+      "questionType": "text",
+      "answers": [
+        "By the time the police arrived",
+        "Till the time the police arrived"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A man escaped from prison last night. It was a long time before the guards discovered what had happened. ............., the escaped prisoner was miles away.",
+      "questionType": "text",
+      "answers": [
+        "By the time the guards discovered what had happened",
+        "Until the time the guards discovered what had happened"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I intended to go shopping after finishing my work. But I finished my work much later than expected. ............., it was too late to go shopping.",
+      "questionType": "text",
+      "answers": [
+        "By the time I (had) finished my work",
+        "Till the time I (had) finished my work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

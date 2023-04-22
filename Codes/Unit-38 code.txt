@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 38",
+  "questions": [
+    {
+      "question": "If I ................. his number, I would phone him.",
+      "questionType": "text",
+      "answers": [
+        "knew",
+        "know"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ................. that coat if I were you.",
+      "questionType": "text",
+      "answers": [
+        "wouldn’t buy",
+        "won’t buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ................. you if I could, but I’m afraid I can’t.",
+      "questionType": "text",
+      "answers": [
+        "’d help",
+        "will help"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We would need a car if we ................. in the country.",
+      "questionType": "text",
+      "answers": [
+        "lived",
+        "live"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If we had the choice, we ................. in the country.",
+      "questionType": "text",
+      "answers": [
+        "would live",
+        "will live"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This soup isn’t very good. It ................. better if it wasn’t so salty.",
+      "questionType": "text",
+      "answers": [
+        "would taste",
+        "will taste"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wouldn’t mind living in England if the weather ................. better.",
+      "questionType": "text",
+      "answers": [
+        "was/were",
+        "is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If I were you, I .................. I ................. now.",
+      "questionType": "text",
+      "answers": [
+        "wouldn’t wait. / ’d go",
+        "won’t wait. / will go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re always tired. If you ................. to bed so late every night, you wouldn’t be tired all the time.",
+      "questionType": "text",
+      "answers": [
+        "didn’t go",
+        "don’t go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think there are too many cars. If there ................. so many cars, there ................. so much pollution.",
+      "questionType": "text",
+      "answers": [
+        "weren’t / wouldn’t be",
+        "aren’t / won’t be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We don’t visit you very often because you live so far away.",
+      "questionType": "text",
+      "answers": [
+        "If you didn’t live so far away, we’d visit you more often.",
+        "If you don’t live so far away, we will visit you more often."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He doesn’t speak very clearly - that’s why people don’t understand him.",
+      "questionType": "text",
+      "answers": [
+        "If he spoke more clearly, people would understand him.",
+        "If he speaks more clearly, people will understand him."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That book is too expensive, so I’m not going to buy it.",
+      "questionType": "text",
+      "answers": [
+        "If the book was/were cheaper, I’d buy it.",
+        "If the book is cheaper, I’ll buy it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We don’t go out very often because we can’t afford it.",
+      "questionType": "text",
+      "answers": [
+        "If we could afford it, we’d/we would go out more often.",
+        "If we can afford it, we’ll go out more often."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s raining, so we can’t have lunch in the garden.",
+      "questionType": "text",
+      "answers": [
+        "If it wasn’t/weren’t raining, we could have lunch in the garden.",
+        "If it isn’t raining, we can have lunch in the garden."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I have to work tomorrow evening, so I can’t meet you.",
+      "questionType": "text",
+      "answers": [
+        "If I didn’t have to work tomorrow evening, I would meet you.",
+        "If I don’t have to work tomorrow evening, I will meet you."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know many people (and I’m lonely).",
+      "questionType": "text",
+      "answers": [
+        "I wish I knew more people.",
+        "I wish I know more people."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t have a key (and I need one).",
+      "questionType": "text",
+      "answers": [
+        "I wish I had a key.",
+        "I wish I have a key."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann isn’t here (and I need to see her).",
+      "questionType": "text",
+      "answers": [
+        "I wish Ann was/were here.",
+        "I wish Ann is here."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s cold (and I hate cold weather).",
+      "questionType": "text",
+      "answers": [
+        "I wish it wasn’t/weren’t (so) cold.",
+        "I wish it isn’t (so) cold."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I live in a big city (and I don’t like it).",
+      "questionType": "text",
+      "answers": [
+        "I wish I didn’t live in a big city.",
+        "I wish I don’t live in a big city."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t go to the party (and I’d like to).",
+      "questionType": "text",
+      "answers": [
+        "I wish I could go to the party.",
+        "I wish I can go to the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I have to work tomorrow (but I’d like to stay in bed).",
+      "questionType": "text",
+      "answers": [
+        "I wish I didn’t have to work tomorrow.",
+        "I wish I don’t have to work tomorrow."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know anything about cars (and my car has just broken down).",
+      "questionType": "text",
+      "answers": [
+        "I wish I knew something about cars.",
+        "I wish I know something about cars."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m not lying on a beautiful sunny beach (and that’s a pity).",
+      "questionType": "text",
+      "answers": [
+        "I wish I was/were lying on a beautiful sunny beach.",
+        "I wish I am lying on a beautiful sunny beach."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like to be at work today.",
+      "questionType": "text",
+      "answers": [
+        "I wish I was at home.",
+        "I wish I am at home."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The game lags.",
+      "questionType": "text",
+      "answers": [
+        "I wish I had a much more powerful computer.",
+        "I wish I have a much more powerful computer."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to made friends easily.",
+      "questionType": "text",
+      "answers": [
+        "I wish I could tell jokes.",
+        "I wish I can tell jokes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Girls are said to like tall guys.",
+      "questionType": "text",
+      "answers": [
+        "I wish I was taller.",
+        "I wish I am taller."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

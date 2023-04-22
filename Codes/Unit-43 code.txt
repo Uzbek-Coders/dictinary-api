@@ -1,0 +1,305 @@
+{
+  "quizTitle": "Unit 43",
+  "questions": [
+    {
+      "question": "Walt Disney ................ in 1901.",
+      "questionType": "text",
+      "answers": [
+        "was born",
+        "is born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Beethoven ................ in 1770.",
+      "questionType": "text",
+      "answers": [
+        "was born",
+        "has been born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Agatha Christie ................ in 1891.",
+      "questionType": "text",
+      "answers": [
+        "was born",
+        "is born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Elvis Presley ................ in 1935.",
+      "questionType": "text",
+      "answers": [
+        "was born",
+        "are born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When ................ born?",
+      "questionType": "text",
+      "answers": [
+        "were you",
+        "are you"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My parents ................ in the same year.",
+      "questionType": "text",
+      "answers": [
+        "were born",
+        "are born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She ................ in 2010.",
+      "questionType": "text",
+      "answers": [
+        "was born",
+        "is born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where ................ born?",
+      "questionType": "text",
+      "answers": [
+        "was your brother",
+        "is your brother"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They didn’t give me the money.",
+      "questionType": "text",
+      "answers": [
+        "I wasn’t given the money.",
+        "I gave the money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They asked me some difficult questions at the interview.",
+      "questionType": "text",
+      "answers": [
+        "I was asked some difficult questions at the interview.",
+        "I asked some difficult questions at the interview."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Janet’s colleagues gave her a present when she retired.",
+      "questionType": "text",
+      "answers": [
+        "Janet was given a present by her colleagues when she retired.",
+        "Janet gave a present to her colleagues when she retired."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nobody told me that George was ill.",
+      "questionType": "text",
+      "answers": [
+        "I wasn’t told that George was ill.",
+        "I didn’t tell anybody that George was ill."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How much will they pay you?",
+      "questionType": "text",
+      "answers": [
+        "How much will you be paid?",
+        "How much will you pay them?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think they should have offered Tom the job.",
+      "questionType": "text",
+      "answers": [
+        "I think Tom should have been offered the job.",
+        "I think Tom should have offered them the job."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Has anybody shown you what to do?",
+      "questionType": "text",
+      "answers": [
+        "Have you been shown what to do?",
+        "Have you shown anybody what to do?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mr. Miller doesn’t like ................ waiting.",
+      "questionType": "text",
+      "answers": [
+        "being kept",
+        "to be kept"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They went to the party without ................",
+      "questionType": "text",
+      "answers": [
+        "being invited.",
+        "to be invited."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Most people like ................ presents.",
+      "questionType": "text",
+      "answers": [
+        "being given",
+        "to be given"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a dangerous city. People won’t go out after dark because they are afraid of ................",
+      "questionType": "text",
+      "answers": [
+        "being attacked.",
+        "to be attacked."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like ................ stupid questions.",
+      "questionType": "text",
+      "answers": [
+        "being asked",
+        "to be asked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Few people are prepared to work without ................",
+      "questionType": "text",
+      "answers": [
+        "being paid.",
+        "to be paid."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was a fight at the party but nobody ................",
+      "questionType": "text",
+      "answers": [
+        "got hurt.",
+        "got being hurt."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ted ................ by a bee while he was sitting in the garden.",
+      "questionType": "text",
+      "answers": [
+        "got stung",
+        "got been stung"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How did that window ................?",
+      "questionType": "text",
+      "answers": [
+        "get broken",
+        "been broken"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "These tennis courts don’t ................ very often. Not many people want to play.",
+      "questionType": "text",
+      "answers": [
+        "get used",
+        "get use"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I used to have a bicycle but it ................",
+      "questionType": "text",
+      "answers": [
+        "got stolen.",
+        "got steal."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Last night I ................ by the police as I was driving home.",
+      "questionType": "text",
+      "answers": [
+        "got stopped",
+        "got being stopped"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How much did you ................ last month?",
+      "questionType": "text",
+      "answers": [
+        "get paid",
+        "get being paid"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please pack these things very carefully. I don’t want them to ................",
+      "questionType": "text",
+      "answers": [
+        "get broken.",
+        "get been broken."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "People often want to know what my job is. I often ................ that question.",
+      "questionType": "text",
+      "answers": [
+        "get asked",
+        "get being asked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

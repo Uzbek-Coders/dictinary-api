@@ -1,0 +1,355 @@
+{
+  "quizTitle": "Unit 89",
+  "questions": [
+    {
+      "question": "It was a good party. ............... enjoyed it.",
+      "questionType": "text",
+      "answers": [
+        "Everybody",
+        "All"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............... I’ve eaten today is a sandwich.",
+      "questionType": "text",
+      "answers": [
+        "All",
+        "Everything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............... has got their faults. Nobody is perfect.",
+      "questionType": "text",
+      "answers": [
+        "Everybody/Everyone",
+        "All"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nothing has changed. ............... is the same as it was.",
+      "questionType": "text",
+      "answers": [
+        "Everything",
+        "All"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Margaret told me ............... about her new job. It sounds quite interesting.",
+      "questionType": "text",
+      "answers": [
+        "all",
+        "everything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can ............... write their names on a piece of paper, please?",
+      "questionType": "text",
+      "answers": [
+        "everybody/everyone",
+        "all"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you always thinking about money? Money isn’t ...............",
+      "questionType": "text",
+      "answers": [
+        "everything.",
+        "all."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t have much money with me. ............... I had was ten pounds.",
+      "questionType": "text",
+      "answers": [
+        "All",
+        "Everything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When the fire alarm rang, ............... left the building immediately.",
+      "questionType": "text",
+      "answers": [
+        "everybody/everyone",
+        "all"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She didn’t say where she was going. ............... she said was that she was going away.",
+      "questionType": "text",
+      "answers": [
+        "All",
+        "Everything"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We have completely different opinions. I disagree with ............... she says.",
+      "questionType": "text",
+      "answers": [
+        "everything",
+        "everybody"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We all did well in the examination. ............... in our class passed.",
+      "questionType": "text",
+      "answers": [
+        "Everybody/Everyone",
+        "All"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We all did well in the examination. ............... of us passed.",
+      "questionType": "text",
+      "answers": [
+        "All",
+        "Everybody"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you so lazy? Why do you expect me to do ............... for you?",
+      "questionType": "text",
+      "answers": [
+        "everything",
+        "all"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I read the book from beginning to end.",
+      "questionType": "text",
+      "answers": [
+        "I read the whole book.",
+        "I read all the book."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Everyone in the team played well.",
+      "questionType": "text",
+      "answers": [
+        "The whole team played well.",
+        "All the team played well."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Paul opened a box of chocolates. When he finished eating, there were no chocolates left in the box.",
+      "questionType": "text",
+      "answers": [
+        "He ate the whole box (of chocolates).",
+        "He ate all the box (of chocolates)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The police came to the house. They were looking for something. They searched everywhere, every room.",
+      "questionType": "text",
+      "answers": [
+        "They searched the whole house.",
+        "They searched all the house."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann worked from early in the morning until late in the evening.",
+      "questionType": "text",
+      "answers": [
+        "Ann worked the whole day.",
+        "Ann worked all the day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Everyone in Dave and Judy’s family plays tennis. Dave and Judy play, and so do all their children.",
+      "questionType": "text",
+      "answers": [
+        "The whole family play/plays tennis.",
+        "All the family play/plays tennis."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack and Jill went on holiday to the seaside for a week. It rained from the beginning of the week to the end.",
+      "questionType": "text",
+      "answers": [
+        "It rained the whole week.",
+        "It rained all the week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann worked from early in the morning until late in the evening.",
+      "questionType": "text",
+      "answers": [
+        "Ann worked all week.",
+        "Ann worked all the week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack and Jill went on holiday to the seaside for a week. It rained from the beginning of the week to the end.",
+      "questionType": "text",
+      "answers": [
+        "It rained all week.",
+        "It rained all the week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The bus service is very good. There’s a bus ...............",
+      "questionType": "text",
+      "answers": [
+        "every ten minutes.",
+        "each ten minutes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tom is ill. He has some medicine. He has to take it ...............",
+      "questionType": "text",
+      "answers": [
+        "every four hours.",
+        "each four hours."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The Olympic Games take place ...............",
+      "questionType": "text",
+      "answers": [
+        "every four years.",
+        "each four years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We live near a busy airport. A plane flies over our house ...............",
+      "questionType": "text",
+      "answers": [
+        "every five minutes.",
+        "each five minutes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s good idea to have a check-up with the dentist ...............",
+      "questionType": "text",
+      "answers": [
+        "every six months.",
+        "each six months."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve spent ............... you gave me.",
+      "questionType": "text",
+      "answers": [
+        "all the money",
+        "the whole money"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue works ............... except Sunday.",
+      "questionType": "text",
+      "answers": [
+        "every day",
+        "all days"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m tired. I’ve been working hard ...............",
+      "questionType": "text",
+      "answers": [
+        "all day.",
+        "all the day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a terrible fire. ............... was destroyed.",
+      "questionType": "text",
+      "answers": [
+        "The whole building",
+        "Whole building"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve been trying to phone her all day but ............... I phone her the line is engaged.",
+      "questionType": "text",
+      "answers": [
+        "every time",
+        "all the time"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like the weather here. It rains ...............",
+      "questionType": "text",
+      "answers": [
+        "all the time.",
+        "every time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I was on holiday, ............... was stolen.",
+      "questionType": "text",
+      "answers": [
+        "all my luggage",
+        "my whole luggage"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

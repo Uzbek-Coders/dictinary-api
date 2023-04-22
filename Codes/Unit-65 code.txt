@@ -1,0 +1,325 @@
+{
+  "quizTitle": "Unit 65",
+  "questions": [
+    {
+      "question": "The streets are unsafe at night.",
+      "questionType": "text",
+      "answers": [
+        "A lot of people are afraid to go out.",
+        "A lot of people are afraid of going out."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We walked very carefully along the icy path.",
+      "questionType": "text",
+      "answers": [
+        "We were afraid of falling.",
+        "We were afraid to fall."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t usually carry my passport with me.",
+      "questionType": "text",
+      "answers": [
+        "I’m afraid of losing it.",
+        "I’m afraid to lose it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The sea was very rough.",
+      "questionType": "text",
+      "answers": [
+        "We were afraid to go swimming.",
+        "We were afraid of going swimming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We rushed to the station.",
+      "questionType": "text",
+      "answers": [
+        "We were afraid of missing our train.",
+        "We were afraid to miss our train."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In the middle of the film there was a particularly horrifying scene.",
+      "questionType": "text",
+      "answers": [
+        "We were afraid to look.",
+        "We were afraid of looking."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The glasses were very full, so Jane carried them very carefully.",
+      "questionType": "text",
+      "answers": [
+        "She was afraid of spilling the drinks.",
+        "She was afraid to spill the drinks."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t like the look of the food on my plate.",
+      "questionType": "text",
+      "answers": [
+        "I was afraid to eat it.",
+        "I was afraid of eating it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t like the look of the food on my plate.",
+      "questionType": "text",
+      "answers": [
+        "I was afraid of making myself ill.",
+        "I was afraid to make myself ill."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m trying to sell my car but nobody is interested ............... it.",
+      "questionType": "text",
+      "answers": [
+        "in buying",
+        "to buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Julia is interested ............... her own business.",
+      "questionType": "text",
+      "answers": [
+        "in starting",
+        "to start"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was interested ............... your letter in the newspaper last week.",
+      "questionType": "text",
+      "answers": [
+        "to read",
+        "in reading"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bill wants to stay single. He’s not interested ............... married.",
+      "questionType": "text",
+      "answers": [
+        "in getting",
+        "to get"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s a party tonight but I’m not interested ...............",
+      "questionType": "text",
+      "answers": [
+        "in going.",
+        "to go."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m sorry ............... at you yesterday.",
+      "questionType": "text",
+      "answers": [
+        "for shouting",
+        "to shout"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sorry ............... you but have you got a pen I could borrow?",
+      "questionType": "text",
+      "answers": [
+        "to disturb",
+        "for disturbing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sorry ............... late last night. I didn’t realize the time.",
+      "questionType": "text",
+      "answers": [
+        "for being late",
+        "to be late"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m sorry ............... what I said yesterday. I didn’t really mean it.",
+      "questionType": "text",
+      "answers": [
+        "for saying",
+        "to say"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve just had my exam results. I failed. - Oh? I’m sorry ............... that. ",
+      "questionType": "text",
+      "answers": [
+        "to hear",
+        "for hearing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We wanted ............... the building.",
+      "questionType": "text",
+      "answers": [
+        "to leave",
+        "to leaving"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We weren’t allowed ............... the building.",
+      "questionType": "text",
+      "answers": [
+        "to leave",
+        "of leaving"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were prevented ............... the building.",
+      "questionType": "text",
+      "answers": [
+        "from leaving",
+        "to leave"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Fred failed ............... the problem.",
+      "questionType": "text",
+      "answers": [
+        "to solve",
+        "in solving"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Amy succeeded ............... the problem.",
+      "questionType": "text",
+      "answers": [
+        "in solving",
+        "to solve"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m thinking ............... away next week.",
+      "questionType": "text",
+      "answers": [
+        "of going",
+        "to go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m hoping ............... away next week.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "of going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m looking forward ............... away next week.",
+      "questionType": "text",
+      "answers": [
+        "to going",
+        "to go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’d like ............... away next week.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary wanted ............... me a drink.",
+      "questionType": "text",
+      "answers": [
+        "to buy",
+        "to buying"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary promised ............... me a drink.",
+      "questionType": "text",
+      "answers": [
+        "to buy",
+        "to buying"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary insisted ............... me a drink.",
+      "questionType": "text",
+      "answers": [
+        "on buying",
+        "to buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary wouldn’t dream ............... me a drink.",
+      "questionType": "text",
+      "answers": [
+        "of buying",
+        "to buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

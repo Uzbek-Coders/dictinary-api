@@ -1,0 +1,245 @@
+{
+  "quizTitle": "Unit 30",
+  "questions": [
+    {
+      "question": "Where are you going for your holidays? - I haven’t decided yet. .................",
+      "questionType": "text",
+      "answers": [
+        "I may go to Ireland.",
+        "I will go to Ireland."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What sort of car are you going to buy? - I’m not sure yet. .................",
+      "questionType": "text",
+      "answers": [
+        "I might buy a Mercedes.",
+        "I am going to buy a Mercedes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What are you doing this weekend? - I haven’t decided yet. .................",
+      "questionType": "text",
+      "answers": [
+        "I may go to London.",
+        "I will go to London."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where are you going to hang that picture? - I haven’t made up my mind yet. .................",
+      "questionType": "text",
+      "answers": [
+        "I might hang it in the dining room.",
+        "I am going to hang it in the dining room."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When is Tom coming to see us? - I don’t know yet. .................",
+      "questionType": "text",
+      "answers": [
+        "He may come on Saturday.",
+        "He is planning to come on Saturday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is Julia going to do when she leaves school? - She hasn’t decided yet. .................",
+      "questionType": "text",
+      "answers": [
+        "She might go to university.",
+        "She is eager to go to university."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Take an umbrella with you when you go out. It ................. later.",
+      "questionType": "text",
+      "answers": [
+        "might rain",
+        "might not rain"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t make too much noise. You ................. the baby.",
+      "questionType": "text",
+      "answers": [
+        "might wake",
+        "might not wake"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Be careful of that dog. It ................. you.",
+      "questionType": "text",
+      "answers": [
+        "might bite",
+        "might not bite"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t think we should throw that letter away. We ................. it later.",
+      "questionType": "text",
+      "answers": [
+        "might need",
+        "might not need"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Be careful. The footpath is very icy. You .................",
+      "questionType": "text",
+      "answers": [
+        "might slip",
+        "might not slip"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want the children to play in this room. They ................. something.",
+      "questionType": "text",
+      "answers": [
+        "might break",
+        "might not break"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t help you but why don’t you ask Jill? She ................. you.",
+      "questionType": "text",
+      "answers": [
+        "might be able to help",
+        "might have to help"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t meet you this evening but I ................. you tomorrow evening.",
+      "questionType": "text",
+      "answers": [
+        "might be able to meet/see",
+        "might have to meet/see"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m not working on Saturday but I ................. on Sunday.",
+      "questionType": "text",
+      "answers": [
+        "might have to work",
+        "might be able to work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "George isn’t well. He ................. to hospital for an operation.",
+      "questionType": "text",
+      "answers": [
+        "might have to go",
+        "might be able to go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know if Ann will come to the party.",
+      "questionType": "text",
+      "answers": [
+        "Ann might not come to the party.",
+        "Ann will come to the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know if I’ll go out this evening.",
+      "questionType": "text",
+      "answers": [
+        "I may not go out this evening.",
+        "I will go out this evening."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know if Tom will like the present I bought for him.",
+      "questionType": "text",
+      "answers": [
+        "Tom might not like the present I bought for him.",
+        "Tom will definitely like the present I bought for him."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know if Sue will be able to meet us this evening.",
+      "questionType": "text",
+      "answers": [
+        "Sue may not be able to meet us this evening.",
+        "Sue will certainly be able to meet us this evening."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend have just missed the bus. The buses run every hour.",
+      "questionType": "text",
+      "answers": [
+        "We’ll have to wait an hour for the next bus. We might as well walk.",
+        "We’ll have to wait an hour for the next bus. We should wait for it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have a free ticket for a concert. You’re not very keen on the concert but you decided to go. ",
+      "questionType": "text",
+      "answers": [
+        "I may as well go to the concert. It’s a pity to waste a free ticket.",
+        "I have to go the concert. It’s a pity to waste a free ticket."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re in a cafe with a friend. You’ve finished your drinks. It’s a nice cafe and there is no reason to go now, so why not have another drink?",
+      "questionType": "text",
+      "answers": [
+        "We might as well have another drink. What would you like?",
+        "We should have another drink. What would you like?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend are at home. You are bored. There’s a film on TV starting in a few minutes.",
+      "questionType": "text",
+      "answers": [
+        "We might as well watch the film. There’s nothing else to do.",
+        "We should watch the film. There’s nothing else to do."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

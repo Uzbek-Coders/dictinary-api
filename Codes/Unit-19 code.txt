@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 19",
+  "questions": [
+    {
+      "question": "On Sunday, we shopping in Albany.",
+      "questionType": "text",
+      "answers": [
+        "'re going to",
+        "go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John called me yesterday. His wife .............",
+      "questionType": "text",
+      "answers": [
+        "is picking him up from the airport.",
+        "picks him up from the airport."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Lorde is my favourite New Zealand singer. Her new album ............. later this year.",
+      "questionType": "text",
+      "answers": [
+        "is coming out",
+        "comes out"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This weekend? We .............",
+      "questionType": "text",
+      "answers": [
+        "are going to the city.",
+        "go to the city."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "\"What are you doing next Tuesday?\" \"I ............. my parents.\"",
+      "questionType": "text",
+      "answers": [
+        "am visiting",
+        "visit"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I've bought the tickets. We ............. the ferry from Devonport to the city.",
+      "questionType": "text",
+      "answers": [
+        "'re taking",
+        "take"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. the doctor at 5 tomorrow.",
+      "questionType": "text",
+      "answers": [
+        "am seeing",
+        "see"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I've made a reservation for tonight. We ............. dinner in Takapuna at 8 tonight.",
+      "questionType": "text",
+      "answers": [
+        "are having",
+        "have"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. Sally at 7 in her office.",
+      "questionType": "text",
+      "answers": [
+        "'m meeting",
+        "meet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She ............. to New York tomorrow morning.",
+      "questionType": "text",
+      "answers": [
+        "is flying",
+        "flies"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We ............. married next July.",
+      "questionType": "text",
+      "answers": [
+        "are getting",
+        "get"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They ............. very early tomorrow. They ............. the 7.30 train.",
+      "questionType": "text",
+      "answers": [
+        "are leaving / are taking",
+        "leave / take"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. golf with Jack next Saturday. Would you like to come?",
+      "questionType": "text",
+      "answers": [
+        "’m playing",
+        "play"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. the dentist after class.",
+      "questionType": "text",
+      "answers": [
+        "am seeing",
+        "see"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "\"Can you come on Monday evening?\" \"Sorry but ............. with my friends.\"",
+      "questionType": "text",
+      "answers": [
+        "I’m playing volleyball",
+        "I play volleyball"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "\"Shall we go to the cinema Tuesday evening?\" \"No, not Tuesday. I .............\"",
+      "questionType": "text",
+      "answers": [
+        "I’m working late till 9 o’clock.",
+        "I work late till 9 o’clock."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "\"Are you free on Thursday?\" \"I’m afraid not. .............\"",
+      "questionType": "text",
+      "answers": [
+        "I’m meeting Julia.",
+        "I meet Julia."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. to the theater this evening.",
+      "questionType": "text",
+      "answers": [
+        "’m going",
+        "go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "............. at 3.30 or 4.30?",
+      "questionType": "text",
+      "answers": [
+        "Does the film begin",
+        "Is the film beginning"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We ............. a party next Saturday. Would you like to come?",
+      "questionType": "text",
+      "answers": [
+        "are having",
+        "have"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The art exhibition ............. on 3 May and ............. on 15 July.",
+      "questionType": "text",
+      "answers": [
+        "opens / finishes",
+        "is opening / is finishing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. out this evening. I ............. at home.",
+      "questionType": "text",
+      "answers": [
+        "’m not going / ’m staying",
+        "don’t go / stay"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“............. anything tomorrow morning?” “No, I’m free. Why?”",
+      "questionType": "text",
+      "answers": [
+        "Are you doing",
+        "Do you do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We ............. to a concert tonight. It ............. at 7.30.",
+      "questionType": "text",
+      "answers": [
+        "are going / begins",
+        "go / is beginning"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Excuse me. What time ............. to London?",
+      "questionType": "text",
+      "answers": [
+        "does this train get",
+        "is this train getting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann, I ............. to town. ............. with me?",
+      "questionType": "text",
+      "answers": [
+        "’m going / Are you coming",
+        "go / Do you come"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue ............. to see us tomorrow. She ............. by train and her train ............. at 10.15.  I ............. her at the station.",
+      "questionType": "text",
+      "answers": [
+        "is coming / is travelling / arrives / am meeting",
+        "comes / travels / is arriving / meet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ............. the car this evening, so you can have it.",
+      "questionType": "text",
+      "answers": [
+        "’m not using",
+        "do not use"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m bored with this TV program. When .............?",
+      "questionType": "text",
+      "answers": [
+        "does it finish",
+        "is it finishing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

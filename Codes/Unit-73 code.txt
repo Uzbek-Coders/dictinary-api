@@ -1,0 +1,385 @@
+{
+  "quizTitle": "Unit 73",
+  "questions": [
+    {
+      "question": "Two people were injured in the accident and were taken .....................",
+      "questionType": "text",
+      "answers": [
+        "to hospital.",
+        "to the hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In Britain, children from the age of five have to go .....................",
+      "questionType": "text",
+      "answers": [
+        "to school.",
+        "to the school."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mark didn’t go out last night. He stayed .....................",
+      "questionType": "text",
+      "answers": [
+        "at home.",
+        "at the home."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll have to hurry. I don’t want to be late .....................",
+      "questionType": "text",
+      "answers": [
+        "for work.",
+        "for the work."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There is a lot of traffic in the morning when everybody is going .....................",
+      "questionType": "text",
+      "answers": [
+        "to school.",
+        "to the school."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Cathy’s mother has just had an operation. She is still .....................",
+      "questionType": "text",
+      "answers": [
+        "in hospital.",
+        "in the hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When Julia leaves school, she wants to study economics .....................",
+      "questionType": "text",
+      "answers": [
+        "at university.",
+        "at the university."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bill never gets up before 9 o’clock. It’s 8.30 now, so he is still .....................",
+      "questionType": "text",
+      "answers": [
+        "in bed.",
+        "in the bed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you commit a serious crime, you could be sent .....................",
+      "questionType": "text",
+      "answers": [
+        "to prison.",
+        "to the prison."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Every term parents are invited to ..................... to meet the teachers.",
+      "questionType": "text",
+      "answers": [
+        "the school",
+        "school"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why aren’t the school your children at ..................... today? Are they ill?",
+      "questionType": "text",
+      "answers": [
+        "school",
+        "the school"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When he was younger, Ted hated .....................",
+      "questionType": "text",
+      "answers": [
+        "school.",
+        "the school."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time does .....................start in the mornings in your country?",
+      "questionType": "text",
+      "answers": [
+        "school",
+        "the school"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How do your children get home from .....................? By bus? - No, they walk.   ..................... isn’t very far.",
+      "questionType": "text",
+      "answers": [
+        "school / The school",
+        "the school / School"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What sort of job does Jenny want to do when she leaves .....................?",
+      "questionType": "text",
+      "answers": [
+        "school",
+        "the school"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There were some people waiting outside ..................... to meet their children.",
+      "questionType": "text",
+      "answers": [
+        "the school",
+        "school"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In your country, do many people go to .....................?",
+      "questionType": "text",
+      "answers": [
+        "university",
+        "the university"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you want to get a degree, you normally have to study at .....................",
+      "questionType": "text",
+      "answers": [
+        "university.",
+        "the university."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This is only a small town but ..................... is the biggest in the country.",
+      "questionType": "text",
+      "answers": [
+        "the university",
+        "university"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nora works as a cleaner at .....................",
+      "questionType": "text",
+      "answers": [
+        "the hospital.",
+        "hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When Ann was ill, we all went to ..................... to visit her.",
+      "questionType": "text",
+      "answers": [
+        "the hospital",
+        "hospital"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My brother has always been very healthy. He’s never been in .....................",
+      "questionType": "text",
+      "answers": [
+        "hospital.",
+        "the hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Peter was injured in an accident and was kept in ..................... for a few days.",
+      "questionType": "text",
+      "answers": [
+        "hospital",
+        "the hospital"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John’s mother is a regular churchgoer. She goes to ..................... every Sunday.",
+      "questionType": "text",
+      "answers": [
+        "church",
+        "the church"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John himself doesn’t go to .....................",
+      "questionType": "text",
+      "answers": [
+        "church.",
+        "the church."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John went to ..................... to take some photographs of the building.",
+      "questionType": "text",
+      "answers": [
+        "the church",
+        "church"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In many places people are in ..................... because of their political opinions.",
+      "questionType": "text",
+      "answers": [
+        "prison",
+        "the prison"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The other day the fire brigade were called to ..................... to put out a fire.",
+      "questionType": "text",
+      "answers": [
+        "the prison",
+        "prison"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The judge decided to fine the man  Ј 500 instead of sending him to .....................",
+      "questionType": "text",
+      "answers": [
+        "prison.",
+        "the prison."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like to read in ..................... before I go to sleep.",
+      "questionType": "text",
+      "answers": [
+        "bed",
+        "the bed"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s nice to travel around but there’s no place like .....................!",
+      "questionType": "text",
+      "answers": [
+        "home",
+        "the home"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall we meet after ..................... tomorrow evening?",
+      "questionType": "text",
+      "answers": [
+        "work",
+        "the work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If I’m feeling tired, I go to ..................... early.",
+      "questionType": "text",
+      "answers": [
+        "bed",
+        "the bed"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time do you usually start ..................... in the morning?",
+      "questionType": "text",
+      "answers": [
+        "work",
+        "the work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The economic situation is very bad. Many people are out of .....................",
+      "questionType": "text",
+      "answers": [
+        "work.",
+        "the work."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s a nice view from the window. You can see .....................",
+      "questionType": "text",
+      "answers": [
+        "the sea.",
+        "sea."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a long voyage. We were at .....................",
+      "questionType": "text",
+      "answers": [
+        "sea.",
+        "the sea."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I love swimming in .....................",
+      "questionType": "text",
+      "answers": [
+        "the sea.",
+        "sea."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

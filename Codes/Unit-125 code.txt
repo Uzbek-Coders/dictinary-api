@@ -1,0 +1,335 @@
+{
+  "quizTitle": "Unit 125",
+  "questions": [
+    {
+      "question": "Three people were taken ............. hospital after the accident.",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I met Caroline on my way ............. home.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We left our luggage ............. the station and went to find something to eat.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall we take a taxi ............. the station or shall we walk?",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "into"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I must go ............. the bank today to change some money.",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The river Rhine flows ............. the North Sea.",
+      "questionType": "text",
+      "answers": [
+        "into",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m tired. As soon as I get ............. home, I’m going ............. bed.",
+      "questionType": "text",
+      "answers": [
+        "- / to",
+        "to / on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you got your camera? - No, I left it ............. home.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Marcel is French. He has just returned ............. France after two years ............. Brazil.",
+      "questionType": "text",
+      "answers": [
+        "to / in",
+        "in / at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are you going ............. Linda’s party next week?",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Carl was born ............. Chicago but his family moved ............. New York when he was three. He still lives ............. New York.",
+      "questionType": "text",
+      "answers": [
+        "in / to / in",
+        "at / to / at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you ever been ............. China?",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had lost my key but I managed to climb ............. the house through a window.",
+      "questionType": "text",
+      "answers": [
+        "into",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We got stuck in a traffic jam on our way ............. the airport.",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had lunch ............. the airport while we were waiting for our plane.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Welcome ............. the hotel. We hope you enjoy your stay here.",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shahringiz yoki mamlakatingiz mehmoniga nima deysiz?",
+      "questionType": "text",
+      "answers": [
+        "Welcome to Uzbekistan!",
+        "Welcome at Uzbekistan!"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "I’ve never been to Australia.",
+        "I’ve never been in Australia."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "I’ve been to London three times.",
+        "I’ve been in London three times."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "My parents have been to the United States once.",
+        "My parents have been in the United States once."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which one is correct?",
+      "questionType": "text",
+      "answers": [
+        "Have you ever been to Paris?",
+        "Have you ever been in Paris?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time does this train get ............. London?",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time does this train arrive ............. London?",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time did you get ............. home last night?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time do you usually arrive ............. work in the morning?",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "to"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When we got ............. the cinema, there was a long queue outside.",
+      "questionType": "text",
+      "answers": [
+        "to",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I arrived ............. home feeling very tired.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My friend stopped her car and offered me a lift. She opened the door and ......................",
+      "questionType": "text",
+      "answers": [
+        "I got into the car.",
+        "I got out of the car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My bus came, the doors opened and ......................",
+      "questionType": "text",
+      "answers": [
+        "I got on the bus.",
+        "I got off the bus."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Karen drove home in her and parked the car beside her house. Then she ......................",
+      "questionType": "text",
+      "answers": [
+        "got out of the car.",
+        "got into the car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When my train finally got to Manchester, I ......................",
+      "questionType": "text",
+      "answers": [
+        "got off the train.",
+        "got on the train."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The taxi I had ordered a few minutes ago stopped for me. I opened the door and ......................",
+      "questionType": "text",
+      "answers": [
+        "I got into the taxi.",
+        "I got off the taxi."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The plane landed at the airport and stopped. The doors were opened, Lucas took his bag and stood up. Then he simply ......................",
+      "questionType": "text",
+      "answers": [
+        "got off the plane.",
+        "got on the plane."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

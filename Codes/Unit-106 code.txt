@@ -1,0 +1,345 @@
+{
+  "quizTitle": "Unit 106",
+  "questions": [
+    {
+      "question": "I’m quite tall but you are taller.",
+      "questionType": "text",
+      "answers": [
+        "I’m not as tall as you.",
+        "I’m not as tall like you."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My salary is high but yours is higher.",
+      "questionType": "text",
+      "answers": [
+        "My salary isn’t as high as yours.",
+        "My salary isn’t as high like yours."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You know a bit about cars but I know more.",
+      "questionType": "text",
+      "answers": [
+        "You don’t know as much about cars as I do.",
+        "You don’t know as much about cars like I do."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s still cold but it was colder yesterday.",
+      "questionType": "text",
+      "answers": [
+        "It isn’t as cold today as it was yesterday.",
+        "It isn’t as cold today like it was yesterday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I still feel a bit tired but I felt a lot more tired yesterday.",
+      "questionType": "text",
+      "answers": [
+        "I don’t feel as tired today as I felt yesterday.",
+        "I don’t feel as tired today like I felt yesterday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They’ve lived here for quite a long time but we’ve lived here longer.",
+      "questionType": "text",
+      "answers": [
+        "They haven’t lived here as long as us.",
+        "They haven’t lived here as long like us."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was a bit nervous before the interview but usually I’m a lot more nervous.",
+      "questionType": "text",
+      "answers": [
+        "I wasn’t as nervous before the interview as usual.",
+        "I wasn’t as nervous before the interview like usual."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jack is younger than he looks.",
+      "questionType": "text",
+      "answers": [
+        "Jack isn’t as old as he looks.",
+        "Jack is as old as he looks."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t spend as much money as you.",
+      "questionType": "text",
+      "answers": [
+        "You spent more money than me.",
+        "You spent less money than me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The station was nearer than I thought.",
+      "questionType": "text",
+      "answers": [
+        "The station wasn’t as far as I thought.",
+        "The station was as far as I thought."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The meal didn’t cost as much as I expected.",
+      "questionType": "text",
+      "answers": [
+        "The meal cost less than I expected.",
+        "The meal cost more than I expected."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I go out less than I used to.",
+      "questionType": "text",
+      "answers": [
+        "I don’t go out as much as I used to.",
+        "I go out as much as I used to."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Her hair isn’t as long as it used to be.",
+      "questionType": "text",
+      "answers": [
+        "She used to have longer hair.",
+        "She used to have shorter hair."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I know them better than you do.",
+      "questionType": "text",
+      "answers": [
+        "You don’t know them as well as me.",
+        "You know them as well as me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There were fewer people at this meeting than at the last one.",
+      "questionType": "text",
+      "answers": [
+        "There weren’t as many people at this meeting as at the last one.",
+        "There were as many people at this meeting as at the last one."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m sorry I’m a bit late. I got here ............... I could.",
+      "questionType": "text",
+      "answers": [
+        "as fast as",
+        "so fast as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a difficult question. I answered it ............... I could.",
+      "questionType": "text",
+      "answers": [
+        "as well as",
+        "so well as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How long can I stay with you? - You can stay ............... you like.",
+      "questionType": "text",
+      "answers": [
+        "as long as",
+        "so long as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need the information quickly, so please let me know ............... possible.",
+      "questionType": "text",
+      "answers": [
+        "as soon as",
+        "so soon as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like to keep fit, so I go swimming ............... I can.",
+      "questionType": "text",
+      "answers": [
+        "as often as",
+        "so often as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t want to wake anybody, so I came in ............... I could.",
+      "questionType": "text",
+      "answers": [
+        "as quietly as",
+        "so quietly as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going to sleep on the floor. It’s ............... sleeping in that hard bed.",
+      "questionType": "text",
+      "answers": [
+        "just as comfortable as",
+        "just so comfortable as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why did he get the job rather than me? I’m ............... him.",
+      "questionType": "text",
+      "answers": [
+        "just as well-qualified as",
+        "just so well-qualified as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "At first I thought you were nice but really you’re ............... everybody else.",
+      "questionType": "text",
+      "answers": [
+        "just as bad as",
+        "just so bad as"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sally and Kate are both 22 years old.",
+      "questionType": "text",
+      "answers": [
+        "Sally is the same age as Kate.",
+        "Sally is the same age like Kate."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and I both have dark brown hair.",
+      "questionType": "text",
+      "answers": [
+        "Your hair is the same color as mine.",
+        "Your hair is the same color like mine."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I arrived at 10.25 and so did you.",
+      "questionType": "text",
+      "answers": [
+        "I arrived at the same time as you (did).",
+        "I arrived at the same time like you (did)."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My birthday is 5 April. Tom’s birthday is 5 April too.",
+      "questionType": "text",
+      "answers": [
+        "My birthday is (on) the same day as Tom’s.",
+        "My birthday is (on) the same day like Tom’s."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t reach as high as you. You are taller ...............",
+      "questionType": "text",
+      "answers": [
+        "than me.",
+        "as me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He doesn’t know much. I know more ...............",
+      "questionType": "text",
+      "answers": [
+        "than him.",
+        "as him."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t work particularly hard. Most people work as hard ...............",
+      "questionType": "text",
+      "answers": [
+        "as me.",
+        "than me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were very surprised. Nobody was more surprised ...............",
+      "questionType": "text",
+      "answers": [
+        "than we were.",
+        "as we were."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s not a very good player. I’m a better player ...............",
+      "questionType": "text",
+      "answers": [
+        "than she is.",
+        "as she is."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They’ve been very lucky. I wish we were as lucky ...............",
+      "questionType": "text",
+      "answers": [
+        "as them.",
+        "than them."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

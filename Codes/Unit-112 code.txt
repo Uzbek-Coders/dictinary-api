@@ -1,0 +1,315 @@
+{
+  "quizTitle": "Unit 112",
+  "questions": [
+    {
+      "question": "........................, he isn’t particularly well-paid.",
+      "questionType": "text",
+      "answers": [
+        "Although he has a very important job",
+        "Because he has a very important job"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........................, I recognized her from a photograph.",
+      "questionType": "text",
+      "answers": [
+        "Although I had never seen her before",
+        "Because I had never seen her before"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She wasn’t wearing a coat ........................",
+      "questionType": "text",
+      "answers": [
+        "although it was quite cold.",
+        "because it was quite cold."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We thought we’d better invite them to the party ........................",
+      "questionType": "text",
+      "answers": [
+        "although we don’t like them very much.",
+        "because we don’t like them very much."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........................, I managed to make myself understood.",
+      "questionType": "text",
+      "answers": [
+        "Although I didn’t speak the language",
+        "Because I didn’t speak the language"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........................, the room wasn’t warm.",
+      "questionType": "text",
+      "answers": [
+        "Although the heating was on",
+        "Because the heating was on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t recognize her ........................",
+      "questionType": "text",
+      "answers": [
+        "although I’d met her twice before.",
+        "because I’d met her twice before."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We’re not very good friends ........................",
+      "questionType": "text",
+      "answers": [
+        "although we’ve known each other for a long time.",
+        "because we’ve known each other for a long time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................. it rained a lot, we enjoyed our holiday.",
+      "questionType": "text",
+      "answers": [
+        "Although",
+        "In spite of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................. all our careful plans, a lot of things went wrong.",
+      "questionType": "text",
+      "answers": [
+        "In spite of",
+        "Although"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................. we had planned everything carefully, a lot of things went wrong.",
+      "questionType": "text",
+      "answers": [
+        "Although",
+        "Because"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I went home early .................. I was feeling unwell.",
+      "questionType": "text",
+      "answers": [
+        "because",
+        "although"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I went to work the next day .................. I was still feeling unwell.",
+      "questionType": "text",
+      "answers": [
+        "although",
+        "because"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She only accepted the job .................. the salary, which was very high.",
+      "questionType": "text",
+      "answers": [
+        "because of",
+        "in spite of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She accepted the job .................. the salary, which was rather low.",
+      "questionType": "text",
+      "answers": [
+        "in spite of",
+        "because of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I managed to get to sleep .................. there was a lot of noise.",
+      "questionType": "text",
+      "answers": [
+        "although",
+        "in spite of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I couldn’t get to sleep .................. the noise.",
+      "questionType": "text",
+      "answers": [
+        "because of",
+        "although"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He passed the exam .................. he didn’t study very hard.",
+      "questionType": "text",
+      "answers": [
+        "although",
+        "in spite of"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He passed the exam .................. he studied very hard.",
+      "questionType": "text",
+      "answers": [
+        "because",
+        "although"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t eat anything .................. I was hungry.",
+      "questionType": "text",
+      "answers": [
+        "although",
+        "because"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t eat anything .................. the fact that I was hungry.",
+      "questionType": "text",
+      "answers": [
+        "in spite of",
+        "because"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I couldn’t sleep. I was tired.",
+      "questionType": "text",
+      "answers": [
+        "I couldn’t sleep despite being tired.",
+        "I couldn’t sleep despite I was tired."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They have very little money. They are happy.",
+      "questionType": "text",
+      "answers": [
+        "In spite of having very little money, they are happy.",
+        "In spite of they have very little money, they are happy."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My foot was injured. I managed to walk to the nearest village.",
+      "questionType": "text",
+      "answers": [
+        "Although my foot was injured, I managed to walk to the nearest village.",
+        "Although my foot being injured, I managed to walk to the nearest village."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I enjoyed the film. The story was silly.",
+      "questionType": "text",
+      "answers": [
+        "I enjoyed the film in spite of the silly story.",
+        "I enjoyed the film in spite of the story was silly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We live in the same street. We hardly ever see each other.",
+      "questionType": "text",
+      "answers": [
+        "Despite living in the same street, we hardly ever see each other.",
+        "Despite we live in the same street, we hardly ever see each other."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I got very wet in the rain. I had an umbrella.",
+      "questionType": "text",
+      "answers": [
+        "I got very wet in the rain even though I had an umbrella.",
+        "I got very wet in the rain even though having an umbrella."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The house isn’t very nice.",
+      "questionType": "text",
+      "answers": [
+        "I like the garden though.",
+        "I like though the garden."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s quite warm.",
+      "questionType": "text",
+      "answers": [
+        "It’s a bit windy though.",
+        "It’s though a bit windy."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We didn’t like the food.",
+      "questionType": "text",
+      "answers": [
+        "We ate it though.",
+        "We ate though it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Liz is very nice.",
+      "questionType": "text",
+      "answers": [
+        "I don’t like her husband though.",
+        "I don’t like though her husband."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "quizTitle": "Unit 56",
+  "questions": [
+    {
+      "question": "The radio isn’t working. I wonder what’s wrong with it.",
+      "questionType": "text",
+      "answers": [
+        "Have you tried changing the batteries?",
+        "Have you tried to change the batteries?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t open the door. The key won’t turn.",
+      "questionType": "text",
+      "answers": [
+        "Try turning it the other way.",
+        "Try to turn it the other way."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The TV picture isn’t very good. What can I do about it?",
+      "questionType": "text",
+      "answers": [
+        "Have you tried moving the aerial?",
+        "Have you tried to move the aerial?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t contact Fred. He’s not at home. What shall I do?",
+      "questionType": "text",
+      "answers": [
+        "Why don’t you try phoning him at work?",
+        "Why don’t you try to phone him at work?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve got a terrible headache. I wish it would go.",
+      "questionType": "text",
+      "answers": [
+        "Have you tried taking an aspirin?",
+        "Have you tried to take an aspirin?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/gzwpxh2",
+      "questionType": "photo",
+      "answers": [
+        "The jacket needs cleaning.",
+        "The jacket needs to cleaned."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/qmXGs85",
+      "questionType": "photo",
+      "answers": [
+        "The room needs redecorating.",
+        "The room needs to redecorate."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/MSrvmqD",
+      "questionType": "photo",
+      "answers": [
+        "The grass needs cutting.",
+        "The grass needs to cut."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/dKVF1zc",
+      "questionType": "photo",
+      "answers": [
+        "The screws need tightening.",
+        "The screws need to tighten."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/HDBpwRT",
+      "questionType": "photo",
+      "answers": [
+        "The bin needs emptying.",
+        "The bin needs to empty."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was very tired. I tried ...................... my eyes open but I couldn’t.",
+      "questionType": "text",
+      "answers": [
+        "to keep",
+        "keeping"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I rang the doorbell but there was no answer. Then I tried ...................... on the door, but there was still no answer.",
+      "questionType": "text",
+      "answers": [
+        "knocking",
+        "to knock"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We tried ...................... the fire out but we were unsuccessful. We had to call the fire brigade.",
+      "questionType": "text",
+      "answers": [
+        "to put",
+        "putting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue needed to borrow some money. She tried ...................... Gerry but he was short of money too.",
+      "questionType": "text",
+      "answers": [
+        "asking",
+        "to ask"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I tried ...................... the shelf but I wasn’t tall enough.",
+      "questionType": "text",
+      "answers": [
+        "to reach",
+        "reaching"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please leave me alone. I’m trying ......................",
+      "questionType": "text",
+      "answers": [
+        "to concentrate.",
+        "concentrating."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need a change. I need ...................... away for a while.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "2",
+      "point": "1"
+    },
+    {
+      "question": "She isn’t able to look after herself. She needs ...................... after.",
+      "questionType": "text",
+      "answers": [
+        "looking",
+        "to look"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The windows are dirty. They need ......................",
+      "questionType": "text",
+      "answers": [
+        "cleaning.",
+        "to clean."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you leaving now. You don’t need ...................... yet, do you?",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You don’t need ...................... that shirt. It doesn’t need ......................",
+      "questionType": "text",
+      "answers": [
+        "to iron / ironing.",
+        "ironing / to iron."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They were talking very loudly. I couldn’t help ...................... them.",
+      "questionType": "text",
+      "answers": [
+        "overhearing",
+        "to overhear"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you help me ...................... the dinner ready?",
+      "questionType": "text",
+      "answers": [
+        "(to) get",
+        "getting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He looks so funny. Whenever I see him, I can’t help ......................",
+      "questionType": "text",
+      "answers": [
+        "smiling.",
+        "to smile."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The fine weather helped ...................... it a very enjoyable holiday.",
+      "questionType": "text",
+      "answers": [
+        "(to) make",
+        "making"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

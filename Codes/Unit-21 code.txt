@@ -1,0 +1,315 @@
+{
+  "quizTitle": "Unit 21",
+  "questions": [
+    {
+      "question": "I’m too tired to walk home. I think ………. a taxi.",
+      "questionType": "text",
+      "answers": [
+        "I’ll get",
+        "I get"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“It’s a bit cold in this room.” “Is it? ………. on the heating then.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll turn",
+        "I turn"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“We haven’t got any milk.” “Oh, haven’t we? ………. and get some.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll go",
+        "I go"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Do you want me to do the washing-up?” “No, it’s all right. ………. it.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll do",
+        "I do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“I don’t know how to use this computer.” “OK, ………. you.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll teach",
+        "I teach"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Would you like tea or coffee?” “………. coffee, please.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll have",
+        "I have"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Goodbye! Have a nice holiday.” “Thanks. ………. you a postcard.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll send",
+        "I send"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Thank you for lending me your camera. ………. it back to you on Monday, OK?",
+      "questionType": "text",
+      "answers": [
+        "I’ll bring",
+        "I bring"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Are you coming with us?” “No, I think ………. here.”",
+      "questionType": "text",
+      "answers": [
+        "I’ll wait",
+        "I wait"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a bit cold. You decide to close the window.",
+      "questionType": "text",
+      "answers": [
+        "I think I’ll close the window.",
+        "I think I close the window."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are feeling tired and it’s quite late. You decide to go to bed.",
+      "questionType": "text",
+      "answers": [
+        "I think I’ll go to the bed.",
+        "I think I go to the bed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours offers you a lift in his car but you decide to walk.",
+      "questionType": "text",
+      "answers": [
+        "Thank you but I think I’ll walk.",
+        "Thank you but I think I walk."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You arranged to play tennis today. Now you decide that you don’t want to play.",
+      "questionType": "text",
+      "answers": [
+        "I don’t think I’ll play tennis today.",
+        "I don’t think I play tennis today."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You were going to go swimming. Now you decide that you don’t want to go.",
+      "questionType": "text",
+      "answers": [
+        "I don’t think I’ll go swimming.",
+        "I don’t think I swimming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you phone Ruth? - Oh no, I forgot. ……….",
+      "questionType": "text",
+      "answers": [
+        "I’ll phone her now.",
+        "I phone her now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t meet you tomorrow afternoon.",
+      "questionType": "text",
+      "answers": [
+        "I’m playing tennis.",
+        "I’ll play tennis."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "………. you outside the hotel in half an hour, OK? - Yes, that’s fine.",
+      "questionType": "text",
+      "answers": [
+        "I’ll meet",
+        "I meet"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need some money. - OK, ………. you some. How much do you need?",
+      "questionType": "text",
+      "answers": [
+        "I’ll lend",
+        "I’m lending"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "………. a party next Saturday. I hope you can come.",
+      "questionType": "text",
+      "answers": [
+        "I’m having",
+        "I’ll have"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Remember to buy a newspaper when you go out. - OK. ……….",
+      "questionType": "text",
+      "answers": [
+        "I won’t forget.",
+        "I don’t forget."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time ………. tomorrow?",
+      "questionType": "text",
+      "answers": [
+        "does your train leave",
+        "will your train leave"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I asked Sue what happened but she ………. me.",
+      "questionType": "text",
+      "answers": [
+        "won’t tell",
+        "doesn’t tell"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "………. anything tomorrow evening? - No, I’m free. Why?",
+      "questionType": "text",
+      "answers": [
+        "Are you doing",
+        "Will you do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t want to go out alone. ………. with me?",
+      "questionType": "text",
+      "answers": [
+        "Will you come",
+        "Do you come"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a secret between us. I promise ………. anybody.",
+      "questionType": "text",
+      "answers": [
+        "I won’t tell",
+        "I don’t tell"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend want to do something this evening but you don’t know what.",
+      "questionType": "text",
+      "answers": [
+        "What shall we do this evening?",
+        "What do we do this evening?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You try on a jacket in a shop. You are not sure whether to buy it or not.",
+      "questionType": "text",
+      "answers": [
+        "Shall I buy it?",
+        "Do I buy it?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s Ann’s birthday next week. You want to give her a present but you don’t know what.",
+      "questionType": "text",
+      "answers": [
+        "What shall I give Ann for her birthday?",
+        "What do I give Ann for her birthday?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend are going on holiday together but you haven’t decided where.",
+      "questionType": "text",
+      "answers": [
+        "Where shall we go?",
+        "Where do we go?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend are going out. You haven’t decided whether to go by car or to walk.",
+      "questionType": "text",
+      "answers": [
+        "Shall we go by car or (shall we) walk?",
+        "Do we go by car or (do we) walk?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Your friend wants you to phone later. You don’t know what time to phone.",
+      "questionType": "text",
+      "answers": [
+        "What time shall I phone (you)?",
+        "What time do I phone (you)?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "quizTitle": "Unit 2",
+  "questions": [
+    {
+      "question": "Ann ......... German very well.",
+      "questionType": "text",
+      "answers": [
+        "speaks",
+        "lives",
+        "opens"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I never ............................. coffee.",
+      "questionType": "text",
+      "answers": [
+        "drink",
+        "live",
+        "cause"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The swimming pool .................... at 9 o’clock and ..................... at 18.30 every day.",
+      "questionType": "text",
+      "answers": [
+        "opens / closes",
+        "takes place / closes",
+        "causes / closes"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bad driving ........................... many accidents.",
+      "questionType": "text",
+      "answers": [
+        "causes",
+        "takes place",
+        "opens"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My parents .............................. in a very small flat.",
+      "questionType": "text",
+      "answers": [
+        "live",
+        "lives",
+        "take place"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The Olympic Games ...........................  every four years.",
+      "questionType": "text",
+      "answers": [
+        "take place",
+        "live",
+        "cause"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane ............. tea very often.",
+      "questionType": "text",
+      "answers": [
+        "doesn’t drink",
+        "is drink",
+        "don’t drink"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What time ....................... in Britain?",
+      "questionType": "text",
+      "answers": [
+        "do the banks close",
+        "does the banks close",
+        "are the banks closing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Where ......................... from?” “He’s Scottish.”",
+      "questionType": "text",
+      "answers": [
+        "does Martin come",
+        "do Martin come",
+        "is Martin coming"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“What ........... ?” “I’m an electrical engineer.”",
+      "questionType": "text",
+      "answers": [
+        "do you do",
+        "are you doing",
+        "are you doing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It .............. me an hour to get to work. How long  ........... you?",
+      "questionType": "text",
+      "answers": [
+        "takes / does it take",
+        "take / does it take",
+        "is taking / is it taking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ..................... the piano but I .............. very well.",
+      "questionType": "text",
+      "answers": [
+        "play / don’t play",
+        "plays / doesn’t play",
+        "play / doesn’t play"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t understand this sentence. What ............. ?",
+      "questionType": "text",
+      "answers": [
+        "does this word mean",
+        "do this word mean",
+        "is this word meaning"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Rice ........... in Britain.",
+      "questionType": "text",
+      "answers": [
+        "doesn’t grow",
+        "doesn’t rises",
+        "eats"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The sun .................... in the east.",
+      "questionType": "text",
+      "answers": [
+        "rises",
+        "makes",
+        "flows"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bees ................... honey.",
+      "questionType": "text",
+      "answers": [
+        "make",
+        "believe",
+        "grow"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Vegetarians ............... meat.",
+      "questionType": "text",
+      "answers": [
+        "don’t eat",
+        "eat",
+        "grow"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "An atheist ..................... in God.",
+      "questionType": "text",
+      "answers": [
+        "doesn’t believe",
+        "believes",
+        "tells"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "An interpreter .................... from one language into another.",
+      "questionType": "text",
+      "answers": [
+        "translates",
+        "makes",
+        "believes"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A liar is someone who ............. the truth.",
+      "questionType": "text",
+      "answers": [
+        "doesn’t tell",
+        "tells",
+        "translates"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The River Amazon ..................... into the Atlantic Ocean.",
+      "questionType": "text",
+      "answers": [
+        "flows",
+        "makes",
+        "rises"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You know that Liz plays tennis. You want to know how often. Ask her: How often  ................ ",
+      "questionType": "text",
+      "answers": [
+        "do you play tennis?",
+        "are you playing tennis?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Perhaps Liz’s sister plays tennis too. You want to know. Ask Liz.",
+      "questionType": "text",
+      "answers": [
+        "Does your sister play tennis?",
+        "Is your sister playing tennis?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You know that Liz reads a newspaper every day. You want to know which one. Ask her.",
+      "questionType": "text",
+      "answers": [
+        "Which newspaper do you read?",
+        "Which newspaper are you reading?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You know that Liz’s brother works. You want to know what he does. Ask Liz.",
+      "questionType": "text",
+      "answers": [
+        "What does your brother do?",
+        "What do your brother do?",
+        "What is your brother doing?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You know that Liz goes to the cinema a lot. You want to know how often. Ask her.",
+      "questionType": "text",
+      "answers": [
+        "How often do you go to the cinema?",
+        "How often are you going to the cinema?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You don’t know where Liz’s mother lives. Ask Liz.",
+      "questionType": "text",
+      "answers": [
+        "Where does your mother live?",
+        "Where do your mother live?",
+        "Where is your mother living?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a nice day. .......... we go out for a walk.",
+      "questionType": "text",
+      "answers": [
+        "I suggest",
+        "I promise",
+        "I apologize"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I won’t tell anybody what you said. ...............",
+      "questionType": "text",
+      "answers": [
+        "I promise",
+        "I insist",
+        "I recommend"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "(in a restaurant) You must let me pay for the meal.  ...............",
+      "questionType": "text",
+      "answers": [
+        "I insist",
+        "I apologize",
+        "I promise"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................... for what I said about you. It wasn’t true and I shouldn’t have said it.",
+      "questionType": "text",
+      "answers": [
+        "I apologize",
+        "I recommend",
+        "I suggest"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The new restaurant in Hill Street is very good. ............ it.",
+      "questionType": "text",
+      "answers": [
+        "I recommend",
+        "I apologize",
+        "I promise"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

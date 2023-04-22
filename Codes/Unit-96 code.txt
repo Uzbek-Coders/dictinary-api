@@ -1,0 +1,265 @@
+{
+  "quizTitle": "Unit 96",
+  "questions": [
+    {
+      "question": "I was woken up by a bell. The bell was ringing.",
+      "questionType": "text",
+      "answers": [
+        "I was woken up by a bell ringing.",
+        "I was woken up by a bell rings."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t talk much to the man. The man was sitting next to me on the plane.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t talk much to the man sitting next to me on the plane.",
+        "I didn’t talk much to the man sits next to me on the plane."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The taxi broke down. The taxi was taking us to the airport.",
+      "questionType": "text",
+      "answers": [
+        "The taxi taking us to the airport broke down.",
+        "The taxi takes us to the airport broke down."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "At the end of the street there is a path. The path leads to the river.",
+      "questionType": "text",
+      "answers": [
+        "At the end of the street there is a path leading to the river.",
+        "At the end of the street there is a path leads to the river."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A new factory has just opened in the town. The factory employs 500 people.",
+      "questionType": "text",
+      "answers": [
+        "A new factory employing 500 people has just opened in the town.",
+        "A new factory employs 500 people has just opened in the town."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The company sent me a brochure. The brochure contained all the information I needed.",
+      "questionType": "text",
+      "answers": [
+        "The company sent me a brochure containing all the information I needed.",
+        "The company sent me a brochure contains all the information I needed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A boy was injured in the accident. He was taken to hospital.",
+      "questionType": "text",
+      "answers": [
+        "The boy injured in the accident was taken to hospital.",
+        "The boy injuring in the accident was taken to hospital."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A window was broken in the storm last night. It has now been repaired.",
+      "questionType": "text",
+      "answers": [
+        "The window broken in the storm last night has now been repaired.",
+        "The window breaking in the storm last night has now been repaired."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A number of suggestions were made at the meeting. Most of them were not very practical.",
+      "questionType": "text",
+      "answers": [
+        "Most of the suggestions made at the meeting were not very practical.",
+        "Most of the suggestions making at the meeting were not very practical."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Some paintings were stolen from the museum. They haven’t been found yet.",
+      "questionType": "text",
+      "answers": [
+        "The paintings stolen from the museum haven’t been found yet.",
+        "The paintings stealing from the museum haven’t been found yet."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A man was arrested by the police. What was his name?",
+      "questionType": "text",
+      "answers": [
+        "What was the name of the man arrested by the police?",
+        "What was the name of the man arresting by the police?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was woken up by a bell ..............",
+      "questionType": "text",
+      "answers": [
+        "ringing.",
+        "rang."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A lot of the people .............. to the party cannot come.",
+      "questionType": "text",
+      "answers": [
+        "invited",
+        "inviting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Life must be very unpleasant for people .............. near busy airports.",
+      "questionType": "text",
+      "answers": [
+        "living",
+        "lived"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A few days after the interview, I received a letter .............. me the job.",
+      "questionType": "text",
+      "answers": [
+        "offering",
+        "offered"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Somebody .............. Jack phoned while you were out.",
+      "questionType": "text",
+      "answers": [
+        "named",
+        "naming"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There was a tree .............. down in the storm last night.",
+      "questionType": "text",
+      "answers": [
+        "blown",
+        "blowing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I entered the waiting room it was empty except for a young man .............. by the window .............. a magazine.",
+      "questionType": "text",
+      "answers": [
+        "sitting / reading",
+        "sat / read"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ian has got a brother .............. in a bank in London and a sister .............. economics at university in Manchester.",
+      "questionType": "text",
+      "answers": [
+        "working / studying",
+        "worked / studied"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That house is empty. (nobody / live / in it)",
+      "questionType": "text",
+      "answers": [
+        "There’s nobody living in it.",
+        "There’s nobody lived in it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The accident wasn’t serious. (nobody / injure)",
+      "questionType": "text",
+      "answers": [
+        "There was nobody injured.",
+        "There was nobody injuring."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can hear footsteps. (somebody / come)",
+      "questionType": "text",
+      "answers": [
+        "There’s somebody coming.",
+        "There’s somebody came."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The train was full. (a lot of people / travel)",
+      "questionType": "text",
+      "answers": [
+        "There were a lot of people travelling.",
+        "There were a lot of people travelled."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were only guests at the hotel. (nobody else / stay there)",
+      "questionType": "text",
+      "answers": [
+        "There was nobody else staying there.",
+        "There was nobody else stayed there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The piece of paper was blank. (nothing / write / on it)",
+      "questionType": "text",
+      "answers": [
+        "There was nothing written on it.",
+        "There was nothing writing on it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There are regular English courses at the college. (a course / begin / next Monday)",
+      "questionType": "text",
+      "answers": [
+        "There’s a course beginning next Monday.",
+        "There’s a course began next Monday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

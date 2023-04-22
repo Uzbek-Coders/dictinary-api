@@ -1,0 +1,345 @@
+{
+  "quizTitle": "Unit 57",
+  "questions": [
+    {
+      "question": "George is a detective. He enjoys his work. He .................",
+      "questionType": "text",
+      "answers": [
+        "likes solving mysteries.",
+        "likes to solve mysteries."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann very rarely travels by plane. She .................",
+      "questionType": "text",
+      "answers": [
+        "doesn’t like flying.",
+        "doesn’t like to fly."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Rose always carries her camera with her. She .................",
+      "questionType": "text",
+      "answers": [
+        "likes taking/to take photographs.",
+        "doesn’t like taking photographs."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Christine doesn’t use her car very often. She .................",
+      "questionType": "text",
+      "answers": [
+        "doesn’t like driving/to drive.",
+        "likes driving/to drive."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Dave is a gardener. He likes his job. He .................",
+      "questionType": "text",
+      "answers": [
+        "likes working/to work in the open air.",
+        "doesn’t like working/to work in the open air."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jennifer is a very cautious person. She .................",
+      "questionType": "text",
+      "answers": [
+        "doesn’t like taking/to take risks.",
+        "likes taking/to take risks."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ted is extremely lazy. He .................",
+      "questionType": "text",
+      "answers": [
+        "likes doing/to do nothing.",
+        "doesn't like doing/to do nothing."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Helen is very impatient. She .................",
+      "questionType": "text",
+      "answers": [
+        "doesn’t like being/to be kept waiting.",
+        "likes being/to be kept waiting."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate is afraid of height.",
+      "questionType": "text",
+      "answers": [
+        "She doesn’t like flying.",
+        "She likes flying."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When John meets with his friends, ......................",
+      "questionType": "text",
+      "answers": [
+        "they don’t mind playing cards.",
+        "they don’t mind to play cards."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I like doing some basic housework, but ......................",
+      "questionType": "text",
+      "answers": [
+        "I hate doing the ironing.",
+        "I hate to do the ironing."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "As a tourist, ......................",
+      "questionType": "text",
+      "answers": [
+        "I enjoy going to museums.",
+        "I enjoy to go to museums."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She prefers active holidays.",
+      "questionType": "text",
+      "answers": [
+        "She doesn’t like lying on the beach all day.",
+        "She doesn’t like to lie on the beach all day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Teaching is a very boring job.",
+      "questionType": "text",
+      "answers": [
+        "I wouldn’t like to be a teacher.",
+        "I wouldn’t like being a teacher."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Becoming a doctor is challenging in a number of ways, including the years of schooling required, the financial cost of education and setting up a practice.",
+      "questionType": "text",
+      "answers": [
+        "So I wouldn’t like to be a doctor.",
+        "So I wouldn’t like being a doctor."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Making people beautiful is a great job.",
+      "questionType": "text",
+      "answers": [
+        "I’d like to be a hairdresser.",
+        "I’d like being a hairdresser."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I am not good for height.",
+      "questionType": "text",
+      "answers": [
+        "I’d hate to be an airline pilot.",
+        "I’d hate being an airline pilot."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can speak five languages.",
+      "questionType": "text",
+      "answers": [
+        "So I wouldn’t mind being a tourist guide.",
+        "So I wouldn’t mind to be a tourist guide."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s nice to be with other people but sometimes I enjoy ...................... alone.",
+      "questionType": "text",
+      "answers": [
+        "being",
+        "to be"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m not quite ready yet. Do you mind ...................... a little longer?",
+      "questionType": "text",
+      "answers": [
+        "waiting",
+        "to wait"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I was a child, I hated ...................... to bed early.",
+      "questionType": "text",
+      "answers": [
+        "going / to go",
+        "having gone / to have gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t enjoy ...................... letters. I can never think what to write.",
+      "questionType": "text",
+      "answers": [
+        "writing",
+        "to write"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need a new job. I can’t stand ...................... here any more.",
+      "questionType": "text",
+      "answers": [
+        "working",
+        "to work"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I would love ...................... to your wedding but I’m afraid it isn’t possible.",
+      "questionType": "text",
+      "answers": [
+        "to come",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Caroline never wears a hat. She doesn’t like ...................... hats.",
+      "questionType": "text",
+      "answers": [
+        "wearing / to wear",
+        "to have worn"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Would you like ...................... down? - No, thanks. I’ll stand.",
+      "questionType": "text",
+      "answers": [
+        "to sit",
+        "sitting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I have to catch a train, I’m always worried that I’ll miss it. So I like ...................... to the station in plenty of time.",
+      "questionType": "text",
+      "answers": [
+        "to get",
+        "getting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you got a moment? I’d like ...................... to you about something.",
+      "questionType": "text",
+      "answers": [
+        "to talk",
+        "talking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity I couldn’t go to the wedding.",
+      "questionType": "text",
+      "answers": [
+        "I would like to have gone to the wedding.",
+        "I would like having gone to the wedding."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity I didn’t see the program.",
+      "questionType": "text",
+      "answers": [
+        "I’d like to have seen the program.",
+        "I’d like having seen the program."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m glad I didn’t lose my watch.",
+      "questionType": "text",
+      "answers": [
+        "I would hate to have lost my watch.",
+        "I would hate having lost my watch."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity I didn’t meet Ann.",
+      "questionType": "text",
+      "answers": [
+        "I would love to have met Ann.",
+        "I would love having met Ann."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m glad I wasn’t alone.",
+      "questionType": "text",
+      "answers": [
+        "I wouldn’t like to have been alone.",
+        "I wouldn’t like having been alone."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a pity I couldn’t travel by train.",
+      "questionType": "text",
+      "answers": [
+        "I would prefer to have travelled by train.",
+        "I would prefer having travelled by train."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

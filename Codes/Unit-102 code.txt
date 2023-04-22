@@ -1,0 +1,265 @@
+{
+  "quizTitle": "Unit 102",
+  "questions": [
+    {
+      "question": "She shouldn’t get married yet. She’s not ..............",
+      "questionType": "text",
+      "answers": [
+        "old enough.",
+        "enough old."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’d like to buy a car but I haven’t got ..............",
+      "questionType": "text",
+      "answers": [
+        "enough money.",
+        "money enough."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you got .............. in your tea or would you like some more?",
+      "questionType": "text",
+      "answers": [
+        "enough milk",
+        "milk enough"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are you ..............? Or shall I switch on the heating?",
+      "questionType": "text",
+      "answers": [
+        "warm enough",
+        "enough warm"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s only a small car. There isn’t .............. for all of you.",
+      "questionType": "text",
+      "answers": [
+        "enough room",
+        "room enough"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Steve didn’t feel .............. to go to work this morning.",
+      "questionType": "text",
+      "answers": [
+        "well enough",
+        "enough well"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t answer all the questions in the exam. I didn’t have ..............",
+      "questionType": "text",
+      "answers": [
+        "enough time.",
+        "time enough."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you think I’ve got .............. to apply for the job?",
+      "questionType": "text",
+      "answers": [
+        "enough qualifications",
+        "qualifications enough"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Try this jacket on and see if it’s .............. for you.",
+      "questionType": "text",
+      "answers": [
+        "big enough",
+        "enough big"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There weren’t .............. for everybody to have coffee at the same time.",
+      "questionType": "text",
+      "answers": [
+        "enough cups",
+        "cups enough"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are they going to get married? - No, they’re not ..............",
+      "questionType": "text",
+      "answers": [
+        "old enough to get married.",
+        "old enough for getting married."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I need to talk to you about something. - Well, I’m afraid I’m .............. to you now.",
+      "questionType": "text",
+      "answers": [
+        "too busy to talk",
+        "too busy for talking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Let’s go to the cinema. - No, it’s .............. to the cinema.",
+      "questionType": "text",
+      "answers": [
+        "too late to go",
+        "too late for going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why don’t we sit outside? - It’s not .............. outside.",
+      "questionType": "text",
+      "answers": [
+        "warm enough to sit",
+        "warm enough for sitting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Would you like to be a politician? - No, I’m .............. a politician.",
+      "questionType": "text",
+      "answers": [
+        "too shy to be",
+        "too shy for being"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Would you like to be a teacher? - No, I haven’t got .............. a teacher.",
+      "questionType": "text",
+      "answers": [
+        "enough patience to be",
+        "enough patience for being"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you hear what he was saying? - No, we were .............. what he was saying.",
+      "questionType": "text",
+      "answers": [
+        "too far away to hear",
+        "too far away for hearing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can he read a newspaper in English? - No, he doesn’t know .............. a newspaper.",
+      "questionType": "text",
+      "answers": [
+        "enough English to read",
+        "enough English for reading"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We couldn’t eat the food. It was too hot.",
+      "questionType": "text",
+      "answers": [
+        "The food was too hot to eat.",
+        "The food was too hot to eat it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t drink this coffee. It’s too hot.",
+      "questionType": "text",
+      "answers": [
+        "This coffee is too hot to drink.",
+        "This coffee is too hot to drink it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nobody could move the piano. It was too heavy.",
+      "questionType": "text",
+      "answers": [
+        "The piano was too heavy to move.",
+        "The piano was too heavy to move it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t wear this coat in winter. It isn’t warm enough.",
+      "questionType": "text",
+      "answers": [
+        "This coat isn’t warm enough to wear in winter.",
+        "This coat isn’t warm enough to wear it in winter."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t explain the situation. It is too complicated.",
+      "questionType": "text",
+      "answers": [
+        "The situation is too complicated to explain.",
+        "The situation is too complicated to explain it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Three people can’t sit on this sofa. It isn’t wide enough.",
+      "questionType": "text",
+      "answers": [
+        "This sofa isn’t wide enough for three people to sit on.",
+        "This sofa isn’t wide enough for three people to sit on it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We couldn’t climb over the wall. It was too high.",
+      "questionType": "text",
+      "answers": [
+        "The wall was too high to climb over.",
+        "The wall was too high to climb over it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can’t see some things without a microscope. They are too small.",
+      "questionType": "text",
+      "answers": [
+        "Some things are too small to see without a microscope.",
+        "Some things are too small to see them without a microscope."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

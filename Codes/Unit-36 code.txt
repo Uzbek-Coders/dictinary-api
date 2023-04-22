@@ -1,0 +1,185 @@
+{
+  "quizTitle": "Unit 36",
+  "questions": [
+    {
+      "question": "You’re carrying a lot of things. You can’t open the door yourself. There’s a man standing near the door. You say to him:",
+      "questionType": "text",
+      "answers": [
+        "Could you open the door, please?",
+        "Could you to open the door, please?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You phone Ann but somebody else answers. Ann isn’t there. You want to leave a message for her. You say:",
+      "questionType": "text",
+      "answers": [
+        "Can you give her a message?",
+        "Can you to give her a message?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are a tourist. You want to go to the station but you don’t know where it is. You ask at your hotel. You say: ",
+      "questionType": "text",
+      "answers": [
+        "Could you tell me how to get to the station?",
+        "Did you can tell me how to get  to the station?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are in a clothes shop. You see some trousers you like and you want to try them on. You say to the shop assistant:",
+      "questionType": "text",
+      "answers": [
+        "Can I try these (trousers) on?",
+        "Do I can try these (trousers) on?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have a car. You have to go to the same place as John, who hasn’t got a car. You want to give him a lift. You say to John:",
+      "questionType": "text",
+      "answers": [
+        "Can I give you a lift?",
+        "Can I to give you a lift?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You want to borrow your friend’s camera.",
+      "questionType": "text",
+      "answers": [
+        "Do you think I could borrow your camera?",
+        "Do you think I could to borrow your camera?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are at a friend’s house and you want to use her phone.",
+      "questionType": "text",
+      "answers": [
+        "Do you think I could use your phone?",
+        "Do you think could I use your phone?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve written a letter in English. Before you send it, you want an English friend to check it.",
+      "questionType": "text",
+      "answers": [
+        "Do you think you could check this letter (for me)?",
+        "Do you think you could to check this letter (for me)?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You want to leave work early because you have some things to do. What do you ask your boss?",
+      "questionType": "text",
+      "answers": [
+        "Do you think I could leave work early?",
+        "Do you think could I leave work early?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The woman in the next room is playing music. It’s very loud. You want her to turn it down.",
+      "questionType": "text",
+      "answers": [
+        "Do you think you could turn the music down?",
+        "Do you think you could to turn the music down?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You are phoning the owner of a flat which was advertised in a newspaper. You are interested in the flat and you want to come and see it today.",
+      "questionType": "text",
+      "answers": [
+        "Do you think I could come and see the flat?",
+        "Do you think could I come and see the flat?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John has come to see you in your flat. You offer him something to eat.",
+      "questionType": "text",
+      "answers": [
+        "Would you like something to eat?",
+        "Will you like something to eat?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You need help to change the film in your camera.",
+      "questionType": "text",
+      "answers": [
+        "I don’t know how to change the film. Do you think you could show me?",
+        "I don’t know how to change the film. Do you think you could to show me?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re on a train. The woman next to you has finished reading her newspaper. Now you want to have a look at it.",
+      "questionType": "text",
+      "answers": [
+        "Can/Could/May I have a look at your newspaper?",
+        "Can/Could/May I to have a look at your newspaper?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re on a bus. You have a seat but an elderly man is standing. You offer him your seat.",
+      "questionType": "text",
+      "answers": [
+        "Would you like to sit down?",
+        "Did you will like to sit down?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re the passenger in a car. Your friend is driving very fast. You ask her to slow down.",
+      "questionType": "text",
+      "answers": [
+        "Can/Could/Would you slow down?",
+        "Can/Could/Would you to slow down?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve finished your meal in a restaurant and now you want the bill. You ask the waiter:",
+      "questionType": "text",
+      "answers": [
+        "Can/Could you bring me/us the bill, please?",
+        "Can/Could you to bring me/us the bill, please?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours is interested in one of your books. You invite him to borrow it.",
+      "questionType": "text",
+      "answers": [
+        "Would you like to borrow it?",
+        "Did you will like to borrow it?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

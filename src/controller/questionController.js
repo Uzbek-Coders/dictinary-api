@@ -1,18 +1,19 @@
 import question from "../model/question.js";
-
+import fs from "fs"
 
 // CREATE
 const questionCreate = async (req, res) => { 
     try {
-     console.log(req.body)
-         let newQuestion = new question(req.body);
-         await newQuestion.save();
+        for (let i = 1; i < 137; i++) {
+            const data = JSON.parse(fs.readFileSync(`C:\\Users\\asqar\\Documents\\dictinary-api-master\\Codes\\Unit-${i} code.txt`, 'utf8'))
+            // return res.send( data) 
+            //  console.log(req.body)
+            let newQuestion = new question(data);
+            await newQuestion.save();
 
-         console.log(newQuestion);
-         return res.json({
-             ok: true,
-             data: newQuestion,
-         });
+            console.log(newQuestion);
+        }
+         return res.send("Done!");
     
     } catch (error) {
         console.log(error)
@@ -31,8 +32,7 @@ const questionGet = async (req, res) => {
 const questionGetID = async (req, res) => { 
     try {
         console.log(req.params.id)
-        const id = await question.find({}, { array: req.params.id })
-        const result = await question.findOne({ _id: id })
+        const result = await question.findOne({ quizTitle: `Unit ${req.params.id}` })
         // console.log(result)
         return res.json({data: result})
     } catch {
@@ -40,4 +40,4 @@ const questionGetID = async (req, res) => {
     }
 }
 
-export { questionCreate, questionGet, questionGetID }
+export { questionCreate, questionGet, questionGetID };

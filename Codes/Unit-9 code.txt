@@ -1,0 +1,230 @@
+{
+  "quizTitle": "Unit 9",
+  "questions": [
+    {
+      "question": "https://ibb.co/2kKDfJx",
+      "questionType": "photo",
+      "answers": [
+        "They have been shopping.",
+        "They were shopping."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/J3zsM3n",
+      "questionType": "photo",
+      "answers": [
+        "She has been watching television.",
+        "She was watching television."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/3zb3S78",
+      "questionType": "photo",
+      "answers": [
+        "They have been playing tennis.",
+        "They were playing tennis."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/Csxw1x0",
+      "questionType": "photo",
+      "answers": [
+        "He has been running.",
+        "He was running."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John looks sunburnt. You ask: (you / sit in the sun?)",
+      "questionType": "text",
+      "answers": [
+        "Have you been sitting in the sun?",
+        "Were you sitting in the sun?",
+        "Did you sit in the sun?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have just arrived to meet a friend who is waiting for you. You ask: (you / wait / long?)",
+      "questionType": "text",
+      "answers": [
+        "Have you been waiting long?",
+        "Were you waiting long?",
+        "Did you wait long?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You meet a friend in the street. His face and hands are very dirty. You ask: (what / you / do?)",
+      "questionType": "text",
+      "answers": [
+        "What have you been doing?",
+        "What were you doing?",
+        "What did you do?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours is now living in Baker Street. You want to know “How long...?” You ask: (how long / you / live / in Baker Street?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been living in Baker Street?",
+        "How long were you living in Baker Street?",
+        "How long did you live in Baker Street?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend tells you about his job - he sells computers. You want to know “How long...?” You ask: (how long / you / sell / computers?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been selling computers?",
+        "How long were you selling computers?",
+        "How long did you sell computers?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The rain started two hours ago. It’s still raining now.",
+      "questionType": "text",
+      "answers": [
+        "It has been raining for two hours.",
+        "It is raining for two hours."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We started waiting for the bus 20 minutes ago. We’re still waiting now.",
+      "questionType": "text",
+      "answers": [
+        "We have been waiting for 20 minutes.",
+        "We are waiting for 20 minutes."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I started Spanish classes in December. I’m still learning Spanish now.",
+      "questionType": "text",
+      "answers": [
+        "I have been learning Spanish since December.",
+        "I am learning Spanish since December."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann began looking for a job six months ago. She’s still looking now.",
+      "questionType": "text",
+      "answers": [
+        "She has been looking for a job for six months.",
+        "She is looking for a job for six months."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary started working in London on 18 January. She’s still working there now.",
+      "questionType": "text",
+      "answers": [
+        "She has been working in London since 18 January.",
+        "She is working in London since 18 January."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Years ago you started writing to a pen friend. You still write to each other regularly now.",
+      "questionType": "text",
+      "answers": [
+        "We have been writing to each other for years.",
+        "We are writing to each other for years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Maria .............. English for  two years.",
+      "questionType": "text",
+      "answers": [
+        "has been learning",
+        "is learning"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Hello, Tom. I .............. for you all morning. Where have you been?",
+      "questionType": "text",
+      "answers": [
+        "have been looking",
+        "am looking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why .............. at me like that? Stop it!",
+      "questionType": "text",
+      "answers": [
+        "are you looking",
+        "have you been looking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We always go to Ireland for our holidays. We .............. there for years.",
+      "questionType": "text",
+      "answers": [
+        "have been going",
+        "are going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I .............. about what you said and I’ve decided to take your advice.",
+      "questionType": "text",
+      "answers": [
+        "have been thinking",
+        "am thinking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Is Ann on holiday this week?” “No, she .............. .”",
+      "questionType": "text",
+      "answers": [
+        "is working",
+        "has been working"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sarah is very tired. She .............. very hard recently.",
+      "questionType": "text",
+      "answers": [
+        "has been working",
+        "is working"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

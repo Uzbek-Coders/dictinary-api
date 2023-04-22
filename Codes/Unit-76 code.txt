@@ -1,0 +1,355 @@
+{
+  "quizTitle": "Unit 76",
+  "questions": [
+    {
+      "question": "........... was first climbed in 1953.",
+      "questionType": "text",
+      "answers": [
+        "Everest",
+        "The Everest"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Milan is in ........... north of Italy.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... Africa is much larger than ........... Europe.",
+      "questionType": "text",
+      "answers": [
+        "- / -",
+        "The / the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Last year I visited ........... Mexico and ........... United States.",
+      "questionType": "text",
+      "answers": [
+        "- / the",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... south of England is warmer than ........... north.",
+      "questionType": "text",
+      "answers": [
+        "The / the",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Portugal is in ........... western Europe.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "France and Britain are separated by ........... Channel.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jim has travelled a lot in ........... Middle East.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Chicago is on ........... Lake Michigan.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The highest mountain in Africa is ........... Kilimanjaro (5,895 meters).",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Next year we are going skiing on ........... Swiss Alps.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... United Kingdom consists of ........... Great Britain and ........... Northern Ireland.",
+      "questionType": "text",
+      "answers": [
+        "The / - / -",
+        "- / - / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... Seychelles are a group of islands in ........... Indian Ocean.",
+      "questionType": "text",
+      "answers": [
+        "The / the",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... River Volga flows into ........... Caspian Sea.",
+      "questionType": "text",
+      "answers": [
+        "The / the",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What do you have to cross to travel from Europe to America?",
+      "questionType": "text",
+      "answers": [
+        "The Atlantic.",
+        "Atlantic."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where is Argentina?",
+      "questionType": "text",
+      "answers": [
+        "In South America.",
+        "In the South America."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which is the longest river in Africa?",
+      "questionType": "text",
+      "answers": [
+        "The Nile.",
+        "Nile."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Of which country is Stockholm the capital?",
+      "questionType": "text",
+      "answers": [
+        "Sweden.",
+        "The Sweden."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Of which country is Washington the capital?",
+      "questionType": "text",
+      "answers": [
+        "The United States.",
+        "United States."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is the name of the mountain range in the west of North America?",
+      "questionType": "text",
+      "answers": [
+        "The Rockies.",
+        "Rockies."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is the name of the sea between Africa and Europe?",
+      "questionType": "text",
+      "answers": [
+        "The Mediterranean.",
+        "Mediterranean."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which is the smallest continent in the world?",
+      "questionType": "text",
+      "answers": [
+        "Australia.",
+        "The Australia."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is the name of the ocean between America and Asia?",
+      "questionType": "text",
+      "answers": [
+        "The Pacific.",
+        "Pacific."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What is the name of the ocean between Africa and Australia?",
+      "questionType": "text",
+      "answers": [
+        "The Indian Ocean.",
+        "Indian Ocean."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which river flows through London?",
+      "questionType": "text",
+      "answers": [
+        "The Thames.",
+        "Thames."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which river flows through Vienna, Budapest and Belgrade?",
+      "questionType": "text",
+      "answers": [
+        "The Danube.",
+        "Danube."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What joins the Atlantic and Pacific Oceans?",
+      "questionType": "text",
+      "answers": [
+        "The Panama Canal.",
+        "Panama Canal."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Which is the longest river in South America?",
+      "questionType": "text",
+      "answers": [
+        "The Amazon.",
+        "Amazon."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Of which country is Bangkok the capital?",
+      "questionType": "text",
+      "answers": [
+        "Thailand.",
+        "The Thailand."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Who is ........... Doctor Johnson?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "a"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was ill, so I went to see ........... doctor.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "a"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... President is the most powerful person in ........... United States.",
+      "questionType": "text",
+      "answers": [
+        "The / the",
+        "- / -"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "........... President Kennedy was assassinated in 1963.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know ........... Wilsons? They’re a very nice couple.",
+      "questionType": "text",
+      "answers": [
+        "the",
+        "-"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know ........... Professor Brown’s phone number?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "the"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

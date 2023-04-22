@@ -1,0 +1,225 @@
+{
+  "quizTitle": "Unit 10",
+  "questions": [
+    {
+      "question": "Tom started reading a book two hours ago. He is still reading it and now he is on page 53.",
+      "questionType": "text",
+      "answers": [
+        "He has been reading for two hours. He has read 53 pages so far.",
+        "He is reading for two hours. He read 53 pages so far."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Linda is from Australia. She is travelling round Europe at the moment. She began her tour three months ago.",
+      "questionType": "text",
+      "answers": [
+        "She has been travelling for three months. She has visited six countries so far.",
+        "She is travelling for three months. She visited six countries so far."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jimmy is a tennis player. He began playing tennis when he was ten years old. This year he is national champion again - for the fourth time.",
+      "questionType": "text",
+      "answers": [
+        "He has won the national championship four times. He has been playing tennis since he was ten.",
+        "He won the national championship four times. He is playing tennis since he was ten."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When they left college, Mary and Sue started making films together. They still make films.",
+      "questionType": "text",
+      "answers": [
+        "They have made ten films since they left college. They have been making films since they left college.",
+        "They made ten films since they left college. They are making films since they left college."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have a friend who is learning Arabic. You ask: (how long / learn / Arabic?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been learning Arabic?",
+        "How long are you learning Arabic?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have just arrived to meet a friend. She is waiting for you. You ask: (how long / wait?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been waiting?",
+        "How long are you waiting?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You see somebody fishing by the river. You ask: (how many fish / catch?)",
+      "questionType": "text",
+      "answers": [
+        "How many fish have you caught?",
+        "How many fish did you catch?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Some friends of yours are having a party next week. You ask: (how many people / invite?)",
+      "questionType": "text",
+      "answers": [
+        "How many people have you invited?",
+        "How many people did you invite?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours is a teacher. You ask: (how long / teach?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been teaching?",
+        "How long are you teaching?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You meet somebody who is a writer. You ask: (how many books / write?) (how long / write / books?)",
+      "questionType": "text",
+      "answers": [
+        "How many books have you written? How long have you been writing books?",
+        "How many books did you write? How long are you writing books?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A friend of yours is saving money to go on holiday. You ask: (how long / save?) (how much money / save?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you been saving? How much money have you saved?",
+        "How long are you saving? How much money did you save?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where have you been? ………… tennis?",
+      "questionType": "text",
+      "answers": [
+        "Have you been playing",
+        "Have you played"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Look! Somebody ………… that window.",
+      "questionType": "text",
+      "answers": [
+        "has broken",
+        "has been breaking"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You look tired. ………… hard?",
+      "questionType": "text",
+      "answers": [
+        "Have you been working",
+        "Have you worked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“………… in a factory?” “No, never.”",
+      "questionType": "text",
+      "answers": [
+        "Have you ever worked",
+        "Have you ever been working"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Jane is away on holiday.” “Oh, is she? Where …………?",
+      "questionType": "text",
+      "answers": [
+        "has she gone",
+        "has she been going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My brother is an actor. He ………… in several films.",
+      "questionType": "text",
+      "answers": [
+        "has appeared",
+        "has been appearing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Sorry I’m late.” “That’s all right. I ………… long.”",
+      "questionType": "text",
+      "answers": [
+        "haven’t been waiting",
+        "haven’t waited"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“Is it still raining?” “No, it ………… .”",
+      "questionType": "text",
+      "answers": [
+        "has stopped",
+        "has been stopping"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ………… my address book. ………… it anywhere?",
+      "questionType": "text",
+      "answers": [
+        "’ve lost / Have you seen",
+        "have been losing / Have you been seeing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ………… the book you lent me but I ………… it yet.",
+      "questionType": "text",
+      "answers": [
+        "have been reading / haven’t finished",
+        "have read / haven’t been finishing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ………… the book you lent me, so you can have it back now.",
+      "questionType": "text",
+      "answers": [
+        "have read",
+        "have been reading"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

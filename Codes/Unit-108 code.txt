@@ -1,0 +1,325 @@
+{
+  "quizTitle": "Unit 108",
+  "questions": [
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Everybody enjoyed the party very much.",
+        "Everybody enjoyed very much the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Tom walks to work every morning.",
+        "Tom walks every morning to work."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Jim doesn’t like football very much.",
+        "Jim doesn’t like very much football."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "I drink three or four cups of coffee every morning.",
+        "I every morning drink three or four cups of coffee."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "I ate my dinner quickly and went out.",
+        "I ate quickly my dinner and went out."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Are you going to invite a lot of people to the party?",
+        "Are you going to invite to the party a lot of people? "
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "I phoned Tom immediately after hearing the news.",
+        "I immediately phoned Tom after hearing the news."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Did you go to bed late last night?",
+        "Did you go late to bed last night?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Sue was here five minutes ago. Where is she now?",
+        "Sue five minutes ago was here. Where is she now?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "Did you learn a lot of things at school today?",
+        "Did you learn today a lot of things at school?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "I met a friend of mine on my way home.",
+        "I met on my way home a friend of mine."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qaysi gapda so’z tartibi to’g’ri qo’llanilgan?",
+      "questionType": "text",
+      "answers": [
+        "I fell off my bicycle yesterday.",
+        "I fell yesterday off my bicycle."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (the party / very much / everybody enjoyed)",
+      "questionType": "text",
+      "answers": [
+        "Everybody enjoyed the party very much.",
+        "Everybody very much enjoyed the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (we won / easily / the game)",
+      "questionType": "text",
+      "answers": [
+        "We won the game easily.",
+        "We easily won the game."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (quietly / the door / I closed)",
+      "questionType": "text",
+      "answers": [
+        "I closed the door quietly.",
+        "I closed quietly the door."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (Diane / quite well / speaks / German)",
+      "questionType": "text",
+      "answers": [
+        "Diane speaks German quite well.",
+        "Diane speaks quite well German."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (Tim / all the time / television / watches)",
+      "questionType": "text",
+      "answers": [
+        "Tim watches television all the time.",
+        "Tim all the time watches television."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (again / please don’t ask / that question)",
+      "questionType": "text",
+      "answers": [
+        "Please don’t ask that question again.",
+        "Please don’t ask again that question."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (football / every weekend / does Ken play?)",
+      "questionType": "text",
+      "answers": [
+        "Does Ken play football every weekend?",
+        "Does Ken play every weekend football?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llab, gap tuzing: (some money / I borrowed / from a friend of mine)",
+      "questionType": "text",
+      "answers": [
+        "I borrowed some money from a friend of mine.",
+        "I borrowed from a friend of mine some money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (for a long time / have lived / in the same house)",
+      "questionType": "text",
+      "answers": [
+        "They have lived in the same house for a long time.",
+        "They have lived for a long time in the same house."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (to the bank / every Friday / go)",
+      "questionType": "text",
+      "answers": [
+        "I go to the bank every Friday.",
+        "I go every Friday to the bank."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (home / did you come / so late)",
+      "questionType": "text",
+      "answers": [
+        "Why did you come home so late?",
+        "Why did you come so late home?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (her car / drives / every day / to work)",
+      "questionType": "text",
+      "answers": [
+        "Ann drives her car to work every day.",
+        "Ann drives her car every day to work."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (been / recently / to the cinema)",
+      "questionType": "text",
+      "answers": [
+        "I haven’t been to the cinema recently.",
+        "I recently haven’t been to the cinema."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (at the top of the page / your name / write)",
+      "questionType": "text",
+      "answers": [
+        "Please write your name at the top of the page.",
+        "Please write at the top of the page your name."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (her name / after a few minutes / remembered)",
+      "questionType": "text",
+      "answers": [
+        "I remembered her name after a few minutes.",
+        "I remembered after a few minutes her name."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (around the town / all morning / walked)",
+      "questionType": "text",
+      "answers": [
+        "We walked around the town all morning.",
+        "We walked all morning around the town."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (on Saturday night / didn’t see you / at the party)",
+      "questionType": "text",
+      "answers": [
+        "I didn’t see you at the party on Saturday night.",
+        "I didn’t see on Saturday night you at the party."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (some interesting books / found / in the library)",
+      "questionType": "text",
+      "answers": [
+        "We found some interesting books in the library.",
+        "We found in the library some interesting books."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (the children / yesterday / to the zoo / took)",
+      "questionType": "text",
+      "answers": [
+        "Sally took the children to the zoo yesterday.",
+        "Sally took yesterday the children to the zoo."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Qavs ichidagi gap bo‘laklari to‘g‘ri tartibda qo‘llanilgan gapni tanlang: (opposite the park / a new hotel / are building)",
+      "questionType": "text",
+      "answers": [
+        "They are building a new hotel opposite the park.",
+        "They are building opposite the park a new hotel."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

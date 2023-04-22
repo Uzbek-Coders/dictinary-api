@@ -1,0 +1,175 @@
+{
+  "quizTitle": "Unit 23",
+  "questions": [
+    {
+      "question": "Why are you turning on the television? - ……....... the news.",
+      "questionType": "text",
+      "answers": [
+        "I’m going to watch",
+        "I’ll watch"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Oh, I’ve just realized. I haven’t got any money. - Haven’t you? Well, don’t worry. ……....... you some.",
+      "questionType": "text",
+      "answers": [
+        "I’ll lend",
+        "I’m going to lend"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve got a headache. - Have you? Wait there and ……....... an aspirin for you.",
+      "questionType": "text",
+      "answers": [
+        "I’ll get",
+        "I’m going to get"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why are you filling that bucket with water? - ……....... the car.",
+      "questionType": "text",
+      "answers": [
+        "I’m going to wash",
+        "I’ll wash"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve decided to repaint this room. - Oh, have you? What color ................... it?",
+      "questionType": "text",
+      "answers": [
+        "are you going to paint",
+        "will you paint"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where are you going? Are you going shopping? - Yes, ……....... something for dinner.",
+      "questionType": "text",
+      "answers": [
+        "I’m going to buy",
+        "I’ll buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know how to use this camera. - It’s quite easy. ……....... you.",
+      "questionType": "text",
+      "answers": [
+        "I’ll show",
+        "I’m going to show"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What would you like to eat? - ……....... a sandwich, please.",
+      "questionType": "text",
+      "answers": [
+        "I’ll have",
+        "I’m going to have"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you post that letter for me? - Oh, I’m sorry. I completely forgot. ……....... it now.",
+      "questionType": "text",
+      "answers": [
+        "I’ll do",
+        "I’m going to do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The ceiling in this room doesn’t look very safe, does it? - No, it looks as if ……....... down.",
+      "questionType": "text",
+      "answers": [
+        "it is going to fall",
+        "it’ll fall"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Has George decided what to do when he leaves school? - Oh, yes. Everything is planned. ……....... a holiday for a few weeks and then ……....... a computer programming course.",
+      "questionType": "text",
+      "answers": [
+        "He’s going to have / he’s going to do",
+        "He’ll have / he’ll do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Hello. Can I speak to Jim, please? - Just a moment. ……....... him.",
+      "questionType": "text",
+      "answers": [
+        "I’ll get",
+        "I’m going to get"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The weather’s too nice to stay indoors. ……....... in the garden. - That’s a good idea. I think ……....... you.",
+      "questionType": "text",
+      "answers": [
+        "I’m going to sit / I’ll join",
+        "I’ll sit / I’m going to join"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t worry about the lost letter. I’m sure ……....... it. - I hope so. ",
+      "questionType": "text",
+      "answers": [
+        "you’ll find",
+        "you’re going to find"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you decided what to do about that job that was advertised? - Yes, ……....... for it.",
+      "questionType": "text",
+      "answers": [
+        "I’m not going to apply",
+        "I’ll not apply"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shhh! Don’t make so much noise. ……....... everybody up.",
+      "questionType": "text",
+      "answers": [
+        "You’ll wake / You’re going to wake",
+        "You wake"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann, I need somebody to take me to the airport tomorrow morning. - That’s no problem. ……....... you. ……....... at about 9 o’clock then.",
+      "questionType": "text",
+      "answers": [
+        "I’ll take / We’ll leave",
+        "I’m going to take / We’re going to leave"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

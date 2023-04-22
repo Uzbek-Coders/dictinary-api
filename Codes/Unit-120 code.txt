@@ -1,0 +1,445 @@
+{
+  "quizTitle": "Unit 120",
+  "questions": [
+    {
+      "question": "Columbus made his first voyage from Europe to America .......... 1492.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In Britain most people do not work .......... Sundays.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If the sky is clear, you can see the stars .......... night.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "After working hard during the day, I like to relax .......... the evening.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The first man walked on the moon .......... 21 July 1969.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s difficult to listen if everyone is speaking .......... the same time.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jazz became popular in the United States .......... the 1920s.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m just going out to the shop. I’ll be back .......... about 20 minutes.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can I speak to Clare? - I’m afraid she’s not here .......... the moment.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In Britain people send each other cards .......... Christmas.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Many of Europe’s great cathedrals were built .......... the Middle Ages.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bob is a very fast runner. He can run 100 meters .......... 11 seconds.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll see you .......... Friday.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll see you .......... next Friday.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What are you doing .......... Saturday?",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What are you doing .......... the weekend?",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They often go out .......... the evenings.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They often go out .......... Sunday evenings.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you work .......... Wednesdays?",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you work .......... every Wednesday?",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We usually have a holiday .......... the summer.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We often have a short holiday .......... Christmas.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Pauline got married .......... 1991.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Pauline got married .......... 18 May 1991.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Chris is getting married .......... this year.",
+      "questionType": "text",
+      "answers": [
+        "-",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mozart was born in Salzburg .......... 1756.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t seen Kate for a few days. I last saw her .......... Tuesday.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The price of electricity is going up .......... October.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve been invited to a wedding .......... 14 February.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Hurry up! We’ve got to go .......... five minutes.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m busy just now but I’ll be with you .......... a moment.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jenny’s brother is an engineer but he’s out of work .......... the moment.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There are usually a lot of parties .......... New Year’s Eve.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I hope the weather will be nice .......... the weekend.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".......... Saturday night I went to bed .......... 11 o’clock.",
+      "questionType": "text",
+      "answers": [
+        "On / at",
+        "At / on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t like travelling .......... night.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We travelled overnight to Paris and arrived .......... 5 o’clock .......... the morning.",
+      "questionType": "text",
+      "answers": [
+        "at / in",
+        "in / on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The course begins .......... 7 January and ends sometime .......... April.",
+      "questionType": "text",
+      "answers": [
+        "on / in",
+        "in / on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was quite a short book and easy to read. I read it .......... a day.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I might not be at home .......... Tuesday morning but I’ll probably be there .......... the afternoon.",
+      "questionType": "text",
+      "answers": [
+        "on / in",
+        "in / on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My car is being repaired at the garage. It will be ready .......... two hours.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The telephone and the doorbell rang .......... the same time.",
+      "questionType": "text",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary and Henry always go out for a meal .......... their wedding anniversary.",
+      "questionType": "text",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Henry is 63. He’ll be retiring from his job .......... two years’ time.",
+      "questionType": "text",
+      "answers": [
+        "in",
+        "on"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

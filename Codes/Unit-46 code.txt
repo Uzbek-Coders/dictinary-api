@@ -1,0 +1,205 @@
+{
+  "quizTitle": "Unit 46",
+  "questions": [
+    {
+      "question": "I’m living in London.",
+      "questionType": "text",
+      "answers": [
+        "Charlie said that he was living in London now.",
+        "Charlie said that he is living in London now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My father isn’t very well.",
+      "questionType": "text",
+      "answers": [
+        "He said that his father wasn’t very well.",
+        "He said that his father isn’t very well."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sharon and Paul are getting married next month.",
+      "questionType": "text",
+      "answers": [
+        "They said that Sharon and Paul were getting married next month.",
+        "They said that Sharon and Paul are getting married next month."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My sister has had a baby.",
+      "questionType": "text",
+      "answers": [
+        "He said that his sister had had a baby.",
+        "He said that his sister has had a baby."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t know what Fred is doing.",
+      "questionType": "text",
+      "answers": [
+        "She said that he didn’t know what Fred was doing.",
+        "She said that he doesn’t know what Fred is doing."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I saw Helen at a party in June and she seemed fine.",
+      "questionType": "text",
+      "answers": [
+        "He said that he had seen Helen at a party in June and she had seemed fine.",
+        "He said that he saw Helen at a party in June and she seemed fine."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t seen Diane recently.",
+      "questionType": "text",
+      "answers": [
+        "He said that he hadn’t seen Diane recently.",
+        "He said that he hasn’t seen Diane recently."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m not enjoying my job very much.",
+      "questionType": "text",
+      "answers": [
+        "He said that he wasn’t enjoying his job very much.",
+        "He said that he isn’t enjoying his job very much."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You can come and stay at my place if you’re ever in London.",
+      "questionType": "text",
+      "answers": [
+        "He said that I could come and stay at his flat if I was ever in London.",
+        "He said that I can come and stay at his flat if I am ever in London."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My car was stolen a few days ago.",
+      "questionType": "text",
+      "answers": [
+        "He said that his car had been stolen a few weeks ago.",
+        "He said that his car was stolen a few weeks ago."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I want to go on holiday, but I can’t afford it.",
+      "questionType": "text",
+      "answers": [
+        "He said he wanted to go on holiday but he couldn’t afford it.",
+        "He said he wants to go on holiday but he can’t afford it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll tell Chris I saw you.",
+      "questionType": "text",
+      "answers": [
+        "He said he would tell Chris he had seen me.",
+        "He said he will tell Chris he saw me."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That restaurant is expensive. - Is it? ..........................",
+      "questionType": "text",
+      "answers": [
+        "I thought you said it was cheap.",
+        "I thought you said it is cheap."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann is coming to the party tonight. - Is she? I thought you said she ..........................",
+      "questionType": "text",
+      "answers": [
+        "wasn’t coming.",
+        "isn’t coming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann likes Paul. - Does she? I thought ..........................",
+      "questionType": "text",
+      "answers": [
+        "you said she didn’t like him.",
+        "you said she doesn’t like him."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I know lots of people. - Do you? I thought you said you ..........................",
+      "questionType": "text",
+      "answers": [
+        "didn’t know many people.",
+        "don’t know many people."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ll be here next week. - Will you? ..........................",
+      "questionType": "text",
+      "answers": [
+        "I thought you said you would be away next week.",
+        "I thought you said you will be away next week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m going out this evening. - Are you? ..........................",
+      "questionType": "text",
+      "answers": [
+        "I thought you said you were staying at home.",
+        "I thought you said you are staying at home."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can speak a little French. - Can you? ..........................",
+      "questionType": "text",
+      "answers": [
+        "I thought you said you couldn’t speak (any) French.",
+        "I thought you said you can’t speak (any) French."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t been to the cinema for ages. - Haven’t you? ..........................",
+      "questionType": "text",
+      "answers": [
+        "I thought you said you had been to the cinema last week.",
+        "I thought you said you have been to the cinema last week."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

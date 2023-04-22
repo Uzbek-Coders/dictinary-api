@@ -1,0 +1,325 @@
+{
+  "quizTitle": "Unit 42",
+  "questions": [
+    {
+      "question": "If something is washable, ..........................",
+      "questionType": "text",
+      "answers": [
+        "it can be washed.",
+        "it can’t be washed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is unbreakable, ..........................",
+      "questionType": "text",
+      "answers": [
+        "can’t be broken.",
+        "can be broken."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is edible, ..........................",
+      "questionType": "text",
+      "answers": [
+        "can be eaten.",
+        "can't be eaten."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is unusable, ..........................",
+      "questionType": "text",
+      "answers": [
+        "it can’t be used.",
+        "it can be used."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is invisible, ..........................",
+      "questionType": "text",
+      "answers": [
+        "it can’t be seen.",
+        "it can be seen."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If something is portable, ..........................",
+      "questionType": "text",
+      "answers": [
+        "it can be carried.",
+        "it can’t be carried."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The situation is serious. Something must .................. before it’s too late.",
+      "questionType": "text",
+      "answers": [
+        "be done",
+        "have been done"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t received the letter. It might .................. to the wrong address.",
+      "questionType": "text",
+      "answers": [
+        "have been sent",
+        "be sent"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A decision will not .................. until the next meeting.",
+      "questionType": "text",
+      "answers": [
+        "be made",
+        "have been made"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I told the hotel receptionist that I wanted to .................. at 6.30 the next morning.",
+      "questionType": "text",
+      "answers": [
+        "be woken up",
+        "have been woken up"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you think that less money should .................. on armaments?",
+      "questionType": "text",
+      "answers": [
+        "be spent",
+        "have been spent"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This road is in very bad condition. It should .................. a long time ago.",
+      "questionType": "text",
+      "answers": [
+        "have been repaired",
+        "be repaired"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The injured man couldn’t walk and had to ..................",
+      "questionType": "text",
+      "answers": [
+        "be carried.",
+        "have been carried."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s not certain how the fire started but it might .................. by an electrical fault.",
+      "questionType": "text",
+      "answers": [
+        "have been caused",
+        "be caused"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Somebody has cleaned the room.",
+      "questionType": "text",
+      "answers": [
+        "The room has been cleaned.",
+        "The room is being cleaned."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They have postponed the concert.",
+      "questionType": "text",
+      "answers": [
+        "The concert has been postponed.",
+        "The concert have been postponed."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Somebody is using the computer at the moment.",
+      "questionType": "text",
+      "answers": [
+        "The computer is being used at the moment.",
+        "The computer has been used at the moment."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I didn’t realize that somebody was recording our conversation.",
+      "questionType": "text",
+      "answers": [
+        "I didn’t realize that our conversation was being recorded.",
+        "I didn’t realize that our conversation is being recorded."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When we got to the stadium, we found that they had cancelled the game.",
+      "questionType": "text",
+      "answers": [
+        "When we got to the stadium, we found that that the game had been cancelled.",
+        "When we got to the stadium, we found that that the game was cancelled."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They are building a new ring road round the city.",
+      "questionType": "text",
+      "answers": [
+        "A new ring road is being built round the city.",
+        "A new ring road has been built round the city."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They have built a new hospital near the airport.",
+      "questionType": "text",
+      "answers": [
+        "A new hospital has been built near the airport.",
+        "A new hospital was built near the airport."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s somebody behind us. (I think / we / follow)",
+      "questionType": "text",
+      "answers": [
+        "I think we’re being followed.",
+        "I think we are following somebody."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "This room looks different. (you / pain?)",
+      "questionType": "text",
+      "answers": [
+        "Have you painted it?",
+        "Have you been painted?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My car has disappeared. (it / steal!)",
+      "questionType": "text",
+      "answers": [
+        "It has been stolen!",
+        "It stole!"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My umbrella has disappeared. (somebody / take)",
+      "questionType": "text",
+      "answers": [
+        "Somebody has taken it.",
+        "Somebody has been taken."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tom gets a higher salary now. (he / promote)",
+      "questionType": "text",
+      "answers": [
+        "He has been promoted.",
+        "He promoted."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann can’t use her office at the moment. (it / redecorate)",
+      "questionType": "text",
+      "answers": [
+        "It’s being redecorated.",
+        "It is redecorating."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The photocopier broke down yesterday, but now it’s OK. (it / work / again; it / repair)",
+      "questionType": "text",
+      "answers": [
+        "It is working again. It has been repaired.",
+        "It is being worked again. It has repaired."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The police have found the people they were looking for. (two people / arrest / last night)",
+      "questionType": "text",
+      "answers": [
+        "Two people were arrested last night.",
+        "Two people arrested last night."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "A tree was lying across the road. (it / blow down / in the storm)",
+      "questionType": "text",
+      "answers": [
+        "It was blown down in the storm.",
+        "It blew down in the storm."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The man next door disappeared six months ago. (nobody / see / since then)",
+      "questionType": "text",
+      "answers": [
+        "Nobody has seen him since then.",
+        "Nobody has been seen since then."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was mugged on my way home a few nights ago. (you / ever / mug?)",
+      "questionType": "text",
+      "answers": [
+        "Have you ever been mugged?",
+        "Have you ever mugged?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

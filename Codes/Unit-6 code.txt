@@ -1,0 +1,175 @@
+{
+  "quizTitle": "Unit 6",
+  "questions": [
+    {
+      "question": "Tom burnt his hand while he .......",
+      "questionType": "text",
+      "answers": [
+        "was cooking the dinner.",
+        "cooked the dinner"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The doorbell rang while I .....",
+      "questionType": "text",
+      "answers": [
+        "was having a shower.",
+        "had a shower."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We saw an accident while we .................",
+      "questionType": "text",
+      "answers": [
+        "were waiting for the bus.",
+        "waited for the bus."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mary fell asleep while she ...............",
+      "questionType": "text",
+      "answers": [
+        "was reading the paper.",
+        "read the paper."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The television was on but nobody ......................",
+      "questionType": "text",
+      "answers": [
+        "was watching it.",
+        "watched it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I .....… (see) Sue in town yesterday but she .....… (not/see) me. She .....… (look) the other way.",
+      "questionType": "text",
+      "answers": [
+        "saw / didn’t see / was looking",
+        "was seeing / wasn’t seeing / looked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ........... (meet) Tom and Ann at the airport a few weeks ago. They ........... (go) to Berlin and I ........... (go) to Madrid. We ........... (have) a chat while we ........... (wait) for our flights.",
+      "questionType": "text",
+      "answers": [
+        "met / were going / was going / had / were waiting (or waited)",
+        "met / went / went / were having / were waiting (or waited)"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I .......... (cycle) home yesterday when suddenly a man .......... (step) out into the road in front of me. I .......... (go) quite fast but luckily I .......... (manage) to stop in time and .......... (not/hit) him.",
+      "questionType": "text",
+      "answers": [
+        "was cycling / stepped / was going / managed / didn’t hit",
+        "cycled / was stepping / went / managed / wasn’t hitting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Jane .......... for me when I .......... .",
+      "questionType": "text",
+      "answers": [
+        "was waiting / arrived",
+        "waited / arrived"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“What .......... this time yesterday ?” “I was asleep.”",
+      "questionType": "text",
+      "answers": [
+        "were you doing",
+        "did you do"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "“.......... out last night?” “No, I was too tired.”",
+      "questionType": "text",
+      "answers": [
+        "Did you go",
+        "Were you going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "How fast .......... when the accident ..........?",
+      "questionType": "text",
+      "answers": [
+        "were you driving / happened",
+        "did you drive / happened"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "John .......... a photograph of me while I .......... .",
+      "questionType": "text",
+      "answers": [
+        "took / wasn’t looking",
+        "was taking / looked"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were in a very difficult position. We .......... what to do.",
+      "questionType": "text",
+      "answers": [
+        "didn’t know",
+        "weren’t knowing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t seen Alan for ages. When I last .......... him, he .......... to find a job in London.",
+      "questionType": "text",
+      "answers": [
+        "saw / was trying",
+        "was seeing / tried"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I .......... along the street when suddenly I .......... footsteps behind me. Somebody .......... me. I was frightened and I .......... to run.",
+      "questionType": "text",
+      "answers": [
+        "was walking / heard / was following / started",
+        "walked / heard / followed / was starting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "When I was young, I .......... to be a bus driver.",
+      "questionType": "text",
+      "answers": [
+        "wanted",
+        "was wanting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "quizTitle": "Unit 117",
+  "questions": [
+    {
+      "question": "Mark looks very tired. He looks ......... he needs a good rest.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue was walking with difficulty. She looked ......... she had hurt her leg.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t think he was joking. He looked ......... he meant what he was saying.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The grass is very short. It looks ......... it has just been cut.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Peter was extremely hungry and ate his dinner very quickly. He ate ......... he hadn’t eaten for a week.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Carol had a bored expression on her face during the concert. She didn’t look ......... she was enjoying it.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve just eaten too many chocolates. Now I’m feeling ill. I feel ......... I’m going to be sick.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I phoned Emma and invited her to the party but she wasn’t very enthusiastic about it. She sounded ......... she didn’t want to come.",
+      "questionType": "text",
+      "answers": [
+        "as if",
+        "like"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You meet Bill. He has a black eye and some plasters on his face. You say to him:",
+      "questionType": "text",
+      "answers": [
+        "You look as if you’ve been in a fight.",
+        "You look like you’ve been in a fight."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Christine comes into the room. She looks absolutely terrified. You say to her:",
+      "questionType": "text",
+      "answers": [
+        "What’s the matter? You look as if you’ve seen a ghost.",
+        "What’s the matter? You look like you’ve seen a ghost."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sarah is talking to you on the phone about her new job and she sounds very happy about it. You say to her:",
+      "questionType": "text",
+      "answers": [
+        "You sound as if you’re enjoying it.",
+        "You sound like you’re enjoying it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You have just run one kilometer. You are absolutely exhausted. You say to a friend:",
+      "questionType": "text",
+      "answers": [
+        "I feel as if I’ve run a marathon.",
+        "I feel like I’ve run a marathon."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sandra said she would be here an hour ago.",
+      "questionType": "text",
+      "answers": [
+        "It looks as if she isn’t coming.",
+        "It looks as she isn’t coming."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The sky is full of black clouds.",
+      "questionType": "text",
+      "answers": [
+        "It looks as if it’s going to rain.",
+        "It looks as it’s going to rain."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You hear two people shouting at each other next door.",
+      "questionType": "text",
+      "answers": [
+        "It sounds as if they are having an argument.",
+        "It sounds as they are having an argument."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You see an ambulance, some policemen and two damaged cars at the side of the road.",
+      "questionType": "text",
+      "answers": [
+        "It looks as if there’s been an accident.",
+        "It looks as there’s been an accident."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You and a friend have just missed the last bus home.",
+      "questionType": "text",
+      "answers": [
+        "It looks as if we’ll have to walk.",
+        "It looks as we’ll have to walk."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue and Dave have just been telling you about all the interesting things they did while they were on holiday.",
+      "questionType": "text",
+      "answers": [
+        "It sounds as if you had a good time.",
+        "It sounds as you had a good time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Brian is a terrible driver. He drives .................... the only driver on the road.",
+      "questionType": "text",
+      "answers": [
+        "as if he was/were",
+        "as if he is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m 20 years old, so please don’t talk to me .................... a child.",
+      "questionType": "text",
+      "answers": [
+        "as if I was/were",
+        "as if I am"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Steve has only met Nicola once but he talks about her .................... a close friend.",
+      "questionType": "text",
+      "answers": [
+        "as if she was/were",
+        "as if she is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a long time ago that we first met but I remember it .................... yesterday.",
+      "questionType": "text",
+      "answers": [
+        "as if it was/were",
+        "as if it is"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

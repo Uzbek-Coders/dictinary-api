@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 90",
+  "questions": [
+    {
+      "question": "https://ibb.co/Zf8GVxz",
+      "questionType": "photo",
+      "answers": [
+        "Each player has three cards.",
+        "Every player has three cards."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/fpWMsKV",
+      "questionType": "photo",
+      "answers": [
+        "Carol has read every book in the library.",
+        "Carol has read each book in the library."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "https://ibb.co/0y5hWmx",
+      "questionType": "photo",
+      "answers": [
+        "Each side of a square is the same length.",
+        "Every side of a square is the same length."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "answers": [
+        "Every seat in the theater was taken.",
+        "Each seat in the theater was taken."
+      ],
+      "questionType": "photo",
+      "question": "https://ibb.co/zF356Dx",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "questionType": "photo",
+      "answers": [
+        "Each apartment has a balcony.",
+        "Every apartment has a balcony."
+      ],
+      "question": "https://ibb.co/gSHB5jV",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "questionType": "photo",
+      "answers": [
+        "There’s a train to London every hour.",
+        "There’s a train to London each hour."
+      ],
+      "question": "https://ibb.co/DGPTvw6",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "questionType": "photo",
+      "answers": [
+        "She was wearing four rings - one on each finger.",
+        "She was wearing four rings - one on every finger."
+      ],
+      "question": "https://ibb.co/HG7hMgS",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "questionType": "photo",
+      "answers": [
+        "Our football team has been very successful. We’ve won every game this season.",
+        "Our football team has been very successful. We’ve won each game this season."
+      ],
+      "question": "https://ibb.co/QYNBYJb",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There were four books on the table. .................. book was a different color.",
+      "questionType": "text",
+      "answers": [
+        "Each",
+        "Every"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The Olympic Games are held .................. four years.",
+      "questionType": "text",
+      "answers": [
+        "every",
+        "each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": ".................. parent worries about their children.",
+      "questionType": "text",
+      "answers": [
+        "Every",
+        "Each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "In a game of tennis there are two or four players. .................. player has a racket.",
+      "questionType": "text",
+      "answers": [
+        "Each",
+        "Every"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Nicola plays volleyball .................. Thursday evening.",
+      "questionType": "text",
+      "answers": [
+        "every",
+        "each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I understood most of what they said but not .................. word.",
+      "questionType": "text",
+      "answers": [
+        "every",
+        "each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The book is divided into five parts and .................. of these has three sections.",
+      "questionType": "text",
+      "answers": [
+        "each",
+        "every"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I get paid .................. four weeks.",
+      "questionType": "text",
+      "answers": [
+        "every",
+        "each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We had a great weekend. I enjoyed .................. minute of it.",
+      "questionType": "text",
+      "answers": [
+        "every",
+        "each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I tried to phone her two or three times, but .................. time there was no reply.",
+      "questionType": "text",
+      "answers": [
+        "each",
+        "every"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Car seat belts save lives. .................. driver should wear one.",
+      "questionType": "text",
+      "answers": [
+        "Every",
+        "Each"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "(imtihon varaqasidan) Answer all five questions. Begin your answer to .................. question on a separate sheet of paper.",
+      "questionType": "text",
+      "answers": [
+        "each",
+        "every"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The price of one of these oranges is 25 pence.",
+      "questionType": "text",
+      "answers": [
+        "Those oranges are 25 pence each.",
+        "Those oranges are 25 pence every."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I had ten pounds and so did Sonia.",
+      "questionType": "text",
+      "answers": [
+        "Sonia and I had ten pounds each.",
+        "Sonia and I had ten pounds every."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "One of those postcards costs 40 pence.",
+      "questionType": "text",
+      "answers": [
+        "Those postcards are 40 pence each.",
+        "Those postcards are 40 pence every."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The hotel was expensive. I paid $40 and so did you.",
+      "questionType": "text",
+      "answers": [
+        "We each paid $40.",
+        "We every paid $40."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He’s invited to a lot of parties and he goes to ..................",
+      "questionType": "text",
+      "answers": [
+        "every one.",
+        "everyone."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "As soon as .................. had arrived, we began the meeting.",
+      "questionType": "text",
+      "answers": [
+        "everyone",
+        "every one"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I asked her lots of questions and she answered .................. correctly.",
+      "questionType": "text",
+      "answers": [
+        "every one",
+        "everyone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She’s very popular. .................. likes her.",
+      "questionType": "text",
+      "answers": [
+        "Everyone",
+        "Every one"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I dropped a tray of glasses. Unfortunately .................. broke.",
+      "questionType": "text",
+      "answers": [
+        "every one",
+        "everyone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

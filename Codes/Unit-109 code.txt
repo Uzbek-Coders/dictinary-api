@@ -1,0 +1,375 @@
+{
+  "quizTitle": "Unit 109",
+  "questions": [
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "Tom always goes to work by car.",
+        "Tom goes always to work by car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "I cleaned the house and also cooked the dinner.",
+        "I cleaned the house and cooked also the dinner."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "I usually have a shower when I get up.",
+        "I have usually a shower when I get up."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "We soon found the solution to the problem.",
+        "We found soon the solution to the problem."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "Steve hardly ever gets angry.",
+        "Steve gets hardly ever angry."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "I did some shopping and I also went to the bank.",
+        "I did some shopping and I went also to the bank."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "Jane always has to hurry in the morning because she gets up so late.",
+        "Jane has always to hurry in the morning because she gets up so late."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "We were all tired so we all fell asleep.",
+        "We all were tired so we all fell asleep."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "So‘zlarni to‘g‘ri tartibda qo‘llanilgan gapni tanlang.",
+      "questionType": "text",
+      "answers": [
+        "She always says she’ll phone me but she never does.",
+        "She says always she’ll phone me but she never does."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann doesn’t drink tea. (often)",
+      "questionType": "text",
+      "answers": [
+        "Ann doesn’t often drink tea.",
+        "Ann doesn’t drink often tea."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were on holiday. (all)",
+      "questionType": "text",
+      "answers": [
+        "We were all on holiday.",
+        "We all were on holiday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were staying at the same hotel. (all)",
+      "questionType": "text",
+      "answers": [
+        "We were all staying at the same hotel.",
+        "We all were staying at the same hotel."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We enjoyed ourselves. (all)",
+      "questionType": "text",
+      "answers": [
+        "We all enjoyed ourselves.",
+        "We enjoyed all ourselves."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Catherine is very generous. (always)",
+      "questionType": "text",
+      "answers": [
+        "Catherine is always very generous.",
+        "Catherine always is very generous."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t have to work on Saturdays. (usually)",
+      "questionType": "text",
+      "answers": [
+        "I don’t usually have to work on Saturdays.",
+        "I usually don’t have to work on Saturdays."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you watch television in the evenings? (always)",
+      "questionType": "text",
+      "answers": [
+        "Do you always watch television in the evenings?",
+        "Do you watch always television in the evenings?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Martin is learning French. He is learning Italian. (also)",
+      "questionType": "text",
+      "answers": [
+        "Martin is learning French. He is also learning Italian.",
+        "Martin is learning French. He also is learning Italian."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "That hotel is very expensive. (probably)",
+      "questionType": "text",
+      "answers": [
+        "That hotel is probably very expensive.",
+        "That hotel probably is very expensive."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It costs a lot to stay there. (probably)",
+      "questionType": "text",
+      "answers": [
+        "It probably costs a lot to stay there.",
+        "It costs probably a lot to stay there."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can help you. (probably)",
+      "questionType": "text",
+      "answers": [
+        "I can probably help you.",
+        "I probably can help you."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t help you. (probably)",
+      "questionType": "text",
+      "answers": [
+        "I probably can’t help you.",
+        "I can’t probably help you."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ..................... her name.",
+      "questionType": "text",
+      "answers": [
+        "can never remember",
+        "never can remember"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ..................... sugar in coffee.",
+      "questionType": "text",
+      "answers": [
+        "usually take",
+        "take usually"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ..................... hungry when I get home from work.",
+      "questionType": "text",
+      "answers": [
+        "am usually",
+        "usually am"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where’s Jim? - He ..................... home early.",
+      "questionType": "text",
+      "answers": [
+        "has probably gone",
+        "probably has gone"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mark and Diane ..................... in Manchester.",
+      "questionType": "text",
+      "answers": [
+        "were both born",
+        "both were born"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Liz is a good pianist. She ..................... very well.",
+      "questionType": "text",
+      "answers": [
+        "can also sing",
+        "also can sing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Our car ..................... down.",
+      "questionType": "text",
+      "answers": [
+        "often breaks",
+        "breaks often"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "They live in the same street as me but I ..................... to them.",
+      "questionType": "text",
+      "answers": [
+        "have never spoken",
+        "never have spoken"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We ..................... a long time for the bus.",
+      "questionType": "text",
+      "answers": [
+        "always have to wait",
+        "have always to wait"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My sight isn’t very good. I ..................... with glasses.",
+      "questionType": "text",
+      "answers": [
+        "can only read",
+        "only can read"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I ..................... early tomorrow.",
+      "questionType": "text",
+      "answers": [
+        "will probably be leaving",
+        "probably will be leaving"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m afraid I ..................... able to come to the party.",
+      "questionType": "text",
+      "answers": [
+        "probably won’t be",
+        "won’t be probably"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s difficult to contact Sue. She ..................... at home when I phone her.",
+      "questionType": "text",
+      "answers": [
+        "is hardly ever",
+        "ever is hardly"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We ..................... in the same place. We haven’t moved.",
+      "questionType": "text",
+      "answers": [
+        "are still living",
+        "still are living"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If we hadn’t taken the same train, we ..................... each other.",
+      "questionType": "text",
+      "answers": [
+        "would never have met",
+        "never would have met"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are you tired? - Yes, I ..................... at this time of day.",
+      "questionType": "text",
+      "answers": [
+        "Yes, I always am at this time of day.",
+        "Yes, I am always at this time of day."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

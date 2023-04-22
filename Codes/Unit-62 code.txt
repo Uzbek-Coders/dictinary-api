@@ -1,0 +1,315 @@
+{
+  "quizTitle": "Unit 62",
+  "questions": [
+    {
+      "question": "Shall we get a taxi home? - No, it isn’t far. It’s not worth ..................",
+      "questionType": "text",
+      "answers": [
+        "getting a taxi.",
+        "to get a taxi."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you need help, why don’t you ask Tom? - It’s no use .................. He won’t be able to help us.",
+      "questionType": "text",
+      "answers": [
+        "asking Tom.",
+        "to ask Tom."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I don’t really want to go out tonight. - Well, stay at home! There’s no point .................. if you don’t want to.",
+      "questionType": "text",
+      "answers": [
+        "in going out",
+        "to go out"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I phone Ann now? - No, it’s no good .................. She won’t be at home.",
+      "questionType": "text",
+      "answers": [
+        "phoning her now.",
+        "to phone her now."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Are you going to complain about what happened? - No, it’s not worth .................. Nobody will do anything about it.",
+      "questionType": "text",
+      "answers": [
+        "complaining.",
+        "to complain."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you ever read newspapers? - No. I think it’s a ..................",
+      "questionType": "text",
+      "answers": [
+        "waste of time reading newspapers.",
+        "waste of time to read newspapers."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The film isn’t very good. ..................",
+      "questionType": "text",
+      "answers": [
+        "It’s not worth seeing.",
+        "It’s not worth to see."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It would cost too much to repair this watch. It’s not worth ..................",
+      "questionType": "text",
+      "answers": [
+        "repairing.",
+        "to repair."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you have time, you should go to the museum. It’s worth ..................",
+      "questionType": "text",
+      "answers": [
+        "visiting.",
+        "visit."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s quite an interesting suggestion. ..................",
+      "questionType": "text",
+      "answers": [
+        "It’s worth considering.",
+        "It’s worth to consider."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s an interesting article in the paper today. ..................",
+      "questionType": "text",
+      "answers": [
+        "It’s worth reading.",
+        "It’s worth to read."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We can throw these old clothes away. They ..................",
+      "questionType": "text",
+      "answers": [
+        "They’re not worth keeping.",
+        "They’re not worth to keep."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why have a car if you never use it?",
+      "questionType": "text",
+      "answers": [
+        "There’s no point in having a car if you never use it.",
+        "There’s no point to have a car if you never use it."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t eat if you are not hungry.",
+      "questionType": "text",
+      "answers": [
+        "There’s no point in eating if you’re not hungry.",
+        "There’s no point to eat if you’re not hungry."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why work if you don’t need money?",
+      "questionType": "text",
+      "answers": [
+        "There’s no point in working if you don’t need money.",
+        "There’s no point to work if you don’t need money."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t study if you feel tired.",
+      "questionType": "text",
+      "answers": [
+        "There’s no point in studying if you feel tired.",
+        "There’s no point to study if you feel tired."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I managed to get a visa but it was difficult.",
+      "questionType": "text",
+      "answers": [
+        "I had difficulty getting a visa.",
+        "I had difficulty to get a visa."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I can’t remember people’s names.",
+      "questionType": "text",
+      "answers": [
+        "I have difficulty remembering people’s names.",
+        "I have difficulty to remember people’s names."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Lucy managed to get a job without difficulty.",
+      "questionType": "text",
+      "answers": [
+        "She had no difficulty getting a job.",
+        "She had no difficulty to get a job."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you find it difficult to understand him?",
+      "questionType": "text",
+      "answers": [
+        "Do you have difficulty understanding him?",
+        "Do you have difficulty to understand him?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It won’t be difficult to get a ticket for the concert.",
+      "questionType": "text",
+      "answers": [
+        "You won’t have any difficulty getting a ticket for the concert.",
+        "You won’t have any difficulty to get a ticket for the concert."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s a waste of money .................. things you don’t need.",
+      "questionType": "text",
+      "answers": [
+        "buying",
+        "to buy"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Every morning I spend about an hour .................. the newspaper.",
+      "questionType": "text",
+      "answers": [
+        "reading",
+        "to read"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "What’s Carol doing? - She’s busy .................. letters.",
+      "questionType": "text",
+      "answers": [
+        "writing",
+        "to write"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think you waste too much time .................. television.",
+      "questionType": "text",
+      "answers": [
+        "watching",
+        "to watch"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s a beautiful view from that hill. It is worth .................. to the top.",
+      "questionType": "text",
+      "answers": [
+        "climbing",
+        "to climb"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Barry lives by the sea and he’s got a boat, so he often ..................",
+      "questionType": "text",
+      "answers": [
+        "goes sailing.",
+        "goes to sail."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "There’s plenty of snow in the mountains so we’ll be able to ..................",
+      "questionType": "text",
+      "answers": [
+        "go skiing.",
+        "go to ski."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It was a very hot day, so we .................. in the river.",
+      "questionType": "text",
+      "answers": [
+        "went swimming",
+        "went to swim"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Margaret has got two horses. She often ..................",
+      "questionType": "text",
+      "answers": [
+        "goes riding.",
+        "goes to ride."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The shops are shut now. It’s too late to ..................",
+      "questionType": "text",
+      "answers": [
+        "go shopping.",
+        "go to shop."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

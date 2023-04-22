@@ -1,0 +1,295 @@
+{
+  "quizTitle": "Unit 12",
+  "questions": [
+    {
+      "question": "It’s raining. (how long?) (when?)",
+      "questionType": "text",
+      "answers": [
+        "How long has it been raining?\tWhen did it start raining?",
+        "How long is it raining? When has it started raining?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kate is learning Italian. (how long / learn?) (when / start / learn?) ",
+      "questionType": "text",
+      "answers": [
+        "How long has she been learning Italian? When did she start learning Italian?",
+        "How long is she learning Italian? When has she started learning Italian?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I know Martin. (how long / know?) (when / first / meet?)",
+      "questionType": "text",
+      "answers": [
+        "How long have you known Martin? When did you first meet him?",
+        "How long do you know Martin? When have you first met him?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Bob and Alice are married. (how long?) (when?)",
+      "questionType": "text",
+      "answers": [
+        "How long have they been married? When did they get married?",
+        "How long are they married? When have they got married?"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s raining now. It’s been raining since lunchtime.",
+      "questionType": "text",
+      "answers": [
+        "It started raining at lunchtime.",
+        "It has started raining at lunchtime."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Ann and I are friends. We first met years ago.",
+      "questionType": "text",
+      "answers": [
+        "We’ve known each other for years.",
+        "We know each other for years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mark is sick. He became sick on Sunday.",
+      "questionType": "text",
+      "answers": [
+        "He has been sick since Sunday.",
+        "He is sick since Sunday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Mark is sick. He became sick a few days ago.",
+      "questionType": "text",
+      "answers": [
+        "He has been sick for a few days.",
+        "He is sick for a few days."
+      ],
+      "point": "1",
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Sarah is married. She’s been married for two years.",
+      "questionType": "text",
+      "answers": [
+        "She got married two years ago.",
+        "She has got married two years ago."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’ve got a camera. You bought it ten years ago.",
+      "questionType": "text",
+      "answers": [
+        "I’ve had this camera for ten years.",
+        "I have this camera for ten years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sue has been in France for the last three weeks.",
+      "questionType": "text",
+      "answers": [
+        "She went to France three weeks ago.",
+        "She has gone to France three weeks ago."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "You’re working in a hotel. You started in June.",
+      "questionType": "text",
+      "answers": [
+        "I’ve been working in a hotel since June.",
+        "I am working in a hotel since June."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "It’s been raining …….... lunchtime.",
+      "questionType": "text",
+      "answers": [
+        "since",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Tom’s father has been doing the same job …….... 20 years.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "since"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you been learning English …….... a long time?",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "since"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Sarah has lived in London …….... 1985.",
+      "questionType": "text",
+      "answers": [
+        "since",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "…….... Christmas, the weather has been quite good.",
+      "questionType": "text",
+      "answers": [
+        "Since",
+        "For"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Please hurry up! We’ve been waiting …….... an hour.",
+      "answers": [
+        "for",
+        "since"
+      ],
+      "questionType": "text",
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Kevin has been looking for a job …….... he left school.",
+      "questionType": "text",
+      "answers": [
+        "since",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The house is very dirty. We haven’t cleaned it …….... ages.",
+      "questionType": "text",
+      "answers": [
+        "for",
+        "since"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I haven’t had a good meal …….... last Tuesday.",
+      "questionType": "text",
+      "answers": [
+        "since",
+        "for"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often go on holiday? (no / five years)",
+      "questionType": "text",
+      "answers": [
+        "No, I haven’t had a holiday for five years.",
+        "No, I didn’t have a holiday for five years."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often eat in restaurants? (no / ages)",
+      "questionType": "text",
+      "answers": [
+        "No, I haven’t eaten in a restaurant for ages.",
+        "No, I didn’t eat in a restaurant for ages."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often see Sarah? (no / about a month)",
+      "questionType": "text",
+      "answers": [
+        "No, I haven’t seen her for about a month.",
+        "No, I didn’t see her for about a month."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often go to the cinema? (no / a long time)",
+      "questionType": "text",
+      "answers": [
+        "No, I haven’t been to the cinema for a long time.",
+        "No, I wasn’t to the cinema for a long time."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often go on holiday? (no / it’s...since... / five years)",
+      "questionType": "text",
+      "answers": [
+        "No, it’s five years since I had a holiday.",
+        "No, it’s been five years since I had a holiday."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often eat in restaurants? (no / it’s...since... / ages)",
+      "questionType": "text",
+      "answers": [
+        "No, it’s ages since I (last) ate in a restaurant.",
+        "No, it’s been ages since I (last) ate in a restaurant."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often see Sarah? (no / it’s...since... / about a month)",
+      "questionType": "text",
+      "answers": [
+        "No, it’s about a month since I (last) saw Sarah.",
+        "No, it’s been about a month since I (last) saw Sarah."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you often go to the cinema? (no / it’s...since... / a long time)",
+      "questionType": "text",
+      "answers": [
+        "No, it’s a long time since I (last) went to the cinema.",
+        "No, it’s been a long time since I (last) went to the cinema."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}

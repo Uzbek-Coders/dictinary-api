@@ -1,0 +1,305 @@
+{
+  "quizTitle": "Unit 54",
+  "questions": [
+    {
+      "question": "Do you want to go alone or ...........................?",
+      "questionType": "text",
+      "answers": [
+        "do you want me to come with you",
+        "do you want me coming with you"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Have you got enough money or do you want ...........................?",
+      "questionType": "text",
+      "answers": [
+        "do you want me to lend you some",
+        "do you want me lending you some"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Shall I leave the window open or would you ...........................?",
+      "questionType": "text",
+      "answers": [
+        "would you like me to shut it",
+        "would you like me shutting it"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Do you know how to use the machine or would ...........................?",
+      "questionType": "text",
+      "answers": [
+        "would you like me to show you",
+        "would you like me showing you"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Did you hear what I said or do ...........................?",
+      "questionType": "text",
+      "answers": [
+        "do you want me to repeat it",
+        "do you want me repeating it"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can I go now or do ...........................?",
+      "questionType": "text",
+      "answers": [
+        "do you want me to wait",
+        "do you want me waiting"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Lock the door. - OK.",
+      "questionType": "text",
+      "answers": [
+        "She told him to lock the door.",
+        "She told him locking the door."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Why don’t you come and stay with us? - That would be nice.",
+      "questionType": "text",
+      "answers": [
+        "They invited him to stay (with them) for a few days.",
+        "They invited him staying (with them) for a few days."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can I use your phone? - No!",
+      "questionType": "text",
+      "answers": [
+        "She wouldn’t let him use her phone.",
+        "She wouldn’t let him using her phone."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Be careful. - Don’t worry. I will.",
+      "questionType": "text",
+      "answers": [
+        "She warned him to be careful.",
+        "She warned him being careful."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Can you give me a hand? – Yes, of course.",
+      "questionType": "text",
+      "answers": [
+        "He asked her to give him a hand.",
+        "He asked her giving him a hand."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My father said I could use his car. My father allowed ...........................",
+      "questionType": "text",
+      "answers": [
+        "me to use his car.",
+        "me using his car."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was surprised that it rained. I didn’t expect ...........................",
+      "questionType": "text",
+      "answers": [
+        "it to rain.",
+        "it raining."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t stop him doing what he wants. Let him ...........................",
+      "questionType": "text",
+      "answers": [
+        "do what he wants.",
+        "doing what he wants."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "He looks older when he wears glasses. Glasses make ...........................",
+      "questionType": "text",
+      "answers": [
+        "him look older.",
+        "him looking older."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I think you should know the truth. I want you ...........................",
+      "questionType": "text",
+      "answers": [
+        "to know the truth.",
+        "knowing the truth."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Don’t let me forget to phone sister. Remind me ...........................",
+      "questionType": "text",
+      "answers": [
+        "to phone my sister.",
+        "phoning my sister."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "At first, I didn’t want to apply for the job but Sarah persuaded me.",
+      "questionType": "text",
+      "answers": [
+        "Sarah persuaded me to apply for the job.",
+        "Sarah persuaded me applying for the job."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "My lawyer said I shouldn’t say anything to the police. My lawyer advised me ...........................",
+      "questionType": "text",
+      "answers": [
+        "not to say anything to the police.",
+        "not saying anything to the police."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I was told that I shouldn’t believe everything he says. I was warned ...........................",
+      "questionType": "text",
+      "answers": [
+        "not to believe everything he says.",
+        "not believing everything he says."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "If you’ve got a car, you are able to travel round more easily. Having a car enables you ...........................",
+      "questionType": "text",
+      "answers": [
+        "to travel round more easily.",
+        "travelling round more easily."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She doesn’t allow ........................... in the house.",
+      "questionType": "text",
+      "answers": [
+        "smoking",
+        "to smoke"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’ve never been to Iceland but I’d like ........................... there.",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I’m in a difficult position. What do you advise me ...........................?",
+      "questionType": "text",
+      "answers": [
+        "to do",
+        "doing"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "She said the letter was personal and wouldn’t let me ........................... it.",
+      "questionType": "text",
+      "answers": [
+        "read",
+        "reading"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "We were kept at the police station for two hours and then we were allowed ...........................",
+      "questionType": "text",
+      "answers": [
+        "to go.",
+        "going."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Where would you recommend me ........................... for my holidays?",
+      "questionType": "text",
+      "answers": [
+        "to go",
+        "going"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "I wouldn’t recommend ........................... in that restaurant. The food is awful.",
+      "questionType": "text",
+      "answers": [
+        "eating",
+        "to eat"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "The film was very sad. It made me ...........................",
+      "questionType": "text",
+      "answers": [
+        "cry.",
+        "crying."
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    },
+    {
+      "question": "Carol’s parents always encouraged her ........................... hard at school. ",
+      "questionType": "text",
+      "answers": [
+        "to study",
+        "studying"
+      ],
+      "correctAnswer": "1",
+      "point": "1"
+    }
+  ]
+}
