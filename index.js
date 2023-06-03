@@ -1,6 +1,5 @@
 import 'dotenv/config'
 import express from 'express'
-import cors from 'cors'
 import mongoose from 'mongoose'
 import Error from './src/model/Error.js'
 import {
@@ -9,7 +8,6 @@ import {
     articleRoute
 } from "./src/routes/indexRoute.js"
 import { questionCreate, questionGet, questionGetID } from './src/controller/questionController.js'
-// import "./PDF.js";
 const PORT = process.env.PORT || 4000;
 const app = express();
 import { ReadPDF, CreatePDF, FindPDF } from './src/controller/pdfcontroller.js'

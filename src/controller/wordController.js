@@ -386,6 +386,7 @@ const valuesEngUzb = async (req, res) => {
   try {
     let words = await eng_uzb.find();
     const arr = [];
+    console.log("Value")
     await words.map((i) => arr.push(i["word"]));
     res.send(arr)
   } catch (e) {
