@@ -16,14 +16,13 @@ import { ReadPDF, CreatePDF, FindPDF } from './src/controller/pdfcontroller.js'
 
 app.get('/file/create', CreatePDF)
 // Middlewares
-app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.get('/', (req, res) => res.sendStatus(200)) // Server Status
 app.use(routes)
-app.use('/auth', authRoute)
+app.use('/auth', authRou
 app.get('/file/get/:id', FindPDF)
 app.get('/file/get', ReadPDF)
 app.get("/question/get", questionGet)
@@ -31,7 +30,7 @@ app.get("/question/get", questionGetID)
 app.post("/question/create", questionCreate)
 app.get("/question/get/:id", questionGetID)
 app.use('/api/v1/blog', articleRoute)
-
+mongoose.set('strictQuery', false);
 // Database connection and running server
 try {
     (async () => {
