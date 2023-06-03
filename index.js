@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 // Routes
 app.get('/', (req, res) => res.sendStatus(200)) // Server Status
 app.use(routes)
-app.use('/auth', authRou
+app.use('/auth', authRoute)
 app.get('/file/get/:id', FindPDF)
 app.get('/file/get', ReadPDF)
 app.get("/question/get", questionGet)
