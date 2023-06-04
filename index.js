@@ -28,6 +28,10 @@ app.get("/question/get", questionGetID)
 app.post("/question/create", questionCreate)
 app.get("/question/get/:id", questionGetID)
 app.use('/api/v1/blog', articleRoute)
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  next();
+});
 mongoose.set('strictQuery', false);
 // Database connection and running server
 try {
