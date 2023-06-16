@@ -1,1 +1,1 @@
-ÿþ
+Dictionary API for leksika.uz
