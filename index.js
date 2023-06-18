@@ -2,6 +2,7 @@ import 'dotenv/config'
 import express from 'express'
 import mongoose from 'mongoose'
 import Error from './src/model/Error.js'
+import cors from "cors"
 import {
     routes,
     authRoute,
@@ -16,7 +17,9 @@ app.get('/file/create', CreatePDF)
 // Middlewares
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
-
+app.use(cors({
+    origin: '*'
+}));
 // Routes
 app.get('/', (req, res) => res.sendStatus(200)) // Server Status
 app.use(routes)
